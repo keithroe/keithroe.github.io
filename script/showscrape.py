@@ -29,7 +29,7 @@ html_template = '''
           font-size:large; 
       }
       a {
-          text-decoration: none;
+          /*text-decoration: none;*/
       }
       a:link {
           color:silver;
