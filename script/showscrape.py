@@ -1,0 +1,376 @@
+#!/usr/bin/env python3
+import re 
+import itertools
+import requests
+from bs4 import BeautifulSoup
+
+################################################################################
+#
+# html template 
+#
+################################################################################
+
+html_template = '''
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>slcshows</title>
+    <style>
+      body {
+          background-color:black;
+          color:silver;
+          font-family:"Courier New";
+          font-size:large; 
+      }
+      a {
+          text-decoration: none;
+      }
+      a:link {
+          color:silver;
+      }
+      a:visited {
+          color:gray;
+      }
+      tr td{
+          max-width: 48ch;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+      }
+   </style>
+  </head>
+  <body>
+    <main>
+        <p>---</p>  
+        <table id=events_table></table>
+    </main>
+  </body>
+</html>
+'''
+
+
+url_state_room = "https://thestateroompresents.com/state-room-presents"
+url_template_24tix = 'https://www.24tix.com/?batch_page={}'
+
+
+################################################################################
+#
+# Show data
+#
+################################################################################
+
+import functools
+from datetime import datetime
+
+class Show:
+
+    @functools.total_ordering
+    class Date():
+        def __init__(self, month, day):
+            self.month = month
+            self.day = day
+
+        def __repr__(self):
+            return f"{month_int_to_str(self.month)} {self.day:02d}"
+
+        def __eq__(self, other):
+            if not isinstance(other, Show.Date):
+                return False
+            return self.month == other.month and self.day == other.day
+
+        def __lt__(self, other):
+            if not isinstance(other, Show.Date):
+                return False
+
+            # TODO: cache this
+            cur_month = datetime.now().month
+
+            adjusted_self_month = self.month if self.month >= cur_month else self.month+12
+            adjusted_other_month = other.month if other.month >= cur_month else other.month+12
+            return ((adjusted_self_month <  adjusted_other_month) or 
+                    (adjusted_self_month == adjusted_other_month and self.day < other.day)) 
+
+
+    def __init__(self, artist, date, city, venue, url):
+        self.artist = artist
+        self.date = date
+        self.city = city
+        self.venue = venue
+        self.ticket_url = url
+        
+    def __eq__(self, other):
+        return self.date == other.date and self.artist == other.artist
+
+    def __lt__(self, other):
+        return self.date < other.date
+    
+    def __hash__(self):
+        return hash((self.artist, self.date.month, self.date.day, self.city, self.venue))
+
+
+################################################################################
+#
+# util 
+#
+################################################################################
+
+def get_html(url):
+    try: 
+        response = requests.get(url)
+        return BeautifulSoup(response.content, "html.parser")
+
+    except requests.exceptions.RequestException as e:
+        print(f"Request failed for url '{url}': {e}")
+        return None
+
+def month_str_to_int(month_str):
+    month_str = month_str.lower()
+    if month_str.startswith('ja'):
+        return 1
+    elif month_str.startswith('f'):
+        return 2
+    elif month_str.startswith('mar'):
+        return 3
+    elif month_str.startswith('ap'):
+        return 4
+    elif month_str.startswith('may'):
+        return 5
+    elif month_str.startswith('jun'):
+        return 6
+    elif month_str.startswith('jul'):
+        return 7
+    elif month_str.startswith('au'):
+        return 8
+    elif month_str.startswith('s'):
+        return 9
+    elif month_str.startswith('o'):
+        return 10 
+    elif month_str.startswith('n'):
+        return 11 
+    elif month_str.startswith('d'):
+        return 12 
+    else:
+        return -1
+
+def month_int_to_str(month_int):
+    month_strs = [
+        "jan",
+        "feb",
+        "mar",
+        "apr",
+        "may",
+        "jun",
+        "jul",
+        "aug",
+        "sep",
+        "oct",
+        "nov",
+        "dec"
+    ]
+    return month_strs[month_int-1]
+
+
+def generate_html(shows):
+    shows = sorted(list(set(shows)))
+    soup = BeautifulSoup(html_template, "html.parser")
+    table = soup.find("table")
+    with open("index.html", "w", encoding='utf-8') as file:
+        last_date = None
+        for show in shows:
+            row = soup.new_tag("tr")
+
+            # date
+            if last_date == show.date:
+                row.append(BeautifulSoup(f"<td></td>", "html.parser"))
+            else:
+                last_date = show.date
+                row.append(BeautifulSoup(f"<pre><td>{show.date}&nbsp;&nbsp;</td></pre>", "html.parser"))
+
+            # artist
+            row.append(BeautifulSoup(f"<td><a href=\"{show.ticket_url}\">{show.artist}</a></td>", "html.parser"))
+
+            # city
+            row.append(BeautifulSoup("<pre><td>&nbsp;&nbsp;</td></pre>", "html.parser"))
+            row.append(BeautifulSoup(f"<td>{show.city.lower()}</td>", "html.parser"))
+
+            # venue
+            row.append(BeautifulSoup("<pre><td>&nbsp;&nbsp;</td></pre>", "html.parser"))
+            row.append(BeautifulSoup(f"<td>{show.venue.lower()}</td>", "html.parser"))
+
+            table.append(row)
+        file.write(soup.prettify())
+
+################################################################################
+#
+# 24Tix 
+#
+################################################################################
+
+#'Thu, Feb 13 / 07:00PM'
+date_re = re.compile("[a-zA-Z]+,\s+([a-zA-Z]+)\s+(\d+).+")
+
+def parse_city_24tix(city_str):
+    city_state = city_str.split(',')
+    city_state = [x.strip() for x in city_state]
+    #city = ", ".join(city_state) #INFO: if we want to include state ....
+    city = city_state[0]
+    city = city.lower()
+    city = city.replace("salt lake city", "slc")
+    return city
+
+def parse_date_24tix(date_str):
+    m = date_re.match(date_str)
+    if m:
+        month_str = m.groups()[0]
+        day_str = m.groups()[1]
+        return (month_str_to_int(month_str), int(day_str)) 
+    else:
+        print(f"WARN: Failed to regex match 24tix date str '{date_str}'")
+        return (-1, -1) 
+
+
+def process_24tix():
+    shows = []
+    for i in itertools.count(start=1):
+        url = url_template_24tix.format(i)
+        print(f"Trying url '{url}'")
+        soup = get_html(url)
+        
+        html_events = soup.find_all("div", class_="card-body event-body")
+        
+        if html_events:
+            for html_event in html_events:
+                link = html_event.find("a")
+                artist = link.getText().strip()
+                ticket_url = link['href']
+
+                date = parse_date_24tix(html_event.find("div", class_="event-start").getText().strip())
+
+                venue_block = html_event.find("div", class_="event-venue mt-3")
+                venue = venue_block.find("h6").getText().strip()
+                city = parse_city_24tix(venue_block.find("small").getText().strip())
+                shows.append(
+                    Show(
+                        artist, 
+                        Show.Date(date[0], date[1]),
+                        city,
+                        venue,
+                        ticket_url
+                    )
+                )
+                #print(f"'{artist}' '{date}' '{venue}' '{city}'")
+
+        else:
+            print(f"Batch {i} failed") 
+            break
+
+    return shows 
+
+################################################################################
+#
+# state room presents 
+#
+################################################################################
+'''
+<div class="allevents-event my-3 shadow col col-sm-4">
+    <div class="allevents-img">
+        <a href="/state-room-presents/pigeons-playing-ping-pong-3">
+            <span class="acfup-item">
+                <img src="https://thestateroompresents.com/images/acfupload/Pigeons-Playing-Ping-Pong_03-11-2025_v2_Facebook_1200x628.jpg"/>
+            </span>
+        </a>
+    </div>
+    <div class="p-3">
+        <h3 class="allevents-title">
+            <a href="/state-room-presents/pigeons-playing-ping-pong-3">Pigeons Playing Ping Pong</a>
+        </h3>
+        <div class="allevents-date">
+	        Tue Mar 11
+        </div>
+        <div class="allevents-venue2">
+            The Commonwealth Room
+        </div>
+        <div class="allevents-link">
+            <a id="acf_url_1307_11" href="https://www.axs.com/events/751925/pigeons-playing-ping-pong-tickets?skin=stateroom" class="acf_url btn" target="_blank" rel="noopener">
+                On Sale Fri 11/15
+            </a>
+        </div>
+    </div>
+</div>
+'''
+
+def parse_date_stateroom(date_str):
+    date_tuple = date_str.split()
+    return (month_str_to_int(date_tuple[1]), int(date_tuple[2])) 
+
+def query_city_stateroom(venue_str):
+    venue_str = venue_str.lower()
+    if "presents" in venue_str:
+        return "slc?"
+    elif "commonwealth" in venue_str:
+        return "slc"
+    elif "deer" in venue_str:
+        return "park city"
+    elif "eccles" in venue_str:
+        return "slc"
+    elif "state" in venue_str:
+        return "slc"
+    else:
+        return "slc?"
+
+# TODO: validate all fields, have sensible fallbacks for missing fields
+
+def process_state_room():
+    shows = []
+    soup = get_html(url_state_room)
+    html_events = soup.find_all("div", class_="p-3")
+
+    if html_events:
+        for html_event in html_events:
+            title_h3 = html_event.find("h3", class_="allevents-title")
+            if not title_h3:
+                continue
+            artist = title_h3.find("a").getText().strip()
+
+            link_div = html_event.find("div", class_="allevents-link")
+            link_a = link_div.find("a")
+            ticket_url = link_a["href"] if link_a else ""
+            
+            date_div = html_event.find("div", class_="allevents-date")
+            date = parse_date_stateroom(date_div.getText().strip())
+
+            venue_div = html_event.find("div", class_="allevents-venue2")
+            venue = venue_div.getText().strip()
+            city = query_city_stateroom(venue)
+
+            shows.append(
+                Show(
+                    artist, 
+                    Show.Date(date[0], date[1]),
+                    city,
+                    venue,
+                    ticket_url
+                )
+            )
+            print(f"'{artist}' '{date}' '{venue}' '{city}'")
+
+    else:
+        print(f"{url_state_room} failed") 
+
+    return shows 
+
+
+################################################################################
+#
+# main 
+#
+################################################################################
+
+
+shows  = process_24tix()
+shows += process_state_room()
+generate_html(shows)
+
