@@ -73,8 +73,16 @@ class Show:
     @functools.total_ordering
     class Date():
         def __init__(self, month, day):
-            self.month = month
-            self.day = day
+            if month < 0 or month > 12:
+                print(f"WARN: invalid month in ctor ({month})")
+                self.month = 0
+            else:
+                self.month = month
+            if day < 0 or day > 31:
+                print(f"WARN: invalid day in ctor ({day})")
+                self.day = 0
+            else:
+                self.day = day
 
         def __repr__(self):
             return f"{month_int_to_str(self.month)} {self.day:02d}"
@@ -99,10 +107,24 @@ class Show:
 
     def __init__(self, artist, date, city, venue, url):
         self.artist = artist
-        self.date = date
-        self.city = city
-        self.venue = venue
-        self.ticket_url = url
+        if not date:
+            self.date = ""
+        else:
+            self.date = date
+        if not city:
+            self.city = ""
+        else:
+            self.city = city
+        if not venue:
+            self.venue = ""
+        else:
+            self.venue = venue
+
+        if not url:
+            self.ticket_url = ""
+        else:
+            self.ticket_url = url
+
         
     def __eq__(self, other):
         return self.date == other.date and self.artist == other.artist
@@ -160,6 +182,7 @@ def month_str_to_int(month_str):
 
 def month_int_to_str(month_int):
     month_strs = [
+        "???",
         "jan",
         "feb",
         "mar",
@@ -173,7 +196,7 @@ def month_int_to_str(month_int):
         "nov",
         "dec"
     ]
-    return month_strs[month_int-1]
+    return month_strs[month_int]
 
 
 def generate_html(shows):
@@ -193,7 +216,10 @@ def generate_html(shows):
                 row.append(BeautifulSoup(f"<pre><td>{show.date}&nbsp;&nbsp;</td></pre>", "html.parser"))
 
             # artist
-            row.append(BeautifulSoup(f"<td><a href=\"{show.ticket_url}\">{show.artist}</a></td>", "html.parser"))
+            if show.ticket_url:
+                row.append(BeautifulSoup(f"<td><a href=\"{show.ticket_url}\">{show.artist}</a></td>", "html.parser"))
+            else:
+                row.append(BeautifulSoup(f"<td>{show.artist}</td>", "html.parser"))
 
             # city
             row.append(BeautifulSoup("<pre><td>&nbsp;&nbsp;</td></pre>", "html.parser"))
@@ -232,28 +258,46 @@ def parse_date_24tix(date_str):
         return (month_str_to_int(month_str), int(day_str)) 
     else:
         print(f"WARN: Failed to regex match 24tix date str '{date_str}'")
-        return (-1, -1) 
+        return (0,0) 
 
 
 def process_24tix():
+    print("processing 24tix ...")
     shows = []
+    pages_processed = 0
     for i in itertools.count(start=1):
         url = url_template_24tix.format(i)
-        print(f"Trying url '{url}'")
+        #print(f"Trying url '{url}'")
         soup = get_html(url)
         
         html_events = soup.find_all("div", class_="card-body event-body")
         
         if html_events:
+            pages_processed += 1
             for html_event in html_events:
                 link = html_event.find("a")
+                if not link:
+                    print(f"WARN: Failed to find 24tix artist link")
+                    continue
                 artist = link.getText().strip()
-                ticket_url = link['href']
+                ticket_url = link.get('href')
 
-                date = parse_date_24tix(html_event.find("div", class_="event-start").getText().strip())
+                date_div =  html_event.find("div", class_="event-start")
+                if not date_div:
+                    print(f"WARN: Failed to find 24tix date div")
+                    date = (0,0) 
+                else:
+                    date = parse_date_24tix(date_div.getText().strip())
 
                 venue_block = html_event.find("div", class_="event-venue mt-3")
-                venue = venue_block.find("h6").getText().strip()
+                if not venue_block:
+                    print(f"WARN: Failed to find 24tix venue block")
+                else:
+                    venue_header = venue_block.find("h6")
+                    if not venue_header:
+                        print(f"WARN: Failed to find 24tix venue block header")
+                    else:
+                        venue = venue_header.getText().strip()
                 city = parse_city_24tix(venue_block.find("small").getText().strip())
                 shows.append(
                     Show(
@@ -267,9 +311,11 @@ def process_24tix():
                 #print(f"'{artist}' '{date}' '{venue}' '{city}'")
 
         else:
-            print(f"Batch {i} failed") 
+            print(f"\tBatch {i} failed") 
             break
 
+    print(f"\tpages processed: {pages_processed}")
+    print(f"\tshows found: {len(shows)}")
     return shows 
 
 ################################################################################
@@ -327,6 +373,7 @@ def query_city_stateroom(venue_str):
 # TODO: validate all fields, have sensible fallbacks for missing fields
 
 def process_state_room():
+    print("processing state room presents ...")
     shows = []
     soup = get_html(url_state_room)
     html_events = soup.find_all("div", class_="p-3")
@@ -339,11 +386,15 @@ def process_state_room():
             artist = title_h3.find("a").getText().strip()
 
             link_div = html_event.find("div", class_="allevents-link")
-            link_a = link_div.find("a")
-            ticket_url = link_a["href"] if link_a else ""
+            if link_div:
+                link_a = link_div.find("a")
+                ticket_url = link_a["href"] if link_a else ""
             
             date_div = html_event.find("div", class_="allevents-date")
-            date = parse_date_stateroom(date_div.getText().strip())
+            if date_div:
+                date = parse_date_stateroom(date_div.getText().strip())
+            else:
+                date = (0,0) 
 
             venue_div = html_event.find("div", class_="allevents-venue2")
             venue = venue_div.getText().strip()
@@ -358,11 +409,12 @@ def process_state_room():
                     ticket_url
                 )
             )
-            print(f"'{artist}' '{date}' '{venue}' '{city}'")
+            #print(f"'{artist}' '{date}' '{venue}' '{city}'")
 
     else:
         print(f"{url_state_room} failed") 
 
+    print(f"\tshows found: {len(shows)}")
     return shows 
 
 
