@@ -55,8 +55,6 @@ html_template = '''
 '''
 
 
-url_state_room = "https://thestateroompresents.com/state-room-presents"
-url_template_24tix = 'https://www.24tix.com/?batch_page={}'
 
 
 ################################################################################
@@ -238,6 +236,7 @@ def generate_html(shows):
 #
 ################################################################################
 
+
 #'Thu, Feb 13 / 07:00PM'
 date_re = re.compile("[a-zA-Z]+,\s+([a-zA-Z]+)\s+(\d+).+")
 
@@ -263,6 +262,8 @@ def parse_date_24tix(date_str):
 
 def process_24tix():
     print("processing 24tix ...")
+    url_template_24tix = 'https://www.24tix.com/?batch_page={}'
+
     shows = []
     pages_processed = 0
     for i in itertools.count(start=1):
@@ -374,6 +375,8 @@ def query_city_stateroom(venue_str):
 
 def process_state_room():
     print("processing state room presents ...")
+    url_state_room = "https://thestateroompresents.com/state-room-presents"
+
     shows = []
     soup = get_html(url_state_room)
     html_events = soup.find_all("div", class_="p-3")
@@ -420,6 +423,75 @@ def process_state_room():
 
 ################################################################################
 #
+# The Complex 
+#
+################################################################################
+
+'''
+<div class="content">
+    <a href="https://www.thecomplexslc.com/event-2562.htm" class="image-link" title="Mark Ambor - The Rockwood Tour">
+        <h3>Mark Ambor - The Rockwood Tour</h3>
+        <h4>Tuesday Nov 19th</h4>
+        <h4>The Grand</h4>
+        <p>Indie</p>
+    </a>
+</div>
+'''
+
+def parse_date_the_complex(date_str):
+    date_re = re.compile("[a-zA-Z]+\s+([a-zA-Z]+)\s+(\d+).+")
+    m = date_re.match(date_str)
+    if m:
+        month_str = m.groups()[0]
+        day_str = m.groups()[1]
+        return (month_str_to_int(month_str), int(day_str)) 
+    else:
+        print(f"WARN: Failed to regex match The Complex date str '{date_str}'")
+        return (0,0) 
+
+
+def process_the_complex():
+    
+    print("processing the complex ...")
+    shows = []
+    url_the_complex = "https://www.thecomplexslc.com/"
+    
+    soup = get_html(url_the_complex)
+    html_events = soup.find_all("a", class_="image-link")
+    if html_events:
+        for html_event in html_events:
+            artist = html_event.get('title')
+            if not artist:
+                print("\tWARN: failed to find event title")
+                continue
+            ticket_url = html_event.get('href') 
+            date_header = html_event.find('h4')
+            if date_header:
+                date = parse_date_the_complex(date_header.getText().strip())
+            else:
+                date = (0,0) 
+
+            venue = "the complex"
+            city = "slc"
+
+            print(f"'{artist}' '{date}' '{venue}' '{city}'")
+            shows.append(
+                Show(
+                    artist, 
+                    Show.Date(date[0], date[1]),
+                    city,
+                    venue,
+                    ticket_url
+                )
+            )
+
+    else:
+        print(f"{url_the_complex} failed") 
+
+    return shows 
+
+################################################################################
+#
 # main 
 #
 ################################################################################
@@ -427,5 +499,6 @@ def process_state_room():
 
 shows  = process_24tix()
 shows += process_state_room()
+shows += process_the_complex()
 generate_html(shows)
 
