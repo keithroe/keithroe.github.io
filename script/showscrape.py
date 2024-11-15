@@ -699,6 +699,113 @@ def process_aces_high():
 
 ################################################################################
 #
+# the union 
+#
+################################################################################
+import urllib.parse
+
+'''
+<div class="eventlist-column-info">
+  <h1 class="eventlist-title">
+    <a href="/upcomingevents/finneas" class="eventlist-title-link">
+      FINNEAS - For Cryin' Out Loud!: The Tour
+    </a>
+  </h1>
+  <ul class="eventlist-meta event-meta">
+    <li class="eventlist-meta-item eventlist-meta-date event-meta-item">
+      <time class="event-date" datetime="2025-03-02">Sunday, March 2, 2025</time>
+    </li>
+    <li class="eventlist-meta-item eventlist-meta-time event-meta-item">
+      <span class="event-time-12hr">
+        <time class="event-time-12hr-start" datetime="2025-03-02">6:30 PM</time>
+        <span class="event-datetime-divider"></span>
+        <time class="event-time-12hr-end" datetime="2025-03-02">10:30 PM</time>
+      </span>
+      <span class="event-time-24hr">
+        <time class="event-time-24hr-start" datetime="2025-03-02">18:30</time>
+        <span class="event-datetime-divider"></span>
+        <time class="event-time-12hr-end" datetime="2025-03-02">22:30</time>
+      </span>
+    </li>
+      <li class="eventlist-meta-item eventlist-meta-address event-meta-item">
+          The Union Event Center
+        <a href="http://maps.google.com?q=235 North 500 West Salt Lake City, Utah, 84116 United States" class="eventlist-meta-address-maplink" target="_blank">(map)</a>
+      </li>
+    <li class="eventlist-meta-item eventlist-meta-export event-meta-item">
+      <a href="http://www.google.com/calendar/event?action=TEMPLATE&text=FINNEAS%20-%20For%20Cryin%27%20Out%20Loud%21%3A%20The%20Tour&dates=20250303T013000Z/20250303T053000Z&location=235%20North%20500%20West%2C%20Salt%20Lake%20City%2C%20Utah%2C%2084116%2C%20United%20States" class="eventlist-meta-export-google">Google Calendar</a>
+      <span class="eventlist-meta-export-divider"></span>
+      <a href="/upcomingevents/finneas?format=ical" class="eventlist-meta-export-ical">ICS</a>
+    </li>
+  </ul>
+  <div class="eventlist-excerpt"><p class=""><strong>ALL AGES</strong></p></div>
+  <a href="/upcomingevents/finneas" class="eventlist-button sqs-button-element--primary">
+    View Event &#8594;
+  </a>
+  <div class="eventlist-actions">
+    <span class="sqs-simple-like" data-item-id="66fec350d7a785280bdefe8e" data-like-count="0">
+      <span class="like-icon"></span>
+      <span class="like-count"></span>
+    </span>
+    <span class="squarespace-social-buttons inline-style" data-system-data-id="1728408791646-BGQO7U76G82Q40JHBM35" data-asset-url="https://images.squarespace-cdn.com/content/v1/5a48752132601ea2c0890ed8/1728408791646-BGQO7U76G82Q40JHBM35/Static_Social-Instagram_1080x1080_Finneas_2025_Regional_TheUnionEventCenter_0302.jpg" data-record-type="12" data-full-url="/upcomingevents/finneas" data-title="FINNEAS - For Cryin' Out Loud!: The Tour">
+    </span>
+  </div>
+</div>
+'''
+
+def parse_date_the_union(date_str):
+    tokens = date_str.split('-')
+    month_str = tokens[1]
+    day_str = tokens[2]
+    return (int(month_str), int(day_str)) 
+
+
+def process_the_union():
+    
+    print("processing the union ...")
+    shows = []
+    url_the_union = "https://theunioneventcenter.com/"
+    
+    soup = get_html(url_the_union)
+    html_events = soup.find_all("div", class_="eventlist-column-info")
+    if html_events:
+        for html_event in html_events:
+            link = html_event.find('a')
+            if not link:
+                print("\tWARN: failed to find event link")
+                continue
+            artist = link.getText().strip()
+            relative_url = link.get('href')
+            ticket_url = urllib.parse.urljoin(url_the_union, relative_url)  
+
+            time = html_event.find('time')
+            if time:
+                date_str = time.get('datetime')
+                date = parse_date_the_union(date_str)
+            else:
+                date = (0,0)
+
+            venue = "the union"
+            city = "slc"
+
+            print(f"'{artist}' '{date}' '{venue}' '{city}'")
+            shows.append(
+                Show(
+                    artist, 
+                    Show.Date(date[0], date[1]),
+                    city,
+                    venue,
+                    ticket_url
+                )
+            )
+    else:
+        print(f"{url_the_union} failed") 
+
+    print(f"\tshows found: {len(shows)}")
+    return shows 
+
+
+################################################################################
+#
 # main 
 #
 ################################################################################
@@ -710,5 +817,6 @@ shows += process_state_room()
 shows += process_the_complex()
 shows += process_the_depot()
 shows += process_aces_high()
+shows += process_the_union()
 generate_html(shows)
 
