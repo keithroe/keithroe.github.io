@@ -338,7 +338,7 @@ def process_24tix():
             <a href="/state-room-presents/pigeons-playing-ping-pong-3">Pigeons Playing Ping Pong</a>
         </h3>
         <div class="allevents-date">
-	        Tue Mar 11
+            Tue Mar 11
         </div>
         <div class="allevents-venue2">
             The Commonwealth Room
@@ -474,7 +474,7 @@ def process_the_complex():
             venue = "the complex"
             city = "slc"
 
-            print(f"'{artist}' '{date}' '{venue}' '{city}'")
+            #print(f"'{artist}' '{date}' '{venue}' '{city}'")
             shows.append(
                 Show(
                     artist, 
@@ -599,6 +599,106 @@ def process_the_depot():
 
 ################################################################################
 #
+# aces high 
+#
+################################################################################
+
+'''
+<div  class="tribe-common-g-row tribe-events-calendar-list__event-row" >
+    <div class="tribe-events-calendar-list__event-date-tag tribe-common-g-col">
+        <time class="tribe-events-calendar-list__event-date-tag-datetime" datetime="2024-12-05" aria-hidden="true">
+            <span class="tribe-events-calendar-list__event-date-tag-weekday">
+                Thu        
+            </span>
+            <span class="tribe-events-calendar-list__event-date-tag-daynum tribe-common-h5 tribe-common-h4--min-medium">
+                5
+            </span>
+        </time>
+    </div>
+
+    <div class="tribe-events-calendar-list__event-wrapper tribe-common-g-col">
+        <article  class="tribe-events-calendar-list__event tribe-common-g-row tribe-common-g-row--gutters post-23925 tribe_events type-tribe_events status-publish hentry" >
+            <div class="tribe-events-calendar-list__event-details tribe-common-g-col">
+                <header class="tribe-events-calendar-list__event-header">
+                    <div class="tribe-events-calendar-list__event-datetime-wrapper tribe-common-b2">
+                        <time class="tribe-events-calendar-list__event-datetime" datetime="2024-12-05">
+                            <span class="tribe-event-date-start">December 5 @ 8:00 pm</span> 
+                            - 
+                            <span class="tribe-event-time">11:59 pm</span>
+                            <span class='timezone'> MST </span>
+                        </time>
+                    </div>
+                    <h3 class="tribe-events-calendar-list__event-title tribe-common-h6 tribe-common-h4--min-medium">
+                        <a
+                            href="https://aceshighsaloon.com/event/public-serpent/"
+                            title="Public Serpent"
+                            rel="bookmark"
+                            class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin"
+                        >
+                             Public Serpent    
+                        </a>
+                    </h3>
+                </header>
+            </div>
+        </article>
+    </div>
+</div>
+'''
+
+def parse_date_aces_high(date_str):
+    tokens = date_str.split()
+    month_str = tokens[0] 
+    day_str = tokens[1]
+    return (month_str_to_int(month_str), int(day_str)) 
+
+
+def process_aces_high():
+    
+    print("processing aces_high ...")
+    shows = []
+    url_aces_high = "https://aceshighsaloon.com/events/list/"
+    
+    soup = get_html(url_aces_high)
+    html_events = soup.find_all("header", class_="tribe-events-calendar-list__event-header")
+    if html_events:
+        for html_event in html_events:
+
+            link = html_event.find('a')
+            if not link:
+                print("\tWARN: failed to find event link")
+                continue
+
+            ticket_url = link.get('href') 
+            artist = link.getText().strip()
+
+            date_span = html_event.find('span', class_="tribe-event-date-start")
+            if date_span:
+                date = parse_date_aces_high(date_span.getText().strip())
+            else:
+                date = (0,0) 
+
+            venue = "aces high"
+            city = "slc"
+
+            #print(f"'{artist}' '{date}' '{venue}' '{city}'")
+            shows.append(
+                Show(
+                    artist, 
+                    Show.Date(date[0], date[1]),
+                    city,
+                    venue,
+                    ticket_url
+                )
+            )
+
+    else:
+        print(f"{url_aces_high} failed") 
+
+    print(f"\tshows found: {len(shows)}")
+    return shows 
+
+################################################################################
+#
 # main 
 #
 ################################################################################
@@ -609,5 +709,6 @@ shows += process_24tix()
 shows += process_state_room()
 shows += process_the_complex()
 shows += process_the_depot()
+shows += process_aces_high()
 generate_html(shows)
 
