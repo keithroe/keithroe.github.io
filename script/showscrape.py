@@ -96,9 +96,16 @@ class Show:
 
             # TODO: cache this
             cur_month = datetime.now().month
+            cur_day = datetime.now().day
 
-            adjusted_self_month = self.month if self.month >= cur_month else self.month+12
-            adjusted_other_month = other.month if other.month >= cur_month else other.month+12
+            adjusted_self_month = self.month if (
+                    (self.month > cur_month) or 
+                    (self.month == cur_month and self.day >= cur_day)
+                ) else self.month+12
+            adjusted_other_month = other.month if (
+                    (other.month > cur_month) or 
+                    (other.month == cur_month and other.day >= cur_day)
+                ) else other.month+12
             return ((adjusted_self_month <  adjusted_other_month) or 
                     (adjusted_self_month == adjusted_other_month and self.day < other.day)) 
 
@@ -787,7 +794,7 @@ def process_the_union():
             venue = "the union"
             city = "slc"
 
-            print(f"'{artist}' '{date}' '{venue}' '{city}'")
+            #print(f"'{artist}' '{date}' '{venue}' '{city}'")
             shows.append(
                 Show(
                     artist, 
