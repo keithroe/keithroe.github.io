@@ -149,7 +149,32 @@ class Show:
 
 def get_html(url):
     try: 
-        response = requests.get(url)
+        headers = {
+            'authority': 'www.google.com',
+            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+            'accept-language': 'en-US,en;q=0.9',
+            'cache-control': 'max-age=0',
+            #'cookie': 'SID=ZAjX93QUU1NMI2Ztt_dmL9YRSRW84IvHQwRrSe1lYhIZncwY4QYs0J60X1WvNumDBjmqCA.; __Secure- #..,
+            'sec-ch-ua': '"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"',
+            'sec-ch-ua-arch': '"x86"',
+            'sec-ch-ua-bitness': '"64"',
+            'sec-ch-ua-full-version': '"115.0.5790.110"',
+            'sec-ch-ua-full-version-list': '"Not/A)Brand";v="99.0.0.0", "Google Chrome";v="115.0.5790.110", "Chromium";v="115.0.5790.110"',
+            'sec-ch-ua-mobile': '?0',
+            'sec-ch-ua-model': '""',
+            'sec-ch-ua-platform': 'Windows',
+            'sec-ch-ua-platform-version': '15.0.0',
+            'sec-ch-ua-wow64': '?0',
+            'sec-fetch-dest': 'document',
+            'sec-fetch-mode': 'navigate',
+            'sec-fetch-site': 'same-origin',
+            'sec-fetch-user': '?1',
+            'upgrade-insecure-requests': '1',
+            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36',
+            'x-client-data': '#..',
+        }
+
+        response = requests.get(url, headers=headers)
         return BeautifulSoup(response.content, "html.parser")
 
     except requests.exceptions.RequestException as e:
@@ -810,6 +835,109 @@ def process_the_union():
     print(f"\tshows found: {len(shows)}")
     return shows 
 
+################################################################################
+#
+# soundwell 
+#
+################################################################################
+
+'''
+<div class="event-wrapper" >
+    <div class="event event-start-date">
+        <h4 class="date month">Nov</h4>
+        <h3 class="date number">22</h3>
+    </div>
+    <div class="event-image-container">
+        <a href="https://tixr.com/e/96551" class="event event-image" target="_blank">
+            <img src="https://soundwellslc.com/wp-content/uploads/2024/02/005_Matthew_Yoscary23-copy_600x600_acf_cropped-1.jpg" loading="lazy"/>
+        </a>
+    </div>
+    <div class="info">
+        <div class="event event-info">
+            <h3 class="event-name">HOMESHAKE</h3>
+            <h4 class="event-feature">GREEN-HOUSE</h4>
+            <p>
+                <br/>
+                <h4>
+                    <span class="event-feature event-age">AA</span>
+                    <span class="event-feature"> | Doors At </span>
+                    <span class="event-feature event-time">7:00 pm</span>
+                    <span class="event-feature event-price"> | $22+</span>
+                </h4>
+                <br/>
+            </p>
+            <div class="description">
+            </div>
+        </div>
+        <br/>
+        <div class="event event-tickets">
+            <a href="https://tixr.com/e/96551" class="button event-link on-sale" target="_blank">
+                GET TICKETS!                                                                                                                                                                                                                                <span></span>
+            </a>
+        </div>
+    </div>
+</div>
+'''
+
+def parse_date_soundwell(month_str, day_str):
+    return (month_str_to_int(month_str), int(day_str)) 
+
+
+def process_soundwell():
+    
+    print("processing soundwell ...")
+    shows = []
+    url_soundwell = "https://soundwellslc.com/events/"
+    
+    soup = get_html(url_soundwell)
+    html_events = soup.find_all("div", class_="event-wrapper")
+    if html_events:
+        for html_event in html_events:
+
+            name_header = html_event.find("h3", class_="event-name")
+            if not name_header:
+                print("\tWARN: failed to find event name")
+                continue
+            artist = name_header.getText().strip()
+
+            ticket_div= html_event.find("div", class_="event-tickets")
+            if ticket_div:
+                link = ticket_div.find('a')
+                if link:
+                    ticket_url = link.get('href')
+                else:
+                    ticket_url = None
+            else:
+                ticket_url = None 
+
+            date_div = html_event.find("div", class_="event-start-date")
+            if date_div:
+                month_str = date_div.find("h4").getText().strip()
+                day_str = date_div.find("h3").getText().strip()
+                date = parse_date_soundwell(month_str, day_str)
+            else:
+                date = (0,0) 
+
+            venue = "soundwell"
+            city = "slc"
+
+            #print(f"'{artist}' '{date}' '{venue}' '{city}'")
+            shows.append(
+                Show(
+                    artist, 
+                    Show.Date(date[0], date[1]),
+                    city,
+                    venue,
+                    ticket_url
+                )
+            )
+
+    else:
+        print(f"{url_soundwell} failed") 
+
+    print(f"\tshows found: {len(shows)}")
+    return shows 
+
 
 ################################################################################
 #
@@ -825,5 +953,6 @@ shows += process_the_complex()
 shows += process_the_depot()
 shows += process_aces_high()
 shows += process_the_union()
+shows += process_soundwell()
 generate_html(shows)
 
