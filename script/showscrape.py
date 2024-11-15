@@ -488,6 +488,113 @@ def process_the_complex():
     else:
         print(f"{url_the_complex} failed") 
 
+    print(f"\tshows found: {len(shows)}")
+    return shows 
+
+################################################################################
+#
+# the depot 
+#
+################################################################################
+
+'''
+<div class="chakra-card__footer css-6nvkkc">
+ <div class="css-1cbuemh">
+  <div class="css-1u2896s">
+   <p class="chakra-text css-zvlevn">
+    Nero
+   </p>
+   <p class="chakra-text css-1g5zdf0">
+    Sat Nov 16, 2024
+   </p>
+   <div class="css-7timbt">
+    <div class="css-0">
+     <a class="chakra-button css-1asqcxu" href="https://concerts.livenation.com/nero-salt-lake-city-utah-11-16-2024/event/1E0060BFC2A05247" target="_blank">
+      Buy Tickets
+     </a>
+    </div>
+    <div class="css-14dycje">
+     <button class="chakra-button css-16uafp" type="button">
+      More Info
+     </button>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="css-27cwld">
+  <button aria-label="More Info" class="css-1v6uy3d">
+   <i aria-hidden="true" class="icn icn-ellipses __className_f3e3e6 css-1eqjgjs" focusable="false">
+   </i>
+  </button>
+ </div>
+ <time class="css-kfisjo">
+  <p class="chakra-text css-1yp7tc1">
+   Sat
+  </p>
+  <p class="chakra-text date-box-date css-go0khb">
+   16
+  </p>
+  <p class="chakra-text css-1yp7tc1">
+   Nov
+  </p>
+ </time>
+ <div class="css-l1pvlg">
+  <a class="chakra-linkbox__overlay css-a0kmza" href="https://concerts.livenation.com/nero-salt-lake-city-utah-11-16-2024/event/1E0060BFC2A05247" target="_blank">
+   Nero
+  </a>
+ </div>
+</div>
+'''
+
+def parse_date_the_depot(month_str, day_str):
+    return (month_str_to_int(month_str), int(day_str)) 
+
+
+def process_the_depot():
+    
+    print("processing the depot ...")
+    shows = []
+    url_the_depot = "https://www.depotslc.com/shows"
+    
+    soup = get_html(url_the_depot)
+    html_events = soup.find_all("div", class_="chakra-card__footer")
+    if html_events:
+        print(f"\tfound {len(html_events)} events")
+        for html_event in html_events:
+            link = html_event.find('a', class_='chakra-linkbox__overlay')
+            if not link:
+                print("\tWARN: failed to find linkbox overlay")
+                continue
+            artist = link.getText().strip()
+            ticket_url = link.get('href') 
+
+            date_time = html_event.find('time')
+            if date_time:
+                ps = date_time.find_all('p')
+                day = ps[1].getText()
+                month = ps[2].getText()
+                date = parse_date_the_depot(month, day)
+            else:
+                date = (0,0)
+
+            venue = "the depot"
+            city = "slc"
+
+            #print(f"'{artist}' '{date}' '{venue}' '{city}'")
+            shows.append(
+                Show(
+                    artist, 
+                    Show.Date(date[0], date[1]),
+                    city,
+                    venue,
+                    ticket_url
+                )
+            )
+
+    else:
+        print(f"{url_the_depot} failed") 
+
+    print(f"\tshows found: {len(shows)}")
     return shows 
 
 ################################################################################
@@ -497,8 +604,10 @@ def process_the_complex():
 ################################################################################
 
 
-shows  = process_24tix()
+shows = []
+shows += process_24tix()
 shows += process_state_room()
 shows += process_the_complex()
+shows += process_the_depot()
 generate_html(shows)
 
