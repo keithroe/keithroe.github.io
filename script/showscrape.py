@@ -64,58 +64,14 @@ html_template = '''
 ################################################################################
 
 import functools
-from datetime import datetime
+from datetime import date
 
 class Show:
 
-    @functools.total_ordering
-    class Date():
-        def __init__(self, month, day):
-            if month < 0 or month > 12:
-                print(f"WARN: invalid month in ctor ({month})")
-                self.month = 0
-            else:
-                self.month = month
-            if day < 0 or day > 31:
-                print(f"WARN: invalid day in ctor ({day})")
-                self.day = 0
-            else:
-                self.day = day
-
-        def __repr__(self):
-            return f"{month_int_to_str(self.month)} {self.day:02d}"
-
-        def __eq__(self, other):
-            if not isinstance(other, Show.Date):
-                return False
-            return self.month == other.month and self.day == other.day
-
-        def __lt__(self, other):
-            if not isinstance(other, Show.Date):
-                return False
-
-            # TODO: cache this
-            cur_month = datetime.now().month
-            cur_day = datetime.now().day
-
-            adjusted_self_month = self.month if (
-                    (self.month > cur_month) or 
-                    (self.month == cur_month and self.day >= cur_day)
-                ) else self.month+12
-            adjusted_other_month = other.month if (
-                    (other.month > cur_month) or 
-                    (other.month == cur_month and other.day >= cur_day)
-                ) else other.month+12
-            return ((adjusted_self_month <  adjusted_other_month) or 
-                    (adjusted_self_month == adjusted_other_month and self.day < other.day)) 
-
-
     def __init__(self, artist, date, city, venue, url):
         self.artist = artist
-        if not date:
-            self.date = ""
-        else:
-            self.date = date
+        self.date = date
+
         if not city:
             self.city = ""
         else:
@@ -129,16 +85,18 @@ class Show:
             self.ticket_url = ""
         else:
             self.ticket_url = url
-
         
+    def in_past(self):
+        return self.date < date.today()
+
     def __eq__(self, other):
         return self.date == other.date and self.artist == other.artist
 
     def __lt__(self, other):
-        return self.date < other.date
+        return self.date < other.date or self.date == other.date and self.artist < other.artist
     
     def __hash__(self):
-        return hash((self.artist, self.date.month, self.date.day, self.city, self.venue))
+        return hash((self.artist, self.date))
 
 
 ################################################################################
@@ -229,6 +187,15 @@ def month_int_to_str(month_int):
     return month_strs[month_int]
 
 
+def make_date(month, day):
+    today = date.today()
+    if month < today.month or month == today.month and day < today.day:
+        year = today.year + 1
+    else:
+        year = today.year
+    return date(year, month, day)
+
+
 def generate_html(shows):
     shows = sorted(list(set(shows)))
     soup = BeautifulSoup(html_template, "html.parser")
@@ -236,14 +203,17 @@ def generate_html(shows):
     with open("index.html", "w", encoding='utf-8') as file:
         last_date = None
         for show in shows:
+            if show.in_past():
+                continue
             row = soup.new_tag("tr")
-
             # date
-            if last_date == show.date:
-                row.append(BeautifulSoup(f"<td></td>", "html.parser"))
-            else:
+            if last_date == None or last_date != show.date:
                 last_date = show.date
-                row.append(BeautifulSoup(f"<pre><td>{show.date}&nbsp;&nbsp;</td></pre>", "html.parser"))
+                month_str = month_int_to_str(show.date.month)
+                row.append(BeautifulSoup(f"<pre><td>{month_str} {show.date.day:02d}&nbsp;&nbsp;</td></pre>", "html.parser"))
+                #row.append(BeautifulSoup(f"<pre><td>{show.date}&nbsp;&nbsp;</td></pre>", "html.parser"))
+            else:
+                row.append(BeautifulSoup(f"<td></td>", "html.parser"))
 
             # artist
             if show.ticket_url:
@@ -281,15 +251,16 @@ def parse_city_24tix(city_str):
     city = city.replace("salt lake city", "slc")
     return city
 
+
 def parse_date_24tix(date_str):
     m = date_re.match(date_str)
     if m:
         month_str = m.groups()[0]
         day_str = m.groups()[1]
-        return (month_str_to_int(month_str), int(day_str)) 
+        return make_date(month_str_to_int(month_str), int(day_str)) 
     else:
         print(f"WARN: Failed to regex match 24tix date str '{date_str}'")
-        return (0,0) 
+        return None 
 
 
 def process_24tix():
@@ -318,7 +289,7 @@ def process_24tix():
                 date_div =  html_event.find("div", class_="event-start")
                 if not date_div:
                     print(f"WARN: Failed to find 24tix date div")
-                    date = (0,0) 
+                    date = None 
                 else:
                     date = parse_date_24tix(date_div.getText().strip())
 
@@ -335,7 +306,7 @@ def process_24tix():
                 shows.append(
                     Show(
                         artist, 
-                        Show.Date(date[0], date[1]),
+                        date,
                         city,
                         venue,
                         ticket_url
@@ -384,9 +355,11 @@ def process_24tix():
 </div>
 '''
 
+
 def parse_date_stateroom(date_str):
     date_tuple = date_str.split()
-    return (month_str_to_int(date_tuple[1]), int(date_tuple[2])) 
+    return make_date(month_str_to_int(date_tuple[1]), int(date_tuple[2])) 
+
 
 def query_city_stateroom(venue_str):
     venue_str = venue_str.lower()
@@ -429,7 +402,7 @@ def process_state_room():
             if date_div:
                 date = parse_date_stateroom(date_div.getText().strip())
             else:
-                date = (0,0) 
+                date = None 
 
             venue_div = html_event.find("div", class_="allevents-venue2")
             venue = venue_div.getText().strip()
@@ -438,7 +411,7 @@ def process_state_room():
             shows.append(
                 Show(
                     artist, 
-                    Show.Date(date[0], date[1]),
+                    date,
                     city,
                     venue,
                     ticket_url
@@ -476,10 +449,10 @@ def parse_date_the_complex(date_str):
     if m:
         month_str = m.groups()[0]
         day_str = m.groups()[1]
-        return (month_str_to_int(month_str), int(day_str)) 
+        return make_date(month_str_to_int(month_str), int(day_str)) 
     else:
         print(f"WARN: Failed to regex match The Complex date str '{date_str}'")
-        return (0,0) 
+        return None 
 
 
 def process_the_complex():
@@ -501,7 +474,7 @@ def process_the_complex():
             if date_header:
                 date = parse_date_the_complex(date_header.getText().strip())
             else:
-                date = (0,0) 
+                date = None 
 
             venue = "the complex"
             city = "slc"
@@ -510,7 +483,7 @@ def process_the_complex():
             shows.append(
                 Show(
                     artist, 
-                    Show.Date(date[0], date[1]),
+                    date,
                     city,
                     venue,
                     ticket_url
@@ -579,7 +552,7 @@ def process_the_complex():
 '''
 
 def parse_date_the_depot(month_str, day_str):
-    return (month_str_to_int(month_str), int(day_str)) 
+    return make_date(month_str_to_int(month_str), int(day_str)) 
 
 
 def process_the_depot():
@@ -607,7 +580,7 @@ def process_the_depot():
                 month = ps[2].getText()
                 date = parse_date_the_depot(month, day)
             else:
-                date = (0,0)
+                date = None 
 
             venue = "the depot"
             city = "slc"
@@ -616,7 +589,7 @@ def process_the_depot():
             shows.append(
                 Show(
                     artist, 
-                    Show.Date(date[0], date[1]),
+                    date,
                     city,
                     venue,
                     ticket_url
@@ -677,11 +650,9 @@ def process_the_depot():
 </div>
 '''
 
+
 def parse_date_aces_high(date_str):
-    tokens = date_str.split()
-    month_str = tokens[0] 
-    day_str = tokens[1]
-    return (month_str_to_int(month_str), int(day_str)) 
+    return date.fromisoformat(date_str)
 
 
 def process_aces_high():
@@ -691,7 +662,7 @@ def process_aces_high():
     url_aces_high = "https://aceshighsaloon.com/events/list/"
     
     soup = get_html(url_aces_high)
-    html_events = soup.find_all("header", class_="tribe-events-calendar-list__event-header")
+    html_events = soup.find_all("div", class_="tribe-events-calendar-list__event-row")
     if html_events:
         for html_event in html_events:
 
@@ -703,11 +674,12 @@ def process_aces_high():
             ticket_url = link.get('href') 
             artist = link.getText().strip()
 
-            date_span = html_event.find('span', class_="tribe-event-date-start")
-            if date_span:
-                date = parse_date_aces_high(date_span.getText().strip())
+            time_tag = html_event.find('time')
+            if time_tag:
+                date = parse_date_aces_high(time_tag.get('datetime'))
             else:
-                date = (0,0) 
+                print("\tWARN: failed to find time tag")
+                date = None 
 
             venue = "aces high"
             city = "slc"
@@ -716,7 +688,7 @@ def process_aces_high():
             shows.append(
                 Show(
                     artist, 
-                    Show.Date(date[0], date[1]),
+                    date,
                     city,
                     venue,
                     ticket_url
@@ -784,11 +756,9 @@ import urllib.parse
 </div>
 '''
 
+
 def parse_date_the_union(date_str):
-    tokens = date_str.split('-')
-    month_str = tokens[1]
-    day_str = tokens[2]
-    return (int(month_str), int(day_str)) 
+    return date.fromisoformat(date_str)
 
 
 def process_the_union():
@@ -814,7 +784,7 @@ def process_the_union():
                 date_str = time.get('datetime')
                 date = parse_date_the_union(date_str)
             else:
-                date = (0,0)
+                date = None
 
             venue = "the union"
             city = "slc"
@@ -823,7 +793,7 @@ def process_the_union():
             shows.append(
                 Show(
                     artist, 
-                    Show.Date(date[0], date[1]),
+                    date,
                     city,
                     venue,
                     ticket_url
@@ -880,7 +850,7 @@ def process_the_union():
 '''
 
 def parse_date_soundwell(month_str, day_str):
-    return (month_str_to_int(month_str), int(day_str)) 
+    return make_date(month_str_to_int(month_str), int(day_str)) 
 
 
 def process_soundwell():
@@ -916,7 +886,7 @@ def process_soundwell():
                 day_str = date_div.find("h3").getText().strip()
                 date = parse_date_soundwell(month_str, day_str)
             else:
-                date = (0,0) 
+                date = None 
 
             venue = "soundwell"
             city = "slc"
@@ -925,7 +895,7 @@ def process_soundwell():
             shows.append(
                 Show(
                     artist, 
-                    Show.Date(date[0], date[1]),
+                    date,
                     city,
                     venue,
                     ticket_url
