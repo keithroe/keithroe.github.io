@@ -47,8 +47,14 @@ html_template = '''
   </head>
   <body>
     <main>
-        <p>---</p>  
+        <p>
+        <a href="#about">about this page</a>
+        </p>
         <table id=events_table></table>
+        <div id="about"></div>
+        <p id="about">
+            <pre id="about"> </pre>
+        </p>
     </main>
   </body>
 </html>
@@ -230,6 +236,11 @@ def generate_html(shows):
             row.append(BeautifulSoup(f"<td>{show.venue.lower()}</td>", "html.parser"))
 
             table.append(row)
+        
+        about_pre = soup.find("pre", id="about")
+        about_pre.append(f"\nabout this page:\n")
+        about_pre.append(f"\tmissing venues or feedback: slcshowsnet AT gmail DOT com\n")
+        about_pre.append(f"\tgenerated on: {date.today()}\n---\n\n")
         file.write(soup.prettify())
 
 ################################################################################
