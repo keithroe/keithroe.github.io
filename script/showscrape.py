@@ -3,6 +3,9 @@ import re
 import itertools
 import requests
 from bs4 import BeautifulSoup
+import functools
+from datetime import date
+import datetime
 
 ################################################################################
 #
@@ -69,8 +72,6 @@ html_template = '''
 #
 ################################################################################
 
-import functools
-from datetime import date
 
 class Show:
 
@@ -567,48 +568,64 @@ def parse_date_the_depot(month_str, day_str):
 
 
 def process_the_depot():
+    from datetime import datetime
+    from datetime import date
+    from dateutil.relativedelta import relativedelta
     
     print("processing the depot ...")
     shows = []
-    url_the_depot = "https://www.depotslc.com/shows"
+    url_template = "https://www.depotslc.com/shows?start={}"
     
-    soup = get_html(url_the_depot)
-    html_events = soup.find_all("div", class_="chakra-card__footer")
-    if html_events:
-        print(f"\tfound {len(html_events)} events")
-        for html_event in html_events:
-            link = html_event.find('a', class_='chakra-linkbox__overlay')
-            if not link:
-                print("\tWARN: failed to find linkbox overlay")
-                continue
-            artist = link.getText().strip()
-            ticket_url = link.get('href') 
+    latest_date = date.today()
 
-            date_time = html_event.find('time')
-            if date_time:
-                ps = date_time.find_all('p')
-                day = ps[1].getText()
-                month = ps[2].getText()
-                date = parse_date_the_depot(month, day)
-            else:
-                date = None 
+    while True: 
+        url_the_depot = url_template.format(str(latest_date))
+        print("\tsearching: {}".format(url_the_depot))
 
-            venue = "the depot"
-            city = "slc"
+        num_events = 0
+        soup = get_html(url_the_depot)
+        html_events = soup.find_all("div", class_="chakra-card__footer")
+        if html_events:
+            print(f"\tfound {len(html_events)} events")
+            for html_event in html_events:
+                ps = html_event.find_all('p')
+                date_text = ps[1].getText()
+                date_text = " ".join(date_text.split()[1:])
+                latest_date = datetime.strptime(date_text, "%b %d, %Y").date()
+                latest_date = latest_date + relativedelta(days=1)
+                link = html_event.find('a', class_='chakra-linkbox__overlay')
+                if not link:
+                    print("\tWARN: failed to find linkbox overlay")
+                    continue
+                artist = link.getText().strip()
+                ticket_url = link.get('href') 
 
-            #print(f"'{artist}' '{date}' '{venue}' '{city}'")
-            shows.append(
-                Show(
-                    artist, 
-                    date,
-                    city,
-                    venue,
-                    ticket_url
+                date_time = html_event.find('time')
+                if date_time:
+                    ps = date_time.find_all('p')
+                    day = ps[1].getText().split("-")[0]
+                    month = ps[2].getText()
+                    date = parse_date_the_depot(month, day)
+                else:
+                    date = None 
+
+                venue = "the depot"
+                city = "slc"
+
+                #print(f"'{artist}' '{date}' '{venue}' '{city}'")
+                shows.append(
+                    Show(
+                        artist, 
+                        date,
+                        city,
+                        venue,
+                        ticket_url
+                    )
                 )
-            )
 
-    else:
-        print(f"{url_the_depot} failed") 
+        else:
+            print(f"{url_the_depot} failed") 
+            break
 
     print(f"\tshows found: {len(shows)}")
     return shows 
