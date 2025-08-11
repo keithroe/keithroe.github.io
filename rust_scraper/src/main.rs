@@ -38,16 +38,18 @@ const HTML_TEMPLATE: &str = r###"
   </head>
   <body>
     <main>
-        <p>
+      <p>
         <a href="#about">about this page</a>
-        </p>
-        <table id=events_table></table>
-        <div id="about"></div>
-        <p id="about">
-            <pre class="about"> 
-               @about@ 
-            </pre>
-        </p>
+      </p>
+      <table id="events_table">
+          @TABLE_ROWS@
+      </table>
+      <div id="about"></div>
+      <p id="about">
+        <pre class="about"> 
+          @ABOUT@
+        </pre>
+      </p>
     </main>
   </body>
 </html>
@@ -60,8 +62,9 @@ fn generate_html_page(shows: &[show::Show]) {
     let pre_string = "\nabout this page:\n".to_string();
     let pre_string = pre_string + "\tmissing venues or feedback: slcshowsnet AT gmail DOT com\n";
     let pre_string = pre_string + &format!("\tgenerated on: {}\n---\n\n", &date_str);
+    let html = html.replace("@ABOUT@", &pre_string);
 
-    let html = html.replace("@about@", &pre_string);
+    let html = html.replace("@TABLE_ROWS@", &show::generate_table_rows(shows));
     std::fs::write("index.html", &html).expect("failed to write index.html");
 }
 
