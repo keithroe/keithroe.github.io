@@ -16,7 +16,15 @@ const HTML_TEMPLATE: &str = r###"
       body {
           background-color:black;
           color:silver;
-          font-family:"Courier New";
+          /*font-family:"Courier New";*/
+          font-family:"Lucida Console", monospace;
+          font-size:large; 
+      }
+      pre {
+          background-color:black;
+          color:silver;
+          /*font-family:"Courier New";*/
+          font-family:"Lucida Console", monospace;
           font-size:large; 
       }
       a {
@@ -69,6 +77,7 @@ fn generate_html_page(shows: &[show::Show]) {
 }
 
 fn get_html(url: &str) -> scraper::html::Html {
+    println!("\n----------------------------------------------------------");
     println!("Loading html '{}' ...", url);
 
     let response = reqwest::blocking::get(url).unwrap();
