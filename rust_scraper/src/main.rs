@@ -1,5 +1,6 @@
 use chrono::prelude::*;
 pub mod show;
+pub mod stateroom;
 pub mod twentyfourtix;
 pub mod util;
 
@@ -83,5 +84,6 @@ fn main() {
 
     let mut shows = Vec::new();
     shows.append(&mut twentyfourtix::scrape());
+    shows.append(&mut stateroom::scrape());
     generate_html_page(&shows);
 }
