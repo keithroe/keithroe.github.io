@@ -1,4 +1,5 @@
 use chrono::prelude::*;
+pub mod aceshigh;
 pub mod complex;
 pub mod depot;
 pub mod show;
@@ -89,7 +90,8 @@ fn main() {
     shows.append(&mut twentyfourtix::scrape());
     shows.append(&mut stateroom::scrape());
     shows.append(&mut complex::scrape());
-    */
     shows.append(&mut depot::scrape());
+    */
+    shows.append(&mut aceshigh::scrape());
     generate_html_page(&shows);
 }
