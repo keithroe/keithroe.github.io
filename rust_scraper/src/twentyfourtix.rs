@@ -89,6 +89,10 @@ pub fn scrape() -> Vec<show::Show> {
                 .trim()
                 .to_string()
                 .to_lowercase();
+            if venue_str.contains("aces high") {
+                // These are redundant with Aces High's own website
+                continue;
+            }
 
             let city_strs = div_tag
                 .select(&scraper::Selector::parse("small").unwrap())

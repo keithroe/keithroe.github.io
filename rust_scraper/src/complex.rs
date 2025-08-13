@@ -18,6 +18,7 @@ pub fn scrape() -> Vec<show::Show> {
 
     let mut shows = Vec::new();
     let html = util::get_html("https://www.thecomplexslc.com/");
+    let date_re = regex::Regex::new(r"[a-zA-Z]+\s+([a-zA-Z]+)\s+(\d+).+").unwrap();
 
     let event_selector = scraper::Selector::parse("a.image-link").unwrap();
     let html_events = html.select(&event_selector);
@@ -52,7 +53,6 @@ pub fn scrape() -> Vec<show::Show> {
                 .to_lowercase();
             println!("date: '{}'", date_str);
 
-            let date_re = regex::Regex::new(r"[a-zA-Z]+\s+([a-zA-Z]+)\s+(\d+).+").unwrap();
             if let Some(matches) = date_re.captures(&date_str) {
                 let month = util::month_int_from_str(&matches[1]);
                 let day = matches[2].parse::<u32>().unwrap();
