@@ -1,4 +1,6 @@
 use chrono::prelude::*;
+pub mod complex;
+pub mod depot;
 pub mod show;
 pub mod stateroom;
 pub mod twentyfourtix;
@@ -83,7 +85,11 @@ fn main() {
     println!("Scraping ...");
 
     let mut shows = Vec::new();
+    /*
     shows.append(&mut twentyfourtix::scrape());
     shows.append(&mut stateroom::scrape());
+    shows.append(&mut complex::scrape());
+    */
+    shows.append(&mut depot::scrape());
     generate_html_page(&shows);
 }
