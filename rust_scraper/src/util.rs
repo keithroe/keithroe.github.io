@@ -1,10 +1,41 @@
 use chrono::prelude::*;
 
 pub fn get_html(url: &str) -> scraper::html::Html {
-    println!("\n----------------------------------------------------------");
+    
     println!("Loading html '{}' ...", url);
 
-    let response = reqwest::blocking::get(url).unwrap();
+    let mut headers = reqwest::header::HeaderMap::new();
+    headers.insert(
+        reqwest::header::USER_AGENT, 
+        reqwest::header::HeaderValue::from_static(
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+        )
+    );
+    headers.insert(
+        reqwest::header::CONTENT_TYPE, 
+        reqwest::header::HeaderValue::from_static(
+            "text/html; charset=utf-8"
+        )
+    );
+
+    let client = reqwest::blocking::Client::new();
+    let response = client
+        .get(url)
+        .headers(headers)
+        .send()
+        .unwrap();
+
+    match response.status() {
+        reqwest::StatusCode::OK => {
+            println!("\tSuccess");
+        } other => {
+            panic!("Uh oh! Something unexpected happened: {:?}", other);
+        }
+    };
+
+
+
+    //let response = reqwest::blocking::get(url).unwrap();
     let html = response.text().unwrap();
 
     scraper::Html::parse_document(&html)

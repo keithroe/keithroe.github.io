@@ -5,6 +5,7 @@ pub mod depot;
 pub mod show;
 pub mod stateroom;
 pub mod twentyfourtix;
+pub mod union;
 pub mod util;
 
 const HTML_TEMPLATE: &str = r###" 
@@ -91,7 +92,8 @@ fn main() {
     shows.append(&mut stateroom::scrape());
     shows.append(&mut complex::scrape());
     shows.append(&mut depot::scrape());
-    */
     shows.append(&mut aceshigh::scrape());
+    */
+    shows.append(&mut union::scrape());
     generate_html_page(&shows);
 }
