@@ -54,7 +54,8 @@ pub fn scrape() -> Vec<show::Show> {
         let html = util::get_html(&format!(
             "https://aceshighsaloon.com/events/list/page/{}",
             page_idx
-        ));
+        ))
+        .unwrap();
         page_idx += 1;
 
         let mut page_event_count = 0;

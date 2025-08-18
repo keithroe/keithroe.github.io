@@ -1,6 +1,7 @@
 use chrono::prelude::*;
+use anyhow::{anyhow, Result, Context};
 
-pub fn get_html(url: &str) -> scraper::html::Html {
+pub fn get_html(url: &str) -> Result<scraper::html::Html> {
     
     println!("Loading html '{}' ...", url);
 
@@ -22,65 +23,58 @@ pub fn get_html(url: &str) -> scraper::html::Html {
     let response = client
         .get(url)
         .headers(headers)
-        .send()
-        .unwrap();
+        .send().context(format!("Failed to get '{}'", url))?;
 
-    match response.status() {
-        reqwest::StatusCode::OK => {
-            println!("\tSuccess");
-        } other => {
-            panic!("Uh oh! Something unexpected happened: {:?}", other);
-        }
-    };
+    let html = response.text().context(format!("Failed to get text '{}'", url))?;
 
-
-
-    //let response = reqwest::blocking::get(url).unwrap();
-    let html = response.text().unwrap();
-
-    scraper::Html::parse_document(&html)
+    Ok(scraper::Html::parse_document(&html))
 }
 
-pub fn month_int_from_str(month_str: &str) -> u32 {
+pub fn month_int_from_str(month_str: &str) -> Result<u32> {
     let month_str = month_str.to_lowercase();
     if month_str.starts_with("ja") {
-        1
+        Ok(1)
     } else if month_str.starts_with("f") {
-        2
+        Ok(2)
     } else if month_str.starts_with("mar") {
-        3
+        Ok(3)
     } else if month_str.starts_with("ap") {
-        4
+        Ok(4)
     } else if month_str.starts_with("may") {
-        5
+        Ok(5)
     } else if month_str.starts_with("jun") {
-        6
+        Ok(6)
     } else if month_str.starts_with("jul") {
-        7
+        Ok(7)
     } else if month_str.starts_with("au") {
-        8
+        Ok(8)
     } else if month_str.starts_with("s") {
-        9
+        Ok(9)
     } else if month_str.starts_with("o") {
-        10
+        Ok(10)
     } else if month_str.starts_with("n") {
-        11
+        Ok(11)
     } else if month_str.starts_with("d") {
-        12
+        Ok(12)
     } else {
-        println!(
-            "ERROR: month_int_from_str given invalid string '{}'",
-            month_str
-        );
-        0
+        Err(anyhow!("month_int_from_str given invalid string '{}'", month_str))
     }
 }
 
-pub fn create_date(day: u32, month: u32) -> chrono::NaiveDate {
+pub fn create_date(day: u32, month: u32) -> Result<chrono::NaiveDate> {
     let today = chrono::Local::now().naive_local().date();
-    let mut date = NaiveDate::from_ymd_opt(today.year(), month, day).unwrap();
+    let mut date = NaiveDate::from_ymd_opt(
+        today.year(), 
+        month, 
+        day).context(format!("failed to create date from {}, {}", day, month))?;
     if date < today {
-        date = date.checked_add_months(chrono::Months::new(12)).unwrap();
+        date = date.checked_add_months(chrono::Months::new(12)).context("Failed to add year to date")?;
     }
-    date
+    Ok(date)
+}
+            
+
+fn select_single(:tag: &str) -> Result<scraper::ElementRef<'a>> {
+    let selector = scraper::Selector::parse(tag)?;
+    let elem = html_event.select(&selector).next()?;
 }

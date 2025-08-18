@@ -34,7 +34,7 @@ pub fn scrape() -> Vec<show::Show> {
     let mut shows = Vec::new();
     loop {
         let url = format!("https://www.24tix.com/?batch_page={}", page);
-        let html = util::get_html(&url);
+        let html = util::get_html(&url).unwrap();
         let selector = scraper::Selector::parse("div.card-body.event-body").unwrap();
         let html_events = html.select(&selector);
 
@@ -72,8 +72,9 @@ pub fn scrape() -> Vec<show::Show> {
 
             let date = util::create_date(
                 date_strs[1].parse::<u32>().unwrap(),
-                util::month_int_from_str(date_strs[0]),
-            );
+                util::month_int_from_str(date_strs[0]).unwrap(),
+            )
+            .unwrap();
 
             let div_tag = html_event
                 .select(&scraper::Selector::parse("div.event-venue").unwrap())
