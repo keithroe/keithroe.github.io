@@ -61,7 +61,7 @@ pub fn scrape() -> Vec<show::Show> {
         let url = format!("https://www.depotslc.com/shows?start={}", latest_date);
         println!("url '{}'", url);
 
-        let html = util::get_html(&url);
+        let html = util::get_html(&url).unwrap();
         let selector = scraper::Selector::parse("div.chakra-card__footer").unwrap();
         let html_events = html.select(&selector);
 
@@ -93,8 +93,9 @@ pub fn scrape() -> Vec<show::Show> {
 
             let date = util::create_date(
                 date_strs[2].parse::<u32>().unwrap(),
-                util::month_int_from_str(&date_strs[1]),
-            );
+                util::month_int_from_str(&date_strs[1]).unwrap(),
+            )
+            .unwrap();
             latest_date = date.checked_add_days(chrono::Days::new(1)).unwrap();
 
             let url_str;

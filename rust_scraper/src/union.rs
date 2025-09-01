@@ -55,7 +55,7 @@ pub fn scrape() -> Vec<show::Show> {
 
     let mut shows = Vec::new();
     let union_url = url::Url::parse("https://theunioneventcenter.com/").unwrap();
-    let html = util::get_html(&union_url.to_string());
+    let html = util::get_html(&union_url.to_string()).unwrap();
 
     let event_selector = scraper::Selector::parse("div.eventlist-column-info").unwrap();
     let html_events = html.select(&event_selector);

@@ -63,8 +63,9 @@ pub fn scrape() -> Vec<show::Show> {
             .select(&scraper::Selector::parse("div.tribe-events-calendar-list__event-row").unwrap())
         {
             page_event_count += 1;
-            let link_selector = scraper::Selector::parse("a").unwrap();
-            let link_elem = html_event.select(&link_selector).next().unwrap();
+            let link_elem = util::select_single(html_event, "a").unwrap();
+            //let link_selector = scraper::Selector::parse("a").unwrap();
+            //let link_elem = html_event.select(&link_selector).next().unwrap();
             let url_str = link_elem.attr("href").unwrap();
             let artist_str = link_elem
                 .text()

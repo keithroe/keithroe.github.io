@@ -17,7 +17,7 @@ pub fn scrape() -> Vec<show::Show> {
     println!("processing The Complex ...");
 
     let mut shows = Vec::new();
-    let html = util::get_html("https://www.thecomplexslc.com/");
+    let html = util::get_html("https://www.thecomplexslc.com/").unwrap();
     let date_re = regex::Regex::new(r"[a-zA-Z]+\s+([a-zA-Z]+)\s+(\d+).+").unwrap();
 
     let event_selector = scraper::Selector::parse("a.image-link").unwrap();
@@ -54,9 +54,9 @@ pub fn scrape() -> Vec<show::Show> {
             println!("date: '{}'", date_str);
 
             if let Some(matches) = date_re.captures(&date_str) {
-                let month = util::month_int_from_str(&matches[1]);
+                let month = util::month_int_from_str(&matches[1]).unwrap();
                 let day = matches[2].parse::<u32>().unwrap();
-                date = util::create_date(day, month);
+                date = util::create_date(day, month).unwrap();
                 println!("date: '{}'", date);
             } else {
                 continue;

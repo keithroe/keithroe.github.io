@@ -74,7 +74,8 @@ pub fn create_date(day: u32, month: u32) -> Result<chrono::NaiveDate> {
 }
             
 
-fn select_single(:tag: &str) -> Result<scraper::ElementRef<'a>> {
-    let selector = scraper::Selector::parse(tag)?;
-    let elem = html_event.select(&selector).next()?;
+pub fn select_single<'a>(elmt: scraper::ElementRef<'a>, tag: &str) -> Result<scraper::ElementRef<'a>> {
+    let selector = scraper::Selector::parse(tag).unwrap();
+    let child_elmt = elmt.select(&selector).next().context("No elements selected")?;
+    Ok(child_elmt)
 }

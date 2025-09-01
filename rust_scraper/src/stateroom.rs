@@ -50,7 +50,7 @@ pub fn scrape() -> Vec<show::Show> {
     println!("processing State Room Presents ...");
 
     let mut shows = Vec::new();
-    let html = util::get_html("https://thestateroompresents.com/state-room-presents");
+    let html = util::get_html("https://thestateroompresents.com/state-room-presents").unwrap();
 
     let event_selector = scraper::Selector::parse("div.p-3").unwrap();
     let html_events = html.select(&event_selector);
@@ -101,8 +101,9 @@ pub fn scrape() -> Vec<show::Show> {
             let date_strings = [date_strings[1].clone(), date_strings[2].clone()];
             date = util::create_date(
                 date_strings[1].parse::<u32>().unwrap(),
-                util::month_int_from_str(&date_strings[0]),
-            );
+                util::month_int_from_str(&date_strings[0]).unwrap(),
+            )
+            .unwrap();
             println!("date: '{}'", date_strings.join(" "));
         } else {
             continue;
@@ -129,7 +130,6 @@ pub fn scrape() -> Vec<show::Show> {
         }
 
         shows.push(show::Show {
-            //date: date_str,
             date,
             artist: artist_str,
             venue: venue_str,
