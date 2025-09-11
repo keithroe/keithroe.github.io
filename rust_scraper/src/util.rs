@@ -33,6 +33,10 @@ pub fn get_html(url: &str) -> Result<scraper::html::Html> {
         reqwest::header::HeaderValue::from_static("www.google.com")
     );
     headers.insert(
+        reqwest::header::AUTHORIZATION, 
+        reqwest::header::HeaderValue::from_static("www.google.com")
+    );
+    headers.insert(
         reqwest::header::ACCEPT, 
         reqwest::header::HeaderValue::from_static(
             "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
@@ -67,11 +71,16 @@ pub fn get_html(url: &str) -> Result<scraper::html::Html> {
         reqwest::header::HeaderValue::from_static("#..")
     );
 
+    headers.insert(
+        reqwest::header::HeaderName::from_static("cookie"),
+        reqwest::header::HeaderValue::from_static("SID=ZAjX93QUU1NMI2Ztt_dmL9YRSRW84IvHQwRrSe1lYhIZncwY4QYs0J60X1WvNumDBjmqCA.; __Secure- #..,")
+    );
 
 
     headers.insert(
         reqwest::header::HeaderName::from_static("sec-fetch-dest"),
-        reqwest::header::HeaderValue::from_static("document"));
+        reqwest::header::HeaderValue::from_static("document")
+    );
     headers.insert(
         reqwest::header::HeaderName::from_static("sec-fetch-mode" ),
         reqwest::header::HeaderValue::from_static("navigate")
@@ -97,23 +106,23 @@ pub fn get_html(url: &str) -> Result<scraper::html::Html> {
 
     headers.insert(
         reqwest::header::HeaderName::from_static( "sec-ch-ua"),
-        reqwest::header::HeaderValue::from_static( "\"Not/A)Brand\";v=\"99\" \"Google Chrome\";v=\"115\" \"Chromium\";v=\"115\"")
+        reqwest::header::HeaderValue::from_static( r#""Not/A)Brand";v="99" "Google Chrome";v="115" "Chromium";v="115""#)
     );
     headers.insert(
         reqwest::header::HeaderName::from_static( "sec-ch-ua-arch"),
-        reqwest::header::HeaderValue::from_static( "\"x86\"")
+        reqwest::header::HeaderValue::from_static( r#""x86""#)
     );
     headers.insert(
         reqwest::header::HeaderName::from_static( "sec-ch-ua-bitness"),
-        reqwest::header::HeaderValue::from_static( "\"64\"")
+        reqwest::header::HeaderValue::from_static( r#""64""#)
     );
     headers.insert(
         reqwest::header::HeaderName::from_static( "sec-ch-ua-full-version"),
-        reqwest::header::HeaderValue::from_static( "\"115.0.5790.110\"")
+        reqwest::header::HeaderValue::from_static( r#""115.0.5790.110""#)
     );
     headers.insert(
         reqwest::header::HeaderName::from_static( "sec-ch-ua-full-version-list"),
-        reqwest::header::HeaderValue::from_static( "\"Not/A)Brand\";v=\"99.0.0.0\" \"Google Chrome\";v=\"115.0.5790.110\" \"Chromium\";v=\"115.0.5790.110\"")
+        reqwest::header::HeaderValue::from_static( r#""Not/A)Brand";v="99.0.0.0" "Google Chrome";v="115.0.5790.110" "Chromium";v="115.0.5790.110""#)
     );
     headers.insert(
         reqwest::header::HeaderName::from_static( "sec-ch-ua-mobile"),
@@ -121,7 +130,7 @@ pub fn get_html(url: &str) -> Result<scraper::html::Html> {
     );
     headers.insert(
         reqwest::header::HeaderName::from_static( "sec-ch-ua-model"),
-        reqwest::header::HeaderValue::from_static( "\"\"")
+        reqwest::header::HeaderValue::from_static( r#""""#)
     );
     headers.insert(
         reqwest::header::HeaderName::from_static( "sec-ch-ua-platform"),
@@ -151,12 +160,18 @@ pub fn get_html(url: &str) -> Result<scraper::html::Html> {
         )
     );
 */
+    for (key, value) in headers.iter() {
+        println!("'{:?}': '{:?}'", key, value);
+    }
 
-    let client = reqwest::blocking::Client::new();
+    let client = reqwest::blocking::Client::builder()
+        .cookie_store(true)
+        .build()?;
     let response = client
         .get(url)
         .headers(headers)
-        .send().context(format!("Failed to get '{}'", url))?;
+        .send()
+        .context(format!("Failed to get '{}'", url))?;
 
     let html = response.text().context(format!("Failed to get text '{}'", url))?;
 
