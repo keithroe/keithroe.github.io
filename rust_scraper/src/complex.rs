@@ -26,7 +26,6 @@ pub fn scrape() -> Vec<show::Show> {
         let artist_str;
         if let Some(artist_string) = html_event.attr("title") {
             artist_str = artist_string;
-            println!("artist: '{}'", artist_str);
         } else {
             continue;
         }
@@ -34,7 +33,6 @@ pub fn scrape() -> Vec<show::Show> {
         let url_str;
         if let Some(url_string) = html_event.attr("href") {
             url_str = url_string;
-            println!("url: '{}'", url_str);
         } else {
             continue;
         }
@@ -51,13 +49,11 @@ pub fn scrape() -> Vec<show::Show> {
                 .trim()
                 .to_string()
                 .to_lowercase();
-            println!("date: '{}'", date_str);
 
             if let Some(matches) = date_re.captures(&date_str) {
                 let month = util::month_int_from_str(&matches[1]).unwrap();
                 let day = matches[2].parse::<u32>().unwrap();
                 date = util::create_date(day, month).unwrap();
-                println!("date: '{}'", date);
             } else {
                 continue;
             }
@@ -73,5 +69,6 @@ pub fn scrape() -> Vec<show::Show> {
             url: url_str.to_string(),
         });
     }
+    println!("\tfound {} shows", shows.len());
     shows
 }

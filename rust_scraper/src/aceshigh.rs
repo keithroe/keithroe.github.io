@@ -56,7 +56,6 @@ pub fn scrape() -> Vec<show::Show> {
             page_idx
         ))
         .unwrap();
-        page_idx += 1;
 
         let mut page_event_count = 0;
         for html_event in html
@@ -91,7 +90,10 @@ pub fn scrape() -> Vec<show::Show> {
         if page_event_count == 0 {
             break;
         }
+        page_idx += 1;
     }
 
+    println!("\tprocessed {} pages", page_idx - 1);
+    println!("\tfound {} shows", shows.len());
     shows
 }

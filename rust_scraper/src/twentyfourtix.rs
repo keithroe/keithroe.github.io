@@ -107,13 +107,6 @@ pub fn scrape() -> Vec<show::Show> {
             let city_str = city_strs.first().unwrap().to_lowercase();
             let city_str = city_str.replace("salt lake city", "slc");
 
-            println!("{}", link_str);
-            println!("{}", artist_str);
-            println!("{}", date_str);
-            println!("{}", date);
-            println!("{}", venue_str);
-            println!("{}", city_str);
-
             shows.push(show::Show {
                 date,
                 artist: artist_str,
@@ -128,5 +121,7 @@ pub fn scrape() -> Vec<show::Show> {
         }
         page += 1;
     }
+    println!("\tprocessed {} pages", page);
+    println!("\tfound {} shows", shows.len());
     shows
 }

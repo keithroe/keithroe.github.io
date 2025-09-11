@@ -89,5 +89,7 @@ pub fn scrape() -> Vec<show::Show> {
             url: url_str.to_string(),
         });
     }
+
+    println!("\tfound {} shows", shows.len());
     shows
 }

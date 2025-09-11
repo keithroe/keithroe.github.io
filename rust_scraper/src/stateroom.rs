@@ -55,7 +55,6 @@ pub fn scrape() -> Vec<show::Show> {
     let event_selector = scraper::Selector::parse("div.p-3").unwrap();
     let html_events = html.select(&event_selector);
     for html_event in html_events {
-        println!("here0");
         let artist_str;
         if let Some(artist_elem) = html_event
             .select(&scraper::Selector::parse("h3 > a").unwrap())
@@ -67,7 +66,6 @@ pub fn scrape() -> Vec<show::Show> {
                 .join(" ")
                 .trim()
                 .to_string();
-            println!("artist: '{}'", artist_str);
         } else {
             continue;
         }
@@ -78,7 +76,6 @@ pub fn scrape() -> Vec<show::Show> {
             .next()
         {
             url_str = link_elem.attr("href").unwrap().to_string();
-            println!("url: '{}'", url_str);
         } else {
             continue;
         }
@@ -104,7 +101,6 @@ pub fn scrape() -> Vec<show::Show> {
                 util::month_int_from_str(&date_strings[0]).unwrap(),
             )
             .unwrap();
-            println!("date: '{}'", date_strings.join(" "));
         } else {
             continue;
         }
@@ -123,8 +119,6 @@ pub fn scrape() -> Vec<show::Show> {
                 .to_string()
                 .to_lowercase();
             city_str = query_city_stateroom(&venue_str);
-            println!("venue: '{}'", venue_str);
-            println!("city: '{}'", city_str);
         } else {
             continue;
         }
@@ -137,5 +131,6 @@ pub fn scrape() -> Vec<show::Show> {
             url: url_str.to_string(),
         });
     }
+    println!("\tfound {} shows", shows.len());
     shows
 }

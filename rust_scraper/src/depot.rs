@@ -59,7 +59,6 @@ pub fn scrape() -> Vec<show::Show> {
     let mut latest_date = Local::now().naive_local().date();
     loop {
         let url = format!("https://www.depotslc.com/shows?start={}", latest_date);
-        println!("url '{}'", url);
 
         let html = util::get_html(&url).unwrap();
         let selector = scraper::Selector::parse("div.chakra-card__footer").unwrap();
@@ -110,12 +109,6 @@ pub fn scrape() -> Vec<show::Show> {
                 continue;
             }
 
-            println!("artist: {}", artist_str);
-            println!("date_strs: {:?}", date_strs);
-            println!("date: {}", date);
-            println!("latest date: {}", latest_date);
-            println!("url: {}", url_str);
-
             shows.push(show::Show {
                 date,
                 artist: artist_str,
@@ -130,5 +123,6 @@ pub fn scrape() -> Vec<show::Show> {
         }
     }
 
+    println!("\tfound {} shows", shows.len());
     shows
 }
