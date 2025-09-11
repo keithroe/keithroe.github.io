@@ -830,6 +830,8 @@ def process_the_union():
     else:
         print(f"{url_the_union} failed") 
 
+    for show in shows:
+        print(show.artist)
     print(f"\tshows found: {len(shows)}")
     return shows 
 
@@ -945,12 +947,12 @@ def process_soundwell():
 
 
 shows = []
-#shows += process_24tix()
-#shows += process_state_room()
-#shows += process_the_complex()
-#shows += process_the_depot()
-#shows += process_aces_high()
-#shows += process_the_union()
+shows += process_24tix()
+shows += process_state_room()
+shows += process_the_complex()
+shows += process_the_depot()
+shows += process_aces_high()
+shows += process_the_union()
 shows += process_soundwell()
 generate_html(shows)
 
