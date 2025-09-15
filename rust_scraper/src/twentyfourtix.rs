@@ -106,6 +106,7 @@ pub fn scrape() -> Vec<show::Show> {
 
             let city_str = city_strs.first().unwrap().to_lowercase();
             let city_str = city_str.replace("salt lake city", "slc");
+            let city_str = city_str.replace(",", "slc");
 
             shows.push(show::Show {
                 date,
