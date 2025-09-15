@@ -2,6 +2,7 @@ use chrono::prelude::*;
 pub mod aceshigh;
 pub mod complex;
 pub mod depot;
+pub mod maverik;
 pub mod show;
 pub mod soundwell;
 pub mod stateroom;
@@ -91,9 +92,11 @@ fn main() {
     shows.append(&mut aceshigh::scrape());
     shows.append(&mut complex::scrape());
     shows.append(&mut depot::scrape());
+    shows.append(&mut maverik::scrape());
     shows.append(&mut soundwell::scrape());
     shows.append(&mut stateroom::scrape());
     shows.append(&mut twentyfourtix::scrape());
     shows.append(&mut union::scrape());
+
     generate_html_page(&shows);
 }
