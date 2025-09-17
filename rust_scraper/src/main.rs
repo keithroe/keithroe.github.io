@@ -1,6 +1,7 @@
 use chrono::prelude::*;
 pub mod aceshigh;
 pub mod complex;
+pub mod deltacenter;
 pub mod depot;
 pub mod maverik;
 pub mod show;
@@ -91,6 +92,7 @@ fn main() {
     let mut shows = Vec::new();
     shows.append(&mut aceshigh::scrape());
     shows.append(&mut complex::scrape());
+    shows.append(&mut deltacenter::scrape());
     shows.append(&mut depot::scrape());
     shows.append(&mut maverik::scrape());
     shows.append(&mut soundwell::scrape());
