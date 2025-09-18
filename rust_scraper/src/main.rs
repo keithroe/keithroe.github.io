@@ -3,6 +3,7 @@ pub mod aceshigh;
 pub mod complex;
 pub mod deltacenter;
 pub mod depot;
+pub mod granary;
 pub mod maverik;
 pub mod show;
 pub mod soundwell;
@@ -95,6 +96,7 @@ fn main() {
     shows.append(&mut complex::scrape());
     shows.append(&mut deltacenter::scrape());
     shows.append(&mut depot::scrape());
+    shows.append(&mut granary::scrape());
     shows.append(&mut maverik::scrape());
     shows.append(&mut soundwell::scrape());
     shows.append(&mut stateroom::scrape());
