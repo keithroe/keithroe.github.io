@@ -3,52 +3,6 @@ use crate::util;
 use chrono::prelude::*;
 
 /*
-<div class="chakra-card__footer css-6nvkkc">
- <div class="css-1cbuemh">
-  <div class="css-1u2896s">
-   <p class="chakra-text css-zvlevn">
-    Nero
-   </p>
-   <p class="chakra-text css-1g5zdf0">
-    Sat Nov 16, 2024
-   </p>
-   <div class="css-7timbt">
-    <div class="css-0">
-     <a class="chakra-button css-1asqcxu" href="https://concerts.livenation.com/nero-salt-lake-city-utah-11-16-2024/event/1E0060BFC2A05247" target="_blank">
-      Buy Tickets
-     </a>
-    </div>
-    <div class="css-14dycje">
-     <button class="chakra-button css-16uafp" type="button">
-      More Info
-     </button>
-    </div>
-   </div>
-  </div>
- </div>
- <div class="css-27cwld">
-  <button aria-label="More Info" class="css-1v6uy3d">
-   <i aria-hidden="true" class="icn icn-ellipses __className_f3e3e6 css-1eqjgjs" focusable="false">
-   </i>
-  </button>
- </div>
- <time class="css-kfisjo">
-  <p class="chakra-text css-1yp7tc1">
-   Sat
-  </p>
-  <p class="chakra-text date-box-date css-go0khb">
-   16
-  </p>
-  <p class="chakra-text css-1yp7tc1">
-   Nov
-  </p>
- </time>
- <div class="css-l1pvlg">
-  <a class="chakra-linkbox__overlay css-a0kmza" href="https://concerts.livenation.com/nero-salt-lake-city-utah-11-16-2024/event/1E0060BFC2A05247" target="_blank">
-   Nero
-  </a>
- </div>
-</div>
 */
 
 pub fn scrape() -> Vec<show::Show> {

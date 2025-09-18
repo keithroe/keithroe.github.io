@@ -9,6 +9,7 @@ pub mod soundwell;
 pub mod stateroom;
 pub mod twentyfourtix;
 pub mod union;
+pub mod utahfirst;
 pub mod util;
 
 const HTML_TEMPLATE: &str = r###" 
@@ -99,6 +100,7 @@ fn main() {
     shows.append(&mut stateroom::scrape());
     shows.append(&mut twentyfourtix::scrape());
     shows.append(&mut union::scrape());
+    shows.append(&mut utahfirst::scrape());
 
     generate_html_page(&shows);
 }

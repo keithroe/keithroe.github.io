@@ -32,6 +32,7 @@ pub fn scrape() -> Vec<show::Show> {
 
     let mut page = 0;
     let mut shows = Vec::new();
+    let mut venues = std::collections::HashSet::new();
     loop {
         let url = format!("https://www.24tix.com/?batch_page={}", page);
         let html = util::get_html(&url).unwrap();
@@ -94,6 +95,7 @@ pub fn scrape() -> Vec<show::Show> {
                 // These are redundant with Aces High's own website
                 continue;
             }
+            venues.insert(venue_str.clone());
 
             let city_strs = div_tag
                 .select(&scraper::Selector::parse("small").unwrap())
@@ -123,6 +125,10 @@ pub fn scrape() -> Vec<show::Show> {
         page += 1;
     }
     println!("\tprocessed {} pages", page);
+    println!("\tvenues");
+    for v in venues {
+        println!("\t\t{}", v);
+    }
     println!("\tfound {} shows", shows.len());
     shows
 }
