@@ -4,6 +4,7 @@ pub mod complex;
 pub mod deltacenter;
 pub mod depot;
 pub mod granary;
+pub mod hogwallow;
 pub mod liquidjoes;
 pub mod maverik;
 pub mod show;
@@ -98,6 +99,7 @@ fn main() {
     shows.append(&mut deltacenter::scrape());
     shows.append(&mut depot::scrape());
     shows.append(&mut granary::scrape());
+    shows.append(&mut hogwallow::scrape());
     shows.append(&mut liquidjoes::scrape());
     shows.append(&mut maverik::scrape());
     shows.append(&mut soundwell::scrape());

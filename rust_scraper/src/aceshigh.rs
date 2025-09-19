@@ -44,7 +44,7 @@ use crate::util;
 */
 
 pub fn scrape() -> Vec<show::Show> {
-    println!("processing Aces High ...");
+    println!("processing aces high ...");
 
     let mut shows = Vec::new();
     // TODO: website is bad -- but can do this:

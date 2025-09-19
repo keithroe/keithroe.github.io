@@ -14,7 +14,7 @@ use regex;
 */
 
 pub fn scrape() -> Vec<show::Show> {
-    println!("processing The Complex ...");
+    println!("processing the complex ...");
 
     let mut shows = Vec::new();
     let html = util::get_html("https://www.thecomplexslc.com/").unwrap();

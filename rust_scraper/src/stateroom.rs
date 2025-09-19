@@ -47,7 +47,7 @@ fn query_city_stateroom(venue_str: &str) -> String {
 }
 
 pub fn scrape() -> Vec<show::Show> {
-    println!("processing State Room Presents ...");
+    println!("processing state room presents ...");
 
     let mut shows = Vec::new();
     let html = util::get_html("https://thestateroompresents.com/state-room-presents").unwrap();
