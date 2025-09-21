@@ -10,8 +10,7 @@ pub struct Show {
 }
 
 impl Show {
-    #[allow(dead_code)]
-    pub fn in_past(self) -> bool {
+    pub fn in_past(&self) -> bool {
         self.date < Local::now().naive_local().date()
     }
 }
@@ -59,6 +58,10 @@ pub fn generate_table_rows(shows: &[Show]) -> String {
 
     let mut rows: Vec<String> = Vec::new();
     for show in shows {
+        if show.in_past() {
+            continue;
+        }
+
         let date_str = match Some(show.date) {
             last if last == last_date => "      ".to_string(),
             _ => {

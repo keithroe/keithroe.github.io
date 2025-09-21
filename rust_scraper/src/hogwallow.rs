@@ -25,7 +25,7 @@ use crate::util;
 */
 
 pub fn scrape() -> Vec<show::Show> {
-    println!("processing hogs wallow ...");
+    println!("processing hog wallow ...");
 
     let mut shows = Vec::new();
     let html = util::get_html(
