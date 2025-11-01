@@ -42,7 +42,11 @@ pub fn scrape() -> Vec<show::Show> {
     println!("processing granary ...");
 
     let mut shows = Vec::new();
-    let html = util::get_html("https://granarylive.com/events/").unwrap();
+    let venue_url = "https://granarylive.com/events/";
+    let Ok(html) = util::get_html(venue_url) else {
+        println!("\tWARNING: Failed to open '{}'", venue_url);
+        return shows;
+    };
 
     for event in html.select(&scraper::Selector::parse("div.event-wrapper").unwrap()) {
         let event_date_elmt = util::select_single(event, "div.event-start-date").unwrap();
