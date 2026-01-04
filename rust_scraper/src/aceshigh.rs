@@ -2,6 +2,59 @@ use crate::show;
 use crate::util;
 
 /*
+<li  class="tribe-common-g-row tribe-events-calendar-list__event-row" >
+
+    <div  class="tribe-events-calendar-list__event-date-tag tribe-common-g-col post-31530 tribe_events type-tribe_events status-publish hentry"  >
+        <time class="tribe-events-calendar-list__event-date-tag-datetime" datetime="2026-01-21" aria-hidden="true">
+            <span class="tribe-events-calendar-list__event-date-tag-weekday"> Wed </span>
+            <span class="tribe-events-calendar-list__event-date-tag-daynum tribe-common-h5 tribe-common-h4--min-medium"> 21 </span>
+        </time>
+    </div>
+
+    <div class="tribe-events-calendar-list__event-wrapper tribe-common-g-col">
+        <article  class="tribe-events-calendar-list__event tribe-common-g-row tribe-common-g-row--gutters post-31530 tribe_events type-tribe_events status-publish hentry" >
+
+-------------------------------------------------
+            <div class="tribe-events-calendar-list__event-details tribe-common-g-col">
+
+                <header class="tribe-events-calendar-list__event-header">
+                    <div class="tribe-events-calendar-list__event-datetime-wrapper tribe-common-b2">
+                        <time class="tribe-events-calendar-list__event-datetime" datetime="2026-01-21">
+                            <span class="tribe-event-date-start">January 21, 2026 @ 7:00 pm</span> -
+                            <span class="tribe-event-time">11:59 pm</span>
+                            <span class='timezone'> MST </span>
+                        </time>
+                    </div>
+                    <h4 class="tribe-events-calendar-list__event-title tribe-common-h6 tribe-common-h4--min-medium">
+                        <a
+                            href="https://aceshighsaloon.com/event/inhuman-condition-wretched-trash-panda/"
+                            title="Inhuman Condition, Wretched, Trash Panda, &amp; Sacrilegion"
+                            rel="bookmark"
+                            class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin"
+                        >
+                            Inhuman Condition, Wretched, Trash Panda, &amp; Sacrilegion
+                        </a>
+                    </h4>
+                </header>
+
+                <div class="tribe-events-c-small-cta tribe-common-b3 tribe-events-calendar-list__event-cost">
+                    <a
+                        href="https://aceshighsaloon.com/event/inhuman-condition-wretched-trash-panda/#tribe-tickets__tickets-form"
+                        class="tribe-events-c-small-cta__link tribe-common-cta tribe-common-cta--thin-alt"
+                    >
+                        Get Tickets
+                    </a>
+                    <span class="tribe-events-c-small-cta__price"> &#036;20.00    </span>
+                    <span class="tribe-events-c-small-cta__stock"> 200 tickets left </span>
+                </div>
+            </div>
+-------------------------------------------------
+        </article>
+    </div>
+</li>
+*/
+
+/*
 <div  class="tribe-common-g-row tribe-events-calendar-list__event-row" >
     <div class="tribe-events-calendar-list__event-date-tag tribe-common-g-col">
         <time class="tribe-events-calendar-list__event-date-tag-datetime" datetime="2024-12-05" aria-hidden="true">
@@ -59,12 +112,16 @@ pub fn scrape() -> Vec<show::Show> {
 
         let mut page_event_count = 0;
         for html_event in html
-            .select(&scraper::Selector::parse("div.tribe-events-calendar-list__event-row").unwrap())
+            //.select(&scraper::Selector::parse("div.tribe-events-calendar-list__event-row").unwrap())
+            .select(
+                &scraper::Selector::parse("div.tribe-events-calendar-list__event-details").unwrap(),
+            )
         {
             page_event_count += 1;
-            let link_elem = util::select_single(html_event, "a").unwrap();
-            //let link_selector = scraper::Selector::parse("a").unwrap();
-            //let link_elem = html_event.select(&link_selector).next().unwrap();
+            let link_elem =
+                //util::select_single(html_event, "a.tribe-events-calendar-list__event-title-link")
+                util::select_single(html_event, "a")
+                    .unwrap();
             let url_str = link_elem.attr("href").unwrap();
             let artist_str = link_elem
                 .text()
@@ -78,6 +135,9 @@ pub fn scrape() -> Vec<show::Show> {
             let date_str = time_elem.attr("datetime").unwrap();
             let date = chrono::naive::NaiveDate::parse_from_str(date_str, "%Y-%m-%d").unwrap();
 
+            if artist_str.to_ascii_lowercase().contains("karaoke") {
+                continue;
+            }
             shows.push(show::Show {
                 date,
                 artist: artist_str.to_string(),
