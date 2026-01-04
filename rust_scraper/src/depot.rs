@@ -30,7 +30,6 @@ pub fn scrape() -> Vec<show::Show> {
     loop {
         let url = format!("https://www.depotslc.com/shows?start={}", latest_date);
         let html = util::get_html(&url).unwrap();
-        println!("url: {}", url);
 
         let mut page_event_count = 0;
         for script_elmt in html.select(&scraper::Selector::parse("script").unwrap()) {

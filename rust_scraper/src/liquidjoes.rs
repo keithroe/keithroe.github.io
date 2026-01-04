@@ -67,6 +67,9 @@ pub fn scrape() -> Vec<show::Show> {
         let url_str = link_elmt.attr("href").unwrap().to_string();
         let url_str = base_url.join(&url_str).unwrap().to_string();
         let artist_str = util::get_text(link_elmt);
+        if artist_str.is_empty() {
+            continue;
+        }
 
         let date_str = util::get_text(util::select_single(event, "div.text-sm").unwrap());
         let date_strs = date_str
@@ -85,7 +88,7 @@ pub fn scrape() -> Vec<show::Show> {
         .unwrap();
 
         /*
-        println!("artist: {}", artist_str);
+        println!("artist: '{}'", artist_str);
         println!("url   : {}", url_str);
         println!("date  : {}", date);
         */
