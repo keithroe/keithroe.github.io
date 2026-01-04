@@ -2,6 +2,33 @@ use crate::show;
 use crate::util;
 
 /*
+<!-- Text area -->
+    <div class="flex flex-col gap-2 flex-1 px-5 pb-5
+                md:group-[.view-list]:px-0
+                md:group-[.view-list]:justify-center">
+
+        <a href="/e/saving-abel" class="text-base font-bold
+                    md:group-[.view-grid]:text-clip
+                    md:group-[.view-grid]:max-w-120">
+            Saving Abel
+        </a>
+
+        <div class="text-sm md:group-[.view-grid]:text-base">
+            Sunday, Jan 18, 2026 at 7:00 PM
+        </div>
+
+        <div class="text-xs">
+            <span class="data-location-address">Liquid Joe&#039;s, </span><span class="data-location-city">Salt Lake City, </span><span class="data-location-state">UT</span>
+        </div>
+
+        <!-- More details link shows only in list -->
+        <a href="/e/saving-abel" class="text-[#999999] text-sm max-md:hidden md:group-[.view-grid]:hidden">
+            More details
+        </a>
+    </div>
+*/
+
+/*
         <div class="event-info">
 //          <a href="/e/cup-of-aloha-tour" class="name">Cup of Aloha Tour</a>
 //          <div class="date date-long">Saturday, Oct 11, 2025 at 7:00 PM to Sunday, Oct 12, 2025</div>
@@ -31,13 +58,17 @@ pub fn scrape() -> Vec<show::Show> {
     let base_url = url::Url::parse("https://liquidjoes.ticketsauce.com/").unwrap();
     let html = util::get_html(&base_url.to_string()).unwrap();
 
-    for event in html.select(&scraper::Selector::parse("div.event-info").unwrap()) {
-        let link_elmt = util::select_single(event, "a.name").unwrap();
+    for event in html.select(&scraper::Selector::parse("div.flex-col").unwrap()) {
+        let link_elmt = match util::select_single(event, "a") {
+            Ok(elmt) => elmt,
+            Err(_) => continue,
+        };
+
         let url_str = link_elmt.attr("href").unwrap().to_string();
         let url_str = base_url.join(&url_str).unwrap().to_string();
         let artist_str = util::get_text(link_elmt);
 
-        let date_str = util::get_text(util::select_single(event, "div.date-long").unwrap());
+        let date_str = util::get_text(util::select_single(event, "div.text-sm").unwrap());
         let date_strs = date_str
             .split([' ', ','])
             .map(|s| s.to_string())
@@ -52,6 +83,12 @@ pub fn scrape() -> Vec<show::Show> {
             util::month_int_from_str(&month_str).unwrap(),
         )
         .unwrap();
+
+        /*
+        println!("artist: {}", artist_str);
+        println!("url   : {}", url_str);
+        println!("date  : {}", date);
+        */
 
         shows.push(show::Show {
             date,

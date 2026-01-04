@@ -94,6 +94,7 @@ fn main() {
     println!("Scraping ...");
 
     let mut shows = Vec::new();
+
     shows.append(&mut aceshigh::scrape());
     shows.append(&mut complex::scrape());
     shows.append(&mut deltacenter::scrape());

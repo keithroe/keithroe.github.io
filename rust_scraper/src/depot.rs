@@ -3,6 +3,19 @@ use crate::util;
 use chrono::prelude::*;
 
 /*
+// other method stopped working for a while -- could use this if fails again
+use chrono::Datelike;
+<div class="css-vlhl7f">
+    <time class="chakra-text css-18djj88" dateTime="2026-01-17">17</time>
+    <div class="css-18te69i">
+        <a target="_blank" class="chakra-link css-1auf7pg" title="Pearl Jam Experience @ 7:00PM" role="group" href="https://www.ticketmaster.com/pearl-jam-experience-salt-lake-city-utah-01-17-2026/event/1E006388AADE6721">
+            <span class="chakra-text css-83q39x">Pearl Jam Experience</span>
+            <span class="chakra-text css-18nnj73">7:00PM</span>
+        </a>
+    </div>
+</div>
+
+https://www.depotslc.com/shows/calendar/2026-05
 */
 
 pub fn scrape() -> Vec<show::Show> {
@@ -11,12 +24,17 @@ pub fn scrape() -> Vec<show::Show> {
     let mut shows = Vec::new();
 
     let mut latest_date = Local::now().naive_local().date();
+    //let month = latest_date.month();
+    //let year = latest_date.year();
+    //println!("{}-{}", year, month);
     loop {
         let url = format!("https://www.depotslc.com/shows?start={}", latest_date);
         let html = util::get_html(&url).unwrap();
+        println!("url: {}", url);
 
         let mut page_event_count = 0;
         for script_elmt in html.select(&scraper::Selector::parse("script").unwrap()) {
+            // TODO: match
             if let Some(type_) = script_elmt.value().attr("type") {
                 if type_ != "application/ld+json" {
                     continue;
