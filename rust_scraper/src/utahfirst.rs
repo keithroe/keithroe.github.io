@@ -1,5 +1,6 @@
 use crate::show;
 use crate::util;
+use regex::Regex;
 
 /*
 <script type="application/ld+json">
@@ -42,6 +43,19 @@ pub fn scrape() -> Vec<show::Show> {
             continue;
         }
         let url_str = json_map["url"].as_str().unwrap();
+
+        let date_str;
+        let date_re = Regex::new(r"[0-9]{2}-[0-9]{2}-[0-9]{4}").unwrap();
+        match date_re.find(url_str) {
+            Some(match_obj) => {
+                date_str = match_obj.as_str();
+            }
+            None => continue,
+        }
+        let Ok(date) = chrono::naive::NaiveDate::parse_from_str(&date_str, "%m-%d-%Y") else {
+            continue;
+        };
+        /*
         let date_str = json_map["startDate"]
             .as_str()
             .unwrap()
@@ -50,6 +64,7 @@ pub fn scrape() -> Vec<show::Show> {
             .unwrap()
             .to_string();
         let date = chrono::naive::NaiveDate::parse_from_str(&date_str, "%Y-%m-%d").unwrap();
+        */
 
         shows.push(show::Show {
             date,

@@ -1,6 +1,7 @@
 use crate::show;
 use crate::util;
 use chrono::prelude::*;
+use regex::Regex;
 
 /*
 // other method stopped working for a while -- could use this if fails again
@@ -21,6 +22,7 @@ https://www.depotslc.com/shows/calendar/2026-05
 pub fn scrape() -> Vec<show::Show> {
     println!("processing the depot ...");
 
+    let date_re = Regex::new(r"[0-9]{2}-[0-9]{2}-[0-9]{4}").unwrap();
     let mut shows = Vec::new();
 
     let mut latest_date = Local::now().naive_local().date();
@@ -48,6 +50,17 @@ pub fn scrape() -> Vec<show::Show> {
 
             let artist_str = json_map["name"].as_str().unwrap();
             let url_str = json_map["url"].as_str().unwrap();
+            let date_str;
+            match date_re.find(url_str) {
+                Some(match_obj) => {
+                    date_str = match_obj.as_str();
+                }
+                None => continue,
+            }
+            let Ok(date) = chrono::naive::NaiveDate::parse_from_str(&date_str, "%m-%d-%Y") else {
+                continue;
+            };
+            /*
             let date_str = json_map["startDate"]
                 .as_str()
                 .unwrap()
@@ -55,7 +68,13 @@ pub fn scrape() -> Vec<show::Show> {
                 .next()
                 .unwrap()
                 .to_string();
-            let date = chrono::naive::NaiveDate::parse_from_str(&date_str, "%Y-%m-%d").unwrap();
+            let date_str = json_map["start_date_local"].as_str().unwrap();
+            // thedepot has started listing some shows as "Date TBA"
+            let Ok(date) = chrono::naive::NaiveDate::parse_from_str(&date_str, "%Y-%m-%d") else {
+                continue;
+            };
+            */
+
             if date < latest_date {
                 continue;
             }
