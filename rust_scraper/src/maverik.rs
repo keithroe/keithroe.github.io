@@ -1,5 +1,6 @@
 use crate::show;
 use crate::util;
+use regex::Regex;
 
 /*
 
@@ -42,10 +43,23 @@ pub fn scrape() -> Vec<show::Show> {
     let mut shows = Vec::new();
     //let html = util::get_html("https://maverikcenter.com/events-tickets/upcoming-events/").unwrap();
     let html = util::get_html("https://maverikcenter.com/events/").unwrap();
+    let date_re = Regex::new(r"[0-9]{2}-[0-9]{2}-[0-9]{4}").unwrap();
 
     for event in html.select(&scraper::Selector::parse("div.event-info").unwrap()) {
         let date_div_elmt = util::select_single(event, "div.event-date").unwrap();
+        /*
         let date_str = util::get_text(date_div_elmt);
+        let date_tokens: Vec<_> = date_str
+            .split([' ', ','])
+            .filter(|x| !x.is_empty())
+            .collect();
+
+        let date = util::create_date(
+            date_tokens[1].parse::<u32>().unwrap(),
+            util::month_int_from_str(date_tokens[0]).unwrap(),
+        )
+        .unwrap();
+        */
 
         let artist_div_elmt = util::select_single(event, "div.event-title").unwrap();
         let artist_str = util::get_text(artist_div_elmt);
@@ -68,16 +82,16 @@ pub fn scrape() -> Vec<show::Show> {
 
         let url_str = link_elmt.attr("href").unwrap().to_string();
 
-        let date_tokens: Vec<_> = date_str
-            .split([' ', ','])
-            .filter(|x| !x.is_empty())
-            .collect();
-
-        let date = util::create_date(
-            date_tokens[1].parse::<u32>().unwrap(),
-            util::month_int_from_str(date_tokens[0]).unwrap(),
-        )
-        .unwrap();
+        let date_str;
+        match date_re.find(&url_str) {
+            Some(match_obj) => {
+                date_str = match_obj.as_str();
+            }
+            None => continue,
+        }
+        let Ok(date) = chrono::naive::NaiveDate::parse_from_str(&date_str, "%m-%d-%Y") else {
+            continue;
+        };
 
         shows.push(show::Show {
             date,
