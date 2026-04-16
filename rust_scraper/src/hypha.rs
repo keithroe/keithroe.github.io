@@ -65,7 +65,7 @@ pub fn scrape() -> Vec<show::Show> {
 
         // TODO: try to parse location from generic html text?
         let venue_str = "SEE EVENT LISTING";
-        let city_str = "SLC";
+        let city_str = "slc";
 
         shows.push(show::Show {
             date,
