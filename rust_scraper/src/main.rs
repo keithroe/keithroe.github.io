@@ -5,6 +5,7 @@ pub mod deltacenter;
 pub mod depot;
 pub mod granary;
 pub mod hogwallow;
+pub mod hypha;
 pub mod liquidjoes;
 pub mod maverik;
 pub mod show;
@@ -94,11 +95,11 @@ fn main() {
     println!("Scraping ...");
 
     let mut shows = Vec::new();
-
     shows.append(&mut aceshigh::scrape());
     shows.append(&mut complex::scrape());
     shows.append(&mut deltacenter::scrape());
     shows.append(&mut depot::scrape());
+    shows.append(&mut hypha::scrape());
     shows.append(&mut granary::scrape());
     shows.append(&mut hogwallow::scrape());
     shows.append(&mut liquidjoes::scrape());
