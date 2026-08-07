@@ -138,13 +138,13 @@ pub fn scrape() -> Vec<show::Show> {
             if artist_str.to_ascii_lowercase().contains("karaoke") {
                 continue;
             }
-            shows.push(show::Show {
+            shows.push(show::Show::new(
                 date,
-                artist: artist_str.to_string(),
-                venue: "aces high".to_string(),
-                city: "slc".to_string(),
-                url: url_str.to_string(),
-            });
+                artist_str,
+                "aces high",
+                "slc",
+                url_str,
+            ));
         }
 
         if page_event_count == 0 {

@@ -110,13 +110,9 @@ pub fn scrape() -> Vec<show::Show> {
             let city_str = city_str.replace("salt lake city", "slc");
             let city_str = city_str.replace(",", "slc");
 
-            shows.push(show::Show {
-                date,
-                artist: artist_str,
-                venue: venue_str,
-                city: city_str,
-                url: link_str.to_string(),
-            });
+            shows.push(show::Show::new(
+                date, artist_str, venue_str, city_str, link_str,
+            ));
         }
 
         if page_event_count == 0 {

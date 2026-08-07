@@ -80,13 +80,13 @@ pub fn scrape() -> Vec<show::Show> {
             }
             latest_date = date.checked_add_days(chrono::Days::new(1)).unwrap();
 
-            shows.push(show::Show {
+            shows.push(show::Show::new(
                 date,
-                artist: artist_str.to_string(),
-                venue: "the depot".to_string(),
-                city: "slc".to_string(),
-                url: url_str.to_string(),
-            });
+                artist_str,
+                "the depot",
+                "slc",
+                url_str,
+            ));
             page_event_count += 1;
         }
         if page_event_count == 0 {
@@ -143,13 +143,13 @@ pub fn scrape() -> Vec<show::Show> {
                 continue;
             }
 
-            shows.push(show::Show {
+            shows.push(show::Show::new(
                 date,
-                artist: artist_str,
-                venue: "the depot".to_string(),
-                city: "slc".to_string(),
-                url: url_str.to_string(),
-            });
+                artist_str,
+                "the depot",
+                "slc",
+                url_str,
+            ));
         }
 
         if page_event_count == 0 {

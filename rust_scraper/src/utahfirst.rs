@@ -66,13 +66,13 @@ pub fn scrape() -> Vec<show::Show> {
         let date = chrono::naive::NaiveDate::parse_from_str(&date_str, "%Y-%m-%d").unwrap();
         */
 
-        shows.push(show::Show {
+        shows.push(show::Show::new(
             date,
-            artist: artist_str.to_string(),
-            venue: "utah first".to_string(),
-            city: "west valley".to_string(),
-            url: url_str.to_string(),
-        });
+            artist_str,
+            "utah first",
+            "west valley",
+            url_str,
+        ));
     }
 
     println!("\tfound {} shows", shows.len());

@@ -61,13 +61,13 @@ pub fn scrape() -> Vec<show::Show> {
             continue;
         }
 
-        shows.push(show::Show {
+        shows.push(show::Show::new(
             date,
-            artist: artist_str.to_string(),
-            venue: "the complex".to_string(),
-            city: "slc".to_string(),
-            url: url_str.to_string(),
-        });
+            artist_str,
+            "the complex",
+            "slc",
+            url_str,
+        ));
     }
     println!("\tfound {} shows", shows.len());
     shows
