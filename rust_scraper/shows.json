@@ -401,7 +401,7 @@
   },
   {
     "date": "2026-08-12",
-    "artist": "Olivia O\u2019Brien",
+    "artist": "Olivia O’Brien",
     "venue": "metro music hall",
     "city": "slc",
     "url": "https://www.24tix.com/events/p36nnn4oxnd4patvlwmkdqxdom",
@@ -593,7 +593,7 @@
   },
   {
     "date": "2026-08-14",
-    "artist": "The Guess Who: Takin\u2019 It Back Tour 2026",
+    "artist": "The Guess Who: Takin’ It Back Tour 2026",
     "venue": "maverik center",
     "city": "west valley",
     "url": "https://www.ticketmaster.com/the-guess-who-takin-it-back-west-valley-city-utah-08-14-2026/event/1E006459F4CEB611?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
@@ -825,7 +825,7 @@
   },
   {
     "date": "2026-08-18",
-    "artist": "Bleakness, All Systems Fail, & The X\u2019d",
+    "artist": "Bleakness, All Systems Fail, & The X’d",
     "venue": "aces high",
     "city": "slc",
     "url": "https://aceshighsaloon.com/event/bleakness-all-systems-fail-the-xd/",
@@ -876,7 +876,7 @@
     "artist": "Thee Sacred Souls",
     "venue": "other rooms",
     "city": "slc?",
-    "url": "https://www.ticketmaster.com/event/1E006505C646F280",
+    "url": "https://link.seated.com/39a2d36f-14fe-40b9-98a5-55b03d510d4f",
     "date_created": "2026-08-07"
   },
   {
@@ -1073,7 +1073,7 @@
   },
   {
     "date": "2026-08-21",
-    "artist": "Coone (360\u00ba SET)",
+    "artist": "Coone (360º SET)",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10474",
@@ -1084,7 +1084,7 @@
     "artist": "Grid City Music Festival",
     "venue": "the commonwealth room",
     "city": "slc",
-    "url": "https://gridcitymusicfest.com",
+    "url": "https://www.axs.com/events/1559240/grid-city-music-fest-tickets?skin=stateroom",
     "date_created": "2026-08-07"
   },
   {
@@ -1185,7 +1185,7 @@
   },
   {
     "date": "2026-08-22",
-    "artist": "(NEW VENUE) Diggy Graves \u2013 The No Vacancy Tour at The Depot",
+    "artist": "(NEW VENUE) Diggy Graves – The No Vacancy Tour at The Depot",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://tixr.com/e/171625",
@@ -1241,7 +1241,7 @@
   },
   {
     "date": "2026-08-22",
-    "artist": "Diggy Graves \u2013 The No Vacancy Tour",
+    "artist": "Diggy Graves – The No Vacancy Tour",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://tixr.com/e/171625",
@@ -1273,19 +1273,19 @@
   },
   {
     "date": "2026-08-22",
-    "artist": "SOLD OUT: Diggy Graves \u2013 The No Vacancy Tour",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/171625",
-    "date_created": "2026-04-21"
-  },
-  {
-    "date": "2026-08-22",
-    "artist": "Sofi Tukker",
+    "artist": "SOFI TUKKER",
     "venue": "ogden amphitheater",
     "city": "ogden",
     "url": "https://www.24tix.com/events/6uurchmozrfnffqlnqh2hvnil4",
     "date_created": "2026-04-02"
+  },
+  {
+    "date": "2026-08-22",
+    "artist": "SOLD OUT: Diggy Graves – The No Vacancy Tour",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/171625",
+    "date_created": "2026-04-21"
   },
   {
     "date": "2026-08-22",
@@ -1337,7 +1337,7 @@
   },
   {
     "date": "2026-08-23",
-    "artist": "Grupo Frontera \u2013 Triste Pero Bien C*bron Tour",
+    "artist": "Grupo Frontera – Triste Pero Bien C*bron Tour",
     "venue": "maverik center",
     "city": "west valley",
     "url": "https://www.ticketmaster.com/grupo-frontera-triste-pero-bien-cbron-west-valley-city-utah-08-23-2026/event/1E006465B032AE3E?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
@@ -1385,7 +1385,7 @@
   },
   {
     "date": "2026-08-24",
-    "artist": "Ricardo Montaner: El \u00daltimo Regreso Tour",
+    "artist": "Ricardo Montaner: El Último Regreso Tour",
     "venue": "maverik center",
     "city": "west valley",
     "url": "https://www.ticketmaster.com/ricardo-montaner-el-ultimo-regreso-tour-west-valley-city-utah-08-24-2026/event/1E006361C2F679DF",
@@ -1465,6 +1465,14 @@
   },
   {
     "date": "2026-08-26",
+    "artist": "Madra Mor",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/w7mrgprpybajvfeycz4lxgtt5m",
+    "date_created": "2026-08-07"
+  },
+  {
+    "date": "2026-08-26",
     "artist": "Scott Stewart",
     "venue": "hog wallow",
     "city": "cottonwood",
@@ -1521,7 +1529,7 @@
   },
   {
     "date": "2026-08-27",
-    "artist": "Collie Buddz \u2013 The Spark Up Tour",
+    "artist": "Collie Buddz – The Spark Up Tour",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://tixr.com/e/139607",
@@ -1897,7 +1905,7 @@
   },
   {
     "date": "2026-08-31",
-    "artist": "Lap\u00eache",
+    "artist": "Lapêche",
     "venue": "the dlc at quarters",
     "city": "slc",
     "url": "https://www.24tix.com/events/7cqv5z677bhqphe6gqosbp7age",
@@ -2298,7 +2306,7 @@
   {
     "date": "2026-09-09",
     "artist": "Squeeze",
-    "venue": "the state room presents",
+    "venue": "other rooms",
     "city": "slc?",
     "url": "https://www.live-at-the-eccles.com/events/squeeze",
     "date_created": "2026-05-06"
@@ -2353,7 +2361,7 @@
   },
   {
     "date": "2026-09-10",
-    "artist": "Ninajirachi \u2018I Love My Computer\u2019 Tour",
+    "artist": "Ninajirachi ‘I Love My Computer’ Tour",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://tixr.com/e/146493",
@@ -2441,7 +2449,7 @@
   },
   {
     "date": "2026-09-12",
-    "artist": "Bearded Punk Fest \u2013 American Humor, Frick., Pirates of the Promised Land, Molotovin, The Apathetics, This Place Sucks, Atypical Heroes,Foot, The Glitter Bombs, Hi-Fi Murder, & The Mutiny",
+    "artist": "Bearded Punk Fest – American Humor, Frick., Pirates of the Promised Land, Molotovin, The Apathetics, This Place Sucks, Atypical Heroes,Foot, The Glitter Bombs, Hi-Fi Murder, & The Mutiny",
     "venue": "aces high",
     "city": "slc",
     "url": "https://aceshighsaloon.com/event/bearded-punk-fest-american-humor-frick-pirates-of-the-promised-land-molotovin-the-apathetics-this-place-sucks-atypical-heroesfoot-the-glitter-bombs-hi-fi-murder-the-mutiny/",
@@ -2449,7 +2457,7 @@
   },
   {
     "date": "2026-09-12",
-    "artist": "Bearded Punk Fest \u2013 American Humor, Frick., Pirates of the Promised Land, Molotovin, The Apathetics, This Place Sucks, Atypical Heroes,Foot, The Glitter Bombs, Hi-Fi Murder, &,The Mutiny",
+    "artist": "Bearded Punk Fest – American Humor, Frick., Pirates of the Promised Land, Molotovin, The Apathetics, This Place Sucks, Atypical Heroes,Foot, The Glitter Bombs, Hi-Fi Murder, &,The Mutiny",
     "venue": "aces high",
     "city": "slc",
     "url": "https://aceshighsaloon.com/event/bearded-punk-fest-american-humor-frick-pirates-of-the-promised-land-molotovin-the-apathetics-this-place-sucks-atypical-heroesfoot-the-glitter-bombs-hi-fi-murder-the-mutiny/",
@@ -2505,7 +2513,7 @@
   },
   {
     "date": "2026-09-12",
-    "artist": "Hot Wheels Pedal to the Metal VIP \u2013 4PM",
+    "artist": "Hot Wheels Pedal to the Metal VIP – 4PM",
     "venue": "maverik center",
     "city": "west valley",
     "url": "https://www.ticketmaster.com/hot-wheels-pedal-to-the-metal-west-valley-city-utah-09-12-2026/event/1E0064649347810C?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
@@ -2513,7 +2521,7 @@
   },
   {
     "date": "2026-09-12",
-    "artist": "Hot Wheels Pedal to the Metal VIP \u2013 9AM",
+    "artist": "Hot Wheels Pedal to the Metal VIP – 9AM",
     "venue": "maverik center",
     "city": "west valley",
     "url": "https://www.ticketmaster.com/hot-wheels-pedal-to-the-metal-west-valley-city-utah-09-12-2026/event/1E006464932B80CC?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
@@ -2521,7 +2529,7 @@
   },
   {
     "date": "2026-09-12",
-    "artist": "Hot Wheels Start Your Engine VIP \u2013 4PM",
+    "artist": "Hot Wheels Start Your Engine VIP – 4PM",
     "venue": "maverik center",
     "city": "west valley",
     "url": "https://www.ticketmaster.com/hot-wheels-start-your-engine-vip-west-valley-city-utah-09-12-2026/event/1E00646496F78721?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
@@ -2529,7 +2537,7 @@
   },
   {
     "date": "2026-09-12",
-    "artist": "Hot Wheels Start Your Engine VIP \u2013 9AM",
+    "artist": "Hot Wheels Start Your Engine VIP – 9AM",
     "venue": "maverik center",
     "city": "west valley",
     "url": "https://www.ticketmaster.com/hot-wheels-start-your-engine-vip-west-valley-city-utah-09-12-2026/event/1E006464961285CD?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
@@ -2550,6 +2558,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/142794",
     "date_created": "2025-09-13"
+  },
+  {
+    "date": "2026-09-12",
+    "artist": "Sarah Degraw Band",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/sarah-degraw-band1500.html",
+    "date_created": "2026-08-07"
   },
   {
     "date": "2026-09-12",
@@ -2585,7 +2601,7 @@
   },
   {
     "date": "2026-09-13",
-    "artist": "Hot Wheels Pedal to the Metal VIP \u2013 11AM",
+    "artist": "Hot Wheels Pedal to the Metal VIP – 11AM",
     "venue": "maverik center",
     "city": "west valley",
     "url": "https://www.ticketmaster.com/hot-wheels-pedal-to-the-metal-west-valley-city-utah-09-13-2026/event/1E006464958C8516?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
@@ -2593,7 +2609,7 @@
   },
   {
     "date": "2026-09-13",
-    "artist": "Hot Wheels Start Your Engine VIP \u2013 11AM",
+    "artist": "Hot Wheels Start Your Engine VIP – 11AM",
     "venue": "maverik center",
     "city": "west valley",
     "url": "https://www.ticketmaster.com/hot-wheels-start-your-engine-vip-west-valley-city-utah-09-13-2026/event/1E0064649A5D8A6B?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
@@ -2678,6 +2694,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/142625",
     "date_created": "2025-09-16"
+  },
+  {
+    "date": "2026-09-15",
+    "artist": "Carrie Nation & The Speakeasy",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/carrie-nation-the-speakeasy/",
+    "date_created": "2026-08-07"
   },
   {
     "date": "2026-09-15",
@@ -2825,7 +2849,7 @@
   },
   {
     "date": "2026-09-17",
-    "artist": "Ice Cube: Truth to Power \u2013 Four Decades of Attitude",
+    "artist": "Ice Cube: Truth to Power – Four Decades of Attitude",
     "venue": "maverik center",
     "city": "west valley",
     "url": "https://www.ticketmaster.com/ice-cube-truth-to-power-four-west-valley-city-utah-09-17-2025/event/1E00628BB8E24931",
@@ -2884,7 +2908,7 @@
     "artist": "Andre Nickatina",
     "venue": "liquid joes",
     "city": "slc",
-    "url": "https://liquidjoes.ticketsauce.com/e/andre-nickatina",
+    "url": "https://www.eventbrite.com/e/andre-nickatina-at-liquid-joes-salt-lake-city-tickets-1991293975886?aff",
     "date_created": "2026-06-08"
   },
   {
@@ -3041,7 +3065,7 @@
   },
   {
     "date": "2026-09-20",
-    "artist": "Charlotte Sands \u2013 Satellite Tour",
+    "artist": "Charlotte Sands – Satellite Tour",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://tixr.com/e/192356",
@@ -3057,7 +3081,7 @@
   },
   {
     "date": "2026-09-20",
-    "artist": "ROSIE \u2013 City Woman Tour",
+    "artist": "ROSIE – City Woman Tour",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://tixr.com/e/150729",
@@ -3097,7 +3121,7 @@
   },
   {
     "date": "2026-09-21",
-    "artist": "The Return Of The Carnival Of Sins: M\u00f6tley Cr\u00fce",
+    "artist": "The Return Of The Carnival Of Sins: Mötley Crüe",
     "venue": "utah first",
     "city": "west valley",
     "url": "https://www.ticketmaster.com/the-return-of-the-carnival-of-west-valley-city-utah-09-21-2026/event/1E00636DED16BA3C",
@@ -3433,7 +3457,7 @@
   },
   {
     "date": "2026-09-26",
-    "artist": "Elefante en Concierto \u2013 Tour 30 aniversario",
+    "artist": "Elefante en Concierto – Tour 30 aniversario",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://tixr.com/e/154502",
@@ -3569,7 +3593,7 @@
   },
   {
     "date": "2026-09-28",
-    "artist": "L\u00d8L\u00d8",
+    "artist": "LØLØ",
     "venue": "metro music hall",
     "city": "slc",
     "url": "https://www.24tix.com/events/zijxfkmsbjgqrn6wfbvkz6suye",
@@ -3689,7 +3713,7 @@
   },
   {
     "date": "2026-09-30",
-    "artist": "Arrows in Action \u2013 I Think We\u2019ve Toured Here Before",
+    "artist": "Arrows in Action – I Think We’ve Toured Here Before",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://tixr.com/e/189414",
@@ -3713,7 +3737,7 @@
   },
   {
     "date": "2026-09-30",
-    "artist": "Bring Me The Horizon \u2013 USA Ascension Program Part 01",
+    "artist": "Bring Me The Horizon – USA Ascension Program Part 01",
     "venue": "maverik center",
     "city": "west valley",
     "url": "https://www.ticketmaster.com/bring-me-the-horizon-usa-ascension-west-valley-city-utah-09-30-2025/event/1E00625B9C5137A2",
@@ -3786,7 +3810,7 @@
   {
     "date": "2026-10-01",
     "artist": "Phillip Phillips",
-    "venue": "the state room",
+    "venue": "the commonwealth room",
     "city": "slc",
     "url": "https://www.axs.com/events/1493718/phillip-phillips-tickets?skin=stateroom",
     "date_created": "2026-06-24"
@@ -3825,7 +3849,7 @@
   },
   {
     "date": "2026-10-02",
-    "artist": "AD\u00c9LA: The Red Bottoms Tour",
+    "artist": "ADÉLA: The Red Bottoms Tour",
     "venue": "the depot",
     "city": "slc",
     "url": "https://www.ticketmaster.com/adela-the-red-bottoms-tour-salt-lake-city-utah-10-02-2026/event/1E0064B595EE7570",
@@ -3905,7 +3929,7 @@
   },
   {
     "date": "2026-10-03",
-    "artist": "Bumpin Uglies \u2013 Orange Crush Tour",
+    "artist": "Bumpin Uglies – Orange Crush Tour",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10401/bumpinuglies",
@@ -4033,7 +4057,7 @@
   },
   {
     "date": "2026-10-04",
-    "artist": "Rachel Bochner | The \u201cSorry If It\u2019s Selfish\u201d Tour",
+    "artist": "Rachel Bochner | The “Sorry If It’s Selfish” Tour",
     "venue": "kilby court",
     "city": "slc",
     "url": "https://www.24tix.com/events/44enpxbyangd5kr44tqkwz7obi",
@@ -4121,7 +4145,7 @@
   },
   {
     "date": "2026-10-06",
-    "artist": "LAKEVIEW \u2013 WRECK MY NIGHT TOUR",
+    "artist": "LAKEVIEW – WRECK MY NIGHT TOUR",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10448",
@@ -4249,7 +4273,7 @@
   },
   {
     "date": "2026-10-07",
-    "artist": "ZOLITA \u2013 THE HELL\u2019S BELLES TOUR",
+    "artist": "ZOLITA – THE HELL’S BELLES TOUR",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://tixr.com/e/193514",
@@ -4273,7 +4297,7 @@
   },
   {
     "date": "2026-10-08",
-    "artist": "Fly by Midnight \u2013 The Fastest Time Of Our Lives: A North American Tour",
+    "artist": "Fly by Midnight – The Fastest Time Of Our Lives: A North American Tour",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://tixr.com/e/142287",
@@ -4385,7 +4409,7 @@
   },
   {
     "date": "2026-10-09",
-    "artist": "HEY, NOTHING \u2013 THE HOUND TOUR",
+    "artist": "HEY, NOTHING – THE HOUND TOUR",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://tixr.com/e/194170",
@@ -4401,7 +4425,7 @@
   },
   {
     "date": "2026-10-09",
-    "artist": "Jon Pardi: Gamblin\u2019 Man Tour 2026",
+    "artist": "Jon Pardi: Gamblin’ Man Tour 2026",
     "venue": "maverik center",
     "city": "west valley",
     "url": "https://www.ticketmaster.com/jon-pardi-gamblin-man-tour-2026-west-valley-city-utah-10-09-2026/event/1E0064F081725388?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
@@ -4457,10 +4481,10 @@
   },
   {
     "date": "2026-10-10",
-    "artist": "Doja Cat \u2013 Tour Ma Vie World Tour",
+    "artist": "Doja Cat – Tour Ma Vie World Tour",
     "venue": "maverik center",
     "city": "west valley",
-    "url": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-west-valley-city-utah-10-10-2026/event/1E00633AD8D45048",
+    "url": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-west-valley-city-utah-10-10-2026/event/1E00633AD8D45048?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
     "date_created": "2026-02-28"
   },
   {
@@ -4714,8 +4738,8 @@
   {
     "date": "2026-10-14",
     "artist": "Jim Henson's Labyrinth In Concert",
-    "venue": "the state room presents",
-    "city": "slc?",
+    "venue": "eccles theater",
+    "city": "slc",
     "url": "https://artstickets.utah.edu/events/labyrinth-in-concert/",
     "date_created": "2026-03-17"
   },
@@ -4785,7 +4809,7 @@
   },
   {
     "date": "2026-10-15",
-    "artist": "Kyle Hume It\u2019s a Zoo Out There",
+    "artist": "Kyle Hume It’s a Zoo Out There",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10374/kyle-hume",
@@ -4833,7 +4857,7 @@
   },
   {
     "date": "2026-10-16",
-    "artist": "BL\u00dc EYES",
+    "artist": "BLÜ EYES",
     "venue": "the urban lounge",
     "city": "slc",
     "url": "https://www.24tix.com/events/rsivfexwjrffnolk5bpdruckn4",
@@ -4873,7 +4897,7 @@
   },
   {
     "date": "2026-10-16",
-    "artist": "To The Grave + Crown Magnetar \u2013 The Sawed Off Suffering Tour",
+    "artist": "To The Grave + Crown Magnetar – The Sawed Off Suffering Tour",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://tixr.com/e/194114",
@@ -5641,7 +5665,7 @@
   },
   {
     "date": "2026-11-02",
-    "artist": "Chelo \u2013 El Adios de Una Grande",
+    "artist": "Chelo – El Adios de Una Grande",
     "venue": "maverik center",
     "city": "west valley",
     "url": "https://www.ticketmaster.com/chelo-el-adios-de-una-grande-west-valley-city-utah-11-02-2025/event/1E006267A97A2706",
@@ -5729,7 +5753,7 @@
   },
   {
     "date": "2026-11-03",
-    "artist": "Periphery \u2013 A Pale White Dot US Tour",
+    "artist": "Periphery – A Pale White Dot US Tour",
     "venue": "the union",
     "city": "slc",
     "url": "https://theunioneventcenter.com/upcomingevents/periphery",
@@ -6017,7 +6041,7 @@
   },
   {
     "date": "2026-11-12",
-    "artist": "Eiv\u00f8r",
+    "artist": "Eivør",
     "venue": "metro music hall",
     "city": "slc",
     "url": "https://www.24tix.com/events/bsojnl5cdvcpnhnvdimzk4alai",
@@ -6041,7 +6065,7 @@
   },
   {
     "date": "2026-11-13",
-    "artist": "Bayonne - The \u2018Filters\u2019 Tour",
+    "artist": "Bayonne - The ‘Filters’ Tour",
     "venue": "kilby court",
     "city": "slc",
     "url": "https://www.24tix.com/events/de5v564xbbctjbhdg3hnv24chq",
@@ -6057,7 +6081,7 @@
   },
   {
     "date": "2026-11-13",
-    "artist": "Brandon Lake \u2013 King of Hearts Tour",
+    "artist": "Brandon Lake – King of Hearts Tour",
     "venue": "maverik center",
     "city": "west valley",
     "url": "https://www.ticketmaster.com/brandon-lake-king-of-hearts-tour-west-valley-city-utah-11-13-2025/event/1E00627FBBD7340C",
@@ -6257,7 +6281,7 @@
   },
   {
     "date": "2026-11-18",
-    "artist": "Arc\u00e1ngel - La 8va Maravilla World Tour",
+    "artist": "Arcángel - La 8va Maravilla World Tour",
     "venue": "the union",
     "city": "slc",
     "url": "https://theunioneventcenter.com/upcomingevents/arcangel",
@@ -6353,7 +6377,7 @@
   },
   {
     "date": "2026-11-20",
-    "artist": "John Legend \u2013 Get Lifted \u2013 20th Anniversary Tour",
+    "artist": "John Legend – Get Lifted – 20th Anniversary Tour",
     "venue": "maverik center",
     "city": "west valley",
     "url": "https://www.ticketmaster.com/an-evening-with-john-legend-get-west-valley-city-utah-11-20-2025/event/1E006271AAA92183",
@@ -6393,7 +6417,7 @@
   },
   {
     "date": "2026-11-20",
-    "artist": "VAL\u00c9",
+    "artist": "VALÉ",
     "venue": "the dlc at quarters",
     "city": "slc",
     "url": "https://www.24tix.com/events/fjqqd6yeufafnhbjiis3fphnda",
@@ -6561,11 +6585,19 @@
   },
   {
     "date": "2026-11-29",
-    "artist": "Distinct Motive THIS IS THE MOTIVE (360\u00ba)",
+    "artist": "Distinct Motive THIS IS THE MOTIVE (360º)",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://tixr.com/e/154146",
     "date_created": "2025-11-30"
+  },
+  {
+    "date": "2026-11-29",
+    "artist": "LETDOWN. - The Happy Tour",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/fyd5clfbrnc3ncyi32hyt7vvza",
+    "date_created": "2026-08-07"
   },
   {
     "date": "2026-11-29",
@@ -6574,6 +6606,14 @@
     "city": "slc",
     "url": "https://aceshighsaloon.com/event/psycroptic-inferi-cognitive/",
     "date_created": "2026-08-02"
+  },
+  {
+    "date": "2026-11-29",
+    "artist": "Psycroptic, Inferi, Cognitive & Summoning the Lich",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/psycroptic-inferi-cognitive/",
+    "date_created": "2026-08-07"
   },
   {
     "date": "2026-11-30",
@@ -6769,7 +6809,7 @@
   },
   {
     "date": "2026-12-06",
-    "artist": "Michael Smoak \u2013 The Purpose Progression: Understanding Your \u201cWhy\u201d",
+    "artist": "Michael Smoak – The Purpose Progression: Understanding Your “Why”",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10425/michaelsmoak",
@@ -6817,7 +6857,7 @@
   },
   {
     "date": "2026-12-09",
-    "artist": "Lindsey Stirling \u2013 The Snow Waltz Tour",
+    "artist": "Lindsey Stirling – The Snow Waltz Tour",
     "venue": "maverik center",
     "city": "west valley",
     "url": "https://www.ticketmaster.com/lindsey-stirling-the-snow-waltz-tour-west-valley-city-utah-12-09-2025/event/1E00630FA6542F56",
@@ -6889,7 +6929,7 @@
   },
   {
     "date": "2026-12-20",
-    "artist": "Friendsmas (360\u00ba)",
+    "artist": "Friendsmas (360º)",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://tixr.com/e/168865",
@@ -7004,7 +7044,7 @@
     "artist": "Jeff Arcuri",
     "venue": "eccles theater",
     "city": "slc",
-    "url": "https://www.live-at-the-eccles.com/events/jeff-arcuri",
+    "url": "https://my.arttix.org/overview/40097/",
     "date_created": "2026-06-24"
   },
   {
@@ -7041,7 +7081,7 @@
   },
   {
     "date": "2027-02-13",
-    "artist": "SOLD OUT: Khamari \u2013 To Dry a Tear: Part II",
+    "artist": "SOLD OUT: Khamari – To Dry a Tear: Part II",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://tixr.com/e/171417",
@@ -7073,7 +7113,7 @@
   },
   {
     "date": "2027-02-19",
-    "artist": "SOLD OUT: Whitney Hanson \u2013 Words Never Die Tour 2026",
+    "artist": "SOLD OUT: Whitney Hanson – Words Never Die Tour 2026",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10219/whitney-hanson",
@@ -7081,7 +7121,7 @@
   },
   {
     "date": "2027-02-20",
-    "artist": "Ricky\u2019s House Presents: Eras Night A Taylor Swift Sing-Along Dance Party",
+    "artist": "Ricky’s House Presents: Eras Night A Taylor Swift Sing-Along Dance Party",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://tixr.com/e/170840",
@@ -7105,7 +7145,7 @@
   },
   {
     "date": "2027-03-03",
-    "artist": "SZN4 \u2013 NEXT STOP: THE TOUR",
+    "artist": "SZN4 – NEXT STOP: THE TOUR",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10218/szn4",
@@ -7129,7 +7169,7 @@
   },
   {
     "date": "2027-03-06",
-    "artist": "FIA \u201cTHE LOVE ME TOUR\u201d",
+    "artist": "FIA “THE LOVE ME TOUR”",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10289/fia",
@@ -7217,7 +7257,7 @@
   },
   {
     "date": "2027-03-28",
-    "artist": "Kash\u2019d Out with Beach Fly",
+    "artist": "Kash’d Out with Beach Fly",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10215/kashd-out-slc",
@@ -7233,7 +7273,7 @@
   },
   {
     "date": "2027-04-05",
-    "artist": "Worry Club I\u2019m Freaking Out Tour",
+    "artist": "Worry Club I’m Freaking Out Tour",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://tixr.com/e/168841",
@@ -7265,7 +7305,7 @@
   },
   {
     "date": "2027-04-17",
-    "artist": "\u201cDad Rock Night\u201d (2000s Rock Tribute) presented by Council Hill",
+    "artist": "“Dad Rock Night” (2000s Rock Tribute) presented by Council Hill",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10452/dadrocknight",
@@ -7281,7 +7321,7 @@
   },
   {
     "date": "2027-04-26",
-    "artist": "Surfer Girl \u2013 Skydiving Tour",
+    "artist": "Surfer Girl – Skydiving Tour",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10327/surfer-girl",
@@ -7329,7 +7369,7 @@
   },
   {
     "date": "2027-05-09",
-    "artist": "Le Youth \u2013 who are you really? \u2013 Salt Lake City",
+    "artist": "Le Youth – who are you really? – Salt Lake City",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10299/le-youth-who-are-you-really-salt-lake-city",
@@ -7345,7 +7385,7 @@
   },
   {
     "date": "2027-05-16",
-    "artist": "Protoje \u2013 Reggae Invasion",
+    "artist": "Protoje – Reggae Invasion",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10328/protoje",
@@ -7361,7 +7401,7 @@
   },
   {
     "date": "2027-05-19",
-    "artist": "Collie Buddz \u2013 Spark Up Tour",
+    "artist": "Collie Buddz – Spark Up Tour",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10326/collie-buddz",
@@ -7369,7 +7409,7 @@
   },
   {
     "date": "2027-05-21",
-    "artist": "VUNDABAR \u2013 \u2018Gawk\u2019 10 Year Anniversary Tour",
+    "artist": "VUNDABAR – ‘Gawk’ 10 Year Anniversary Tour",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://tixr.com/e/171752",
@@ -7393,7 +7433,7 @@
   },
   {
     "date": "2027-06-05",
-    "artist": "Yot Club \u2013 Simpleton Tour",
+    "artist": "Yot Club – Simpleton Tour",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10335/yot-club",
@@ -7433,7 +7473,7 @@
   },
   {
     "date": "2027-06-13",
-    "artist": "Haute & Freddy\u2019s Big Disgrace Tour",
+    "artist": "Haute & Freddy’s Big Disgrace Tour",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://tixr.com/e/178604",
