@@ -1,165 +1,5 @@
 [
   {
-    "date": "2026-08-07",
-    "artist": "Blind Owl",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/blind-owl/",
-    "date_created": "2026-08-02"
-  },
-  {
-    "date": "2026-08-07",
-    "artist": "Blisspop Presents: Hot In Herre: 2000s Dance Party",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/2h4oq76pzvaprn4k5dgma3bzty",
-    "date_created": "2026-05-20"
-  },
-  {
-    "date": "2026-08-07",
-    "artist": "Extreme Dwarfanators Wrestling",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://www.tickettailor.com/events/dwarfanators/2200635",
-    "date_created": "2026-07-21"
-  },
-  {
-    "date": "2026-08-07",
-    "artist": "Forever 54",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/forever-54-salt-lake-city-utah-08-07-2026/event/1E0064CCAEA1AF88",
-    "date_created": "2026-07-10"
-  },
-  {
-    "date": "2026-08-07",
-    "artist": "Gasolina (18+)",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2979.htm",
-    "date_created": "2026-06-10"
-  },
-  {
-    "date": "2026-08-07",
-    "artist": "High-Five Hero - Album Release",
-    "venue": "the pearl on main",
-    "city": "midvale",
-    "url": "https://www.24tix.com/events/zpwvv3jzanac5h5g6nmuzwlnq4",
-    "date_created": "2026-06-22"
-  },
-  {
-    "date": "2026-08-07",
-    "artist": "Hogslop String Band & Hannah Marie Kelley",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10416/hogslopstringband-hannahmariekelley",
-    "date_created": "2026-05-21"
-  },
-  {
-    "date": "2026-08-07",
-    "artist": "James McMurtry (Night 2)",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1382034/james-mcmurtry-tickets?skin=stateroom",
-    "date_created": "2026-08-07"
-  },
-  {
-    "date": "2026-08-07",
-    "artist": "James McMurtry Night 2",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1382034/james-mcmurtry-tickets?skin=stateroom",
-    "date_created": "2026-03-26"
-  },
-  {
-    "date": "2026-08-07",
-    "artist": "KAWAII RAVE",
-    "venue": "metro music hall",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/xglbw4mminfq5pr362flcsnj5q",
-    "date_created": "2026-06-04"
-  },
-  {
-    "date": "2026-08-07",
-    "artist": "Pepper and The Movement - HIGH TIDE SUMMER TOUR",
-    "venue": "the union",
-    "city": "slc",
-    "url": "https://theunioneventcenter.com/upcomingevents/pepper-movement",
-    "date_created": "2026-03-26"
-  },
-  {
-    "date": "2026-08-07",
-    "artist": "Slumped + Bug Bath + Worlds Worst",
-    "venue": "SEE EVENT LISTING",
-    "city": "slc",
-    "url": "https://www.hyphaproductions.com/events/slumped-bug-bath-worlds-worst",
-    "date_created": "2026-06-26"
-  },
-  {
-    "date": "2026-08-07",
-    "artist": "The 18th Annual Craft Lake City DIY Festival",
-    "venue": "diy festival at the utah state fairpark",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/rocb75upibg6lllaotqnusehx4",
-    "date_created": "2026-04-27"
-  },
-  {
-    "date": "2026-08-07",
-    "artist": "The Conductor",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/kc5scwf5qvbofhkolbjbifudcq",
-    "date_created": "2026-08-05"
-  },
-  {
-    "date": "2026-08-07",
-    "artist": "The FIXX",
-    "venue": "the commonwealth room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1441062/the-fixx-tickets?skin=stateroom",
-    "date_created": "2026-05-13"
-  },
-  {
-    "date": "2026-08-07",
-    "artist": "The Marvelous Miss Gender Tour starring Bosco (18+)",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2887.htm",
-    "date_created": "2026-03-11"
-  },
-  {
-    "date": "2026-08-07",
-    "artist": "Weeb-core: J-core Vocaloid & Anime Rave",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/vkc5uosxffbyxggsnnh36xp4ye",
-    "date_created": "2026-07-13"
-  },
-  {
-    "date": "2026-08-07",
-    "artist": "Will Swinton",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/fw3ijyhvlneapkn3euf4chbzly",
-    "date_created": "2026-06-22"
-  },
-  {
-    "date": "2026-08-07",
-    "artist": "future.exboyfriend",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/future.exboyfriend1481.html",
-    "date_created": "2026-07-02"
-  },
-  {
-    "date": "2026-08-07",
-    "artist": "julie",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/145088",
-    "date_created": "2025-08-08"
-  },
-  {
     "date": "2026-08-08",
     "artist": "311 and Dirty Heads: So Glad You Made It Tour",
     "venue": "utah first",
@@ -7566,5 +7406,21 @@
     "city": "slc",
     "url": "https://tixr.com/e/187794",
     "date_created": "2026-08-07"
+  },
+  {
+    "date": "2027-08-07",
+    "artist": "Hogslop String Band & Hannah Marie Kelley",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10416/hogslopstringband-hannahmariekelley",
+    "date_created": "2026-08-08"
+  },
+  {
+    "date": "2027-08-07",
+    "artist": "The 18th Annual Craft Lake City DIY Festival",
+    "venue": "diy festival at the utah state fairpark",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/rocb75upibg6lllaotqnusehx4",
+    "date_created": "2026-08-08"
   }
 ]
