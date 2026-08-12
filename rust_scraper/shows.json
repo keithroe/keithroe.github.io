@@ -1,93 +1,5 @@
 [
   {
-    "date": "2026-08-10",
-    "artist": "Hank IV & The Strange Band & Clownvis",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/hank-iv-the-strange-band-clownvis/",
-    "date_created": "2026-05-06"
-  },
-  {
-    "date": "2026-08-10",
-    "artist": "Hank IV & The Strange Band, Clownvis, & Cougar Gold",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/hank-iv-the-strange-band-clownvis/",
-    "date_created": "2026-08-02"
-  },
-  {
-    "date": "2026-08-10",
-    "artist": "Hatchback (Final Show)",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/cre2drca45hfjegleglh3hw3fi",
-    "date_created": "2026-04-30"
-  },
-  {
-    "date": "2026-08-11",
-    "artist": "Anthony Gomes",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/ncoaf7jlxbf4tc2lyzpjwuugqm",
-    "date_created": "2026-06-04"
-  },
-  {
-    "date": "2026-08-11",
-    "artist": "Black Tusk & Blood Star",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/black-tusk-blood-star/",
-    "date_created": "2026-05-13"
-  },
-  {
-    "date": "2026-08-11",
-    "artist": "Doom Lounge",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/3zmc6m2s5jg4rpvadpdzjpd7ke",
-    "date_created": "2026-08-01"
-  },
-  {
-    "date": "2026-08-11",
-    "artist": "FEM&M X ASTRID - EMO GIRLS VS RAVE GIRLS",
-    "venue": "the pearl on main",
-    "city": "midvale",
-    "url": "https://www.24tix.com/events/wgnex4y5wbgwzckjnhfd56e4aq",
-    "date_created": "2026-06-24"
-  },
-  {
-    "date": "2026-08-11",
-    "artist": "La Luz",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/blfjf6fxfrh6dda4e3cgdy7voi",
-    "date_created": "2026-05-20"
-  },
-  {
-    "date": "2026-08-11",
-    "artist": "Nick Shoulders",
-    "venue": "the commonwealth room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1396812/nick-shoulders-tickets?skin=stateroom",
-    "date_created": "2026-04-10"
-  },
-  {
-    "date": "2026-08-11",
-    "artist": "PASSION PIT",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2893.htm",
-    "date_created": "2026-03-20"
-  },
-  {
-    "date": "2026-08-11",
-    "artist": "Puppeteers For Fears presents Robopocalypse: The Musical!",
-    "venue": "metro music hall",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/qimbrbzbvfhh7cre2drke3xyn4",
-    "date_created": "2026-05-06"
-  },
-  {
     "date": "2026-08-12",
     "artist": "Die Spitz",
     "venue": "soundwell",
@@ -166,6 +78,14 @@
     "city": "slc",
     "url": "https://www.hyphaproductions.com/events/cashier",
     "date_created": "2026-07-21"
+  },
+  {
+    "date": "2026-08-13",
+    "artist": "Fainting Dreams, Portal to the Goddamn Blood Dimension, The Madeline",
+    "venue": "SEE EVENT LISTING",
+    "city": "slc",
+    "url": "https://www.hyphaproductions.com/events/fainting-dreams-portal-to-the-goddamn-blood-dimension-the-madeline",
+    "date_created": "2026-08-12"
   },
   {
     "date": "2026-08-13",
@@ -582,6 +502,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/6g33toru2nbmnapniaevzywnve",
     "date_created": "2026-04-30"
+  },
+  {
+    "date": "2026-08-18",
+    "artist": "Experimental Night",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/3m5wf34os5gs7nirv6aizz5kga",
+    "date_created": "2026-08-12"
   },
   {
     "date": "2026-08-18",
@@ -1038,6 +966,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/143586",
     "date_created": "2025-08-23"
+  },
+  {
+    "date": "2026-08-22",
+    "artist": "WATERMEDOWN",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/cxn6psysujd4zhpapsdipc4vfi",
+    "date_created": "2026-08-12"
   },
   {
     "date": "2026-08-22",
@@ -1513,6 +1449,14 @@
   },
   {
     "date": "2026-08-29",
+    "artist": "Sludge Judy",
+    "venue": "liquid joes",
+    "city": "slc",
+    "url": "https://liquidjoes.ticketsauce.com/e/sludge-judy-2",
+    "date_created": "2026-08-12"
+  },
+  {
+    "date": "2026-08-29",
     "artist": "Steel & Seduction: WASTELANDER",
     "venue": "metro music hall",
     "city": "slc",
@@ -1590,6 +1534,14 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10460/kotathefriend",
     "date_created": "2026-07-10"
+  },
+  {
+    "date": "2026-08-30",
+    "artist": "Kota the Friend – Just Happy To Be Here Tour",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10460/kotathefriend",
+    "date_created": "2026-08-12"
   },
   {
     "date": "2026-08-30",
@@ -1838,6 +1790,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/nsegensqo5aujdafr3a54lcimy",
     "date_created": "2026-07-21"
+  },
+  {
+    "date": "2026-09-05",
+    "artist": "FML Fest 2",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/h426puwdbna2tctycilxb6m6am",
+    "date_created": "2026-08-12"
   },
   {
     "date": "2026-09-05",
@@ -2286,6 +2246,14 @@
     "city": "cottonwood",
     "url": "https://thehogwallow.com/music/live/sarah-degraw-band1500.html",
     "date_created": "2026-08-07"
+  },
+  {
+    "date": "2026-09-12",
+    "artist": "The Black Velvet Band",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/lanbdikylff33gdlco6pa2dj6i",
+    "date_created": "2026-08-12"
   },
   {
     "date": "2026-09-12",
@@ -3134,6 +3102,14 @@
     "city": "slc",
     "url": "https://liquidjoes.ticketsauce.com/e/lake-day",
     "date_created": "2026-07-21"
+  },
+  {
+    "date": "2026-09-25",
+    "artist": "OVERDRIVE feat. MEFJUS with DAXTA",
+    "venue": "vip event center",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/n33skhauybbbrcalrh55eaqbha",
+    "date_created": "2026-08-12"
   },
   {
     "date": "2026-09-25",
@@ -4585,6 +4561,14 @@
   },
   {
     "date": "2026-10-16",
+    "artist": "BINGO LOCO",
+    "venue": "the union",
+    "city": "slc",
+    "url": "https://theunioneventcenter.com/upcomingevents/octoberbingo",
+    "date_created": "2026-08-12"
+  },
+  {
+    "date": "2026-10-16",
     "artist": "BLÜ EYES",
     "venue": "the urban lounge",
     "city": "slc",
@@ -4622,6 +4606,14 @@
     "city": "slc",
     "url": "https://www.thecomplexslc.com/event-3005.htm",
     "date_created": "2026-07-15"
+  },
+  {
+    "date": "2026-10-16",
+    "artist": "The Rat Utopia Experiment",
+    "venue": "SEE EVENT LISTING",
+    "city": "slc",
+    "url": "https://www.hyphaproductions.com/events/the-rat-utopia-experiment",
+    "date_created": "2026-08-12"
   },
   {
     "date": "2026-10-16",
@@ -5113,6 +5105,14 @@
   },
   {
     "date": "2026-10-26",
+    "artist": "KING OF DRAG",
+    "venue": "metro music hall",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/gkjhyr477vhullqg4w5sybreay",
+    "date_created": "2026-08-12"
+  },
+  {
+    "date": "2026-10-26",
     "artist": "New Constellations: It Comes In Waves Tour",
     "venue": "soundwell",
     "city": "slc",
@@ -5310,6 +5310,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1524014/faetooth-tickets?skin=stateroom",
     "date_created": "2026-07-17"
+  },
+  {
+    "date": "2026-10-31",
+    "artist": "Fuerza Regida – This Is Our Dream Tour 2026",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/fuerza-regida-this-is-our-dream-west-valley-city-utah-10-31-2026/event/1E0065069F17A250?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-08-12"
   },
   {
     "date": "2026-10-31",
@@ -6560,6 +6568,14 @@
     "date_created": "2026-07-17"
   },
   {
+    "date": "2026-12-06",
+    "artist": "the olllam",
+    "venue": "the state room",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1557942/the-olllam-tickets?skin=stateroom",
+    "date_created": "2026-08-12"
+  },
+  {
     "date": "2026-12-08",
     "artist": "Pokey LaFarge",
     "venue": "the commonwealth room",
@@ -6598,6 +6614,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/152137",
     "date_created": "2025-12-11"
+  },
+  {
+    "date": "2026-12-12",
+    "artist": "Born Of Osiris x Miss May I",
+    "venue": "metro music hall",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/i77mjwcr7nbe7k2nxzr2qhas4i",
+    "date_created": "2026-08-12"
   },
   {
     "date": "2026-12-12",
