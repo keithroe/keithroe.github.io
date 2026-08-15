@@ -1,117 +1,5 @@
 [
   {
-    "date": "2026-08-14",
-    "artist": "ALT LAKE CITY",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/apiolpdbwjbsvfdog6ladyy7ca",
-    "date_created": "2026-06-24"
-  },
-  {
-    "date": "2026-08-14",
-    "artist": "As Above So Below",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/as-above-so-below-salt-lake-city-utah-08-14-2026/event/1E0064CCB843C3A6",
-    "date_created": "2026-07-10"
-  },
-  {
-    "date": "2026-08-14",
-    "artist": "Dance Machine",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/ctomey72avfythpb4etuuqgdze",
-    "date_created": "2026-08-05"
-  },
-  {
-    "date": "2026-08-14",
-    "artist": "Driveways",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/181951",
-    "date_created": "2026-03-26"
-  },
-  {
-    "date": "2026-08-14",
-    "artist": "Kirk Dath Band",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/kirk-dath-band1473.html",
-    "date_created": "2026-07-02"
-  },
-  {
-    "date": "2026-08-14",
-    "artist": "Krystal",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/egikopzsezbo5gfveg4ypedvm4",
-    "date_created": "2026-06-24"
-  },
-  {
-    "date": "2026-08-14",
-    "artist": "Meg Jordan",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/kaqjozrcw5bpxbwgqikkflihjy",
-    "date_created": "2026-07-05"
-  },
-  {
-    "date": "2026-08-14",
-    "artist": "Minot",
-    "venue": "3hive record lounge",
-    "city": "provo",
-    "url": "https://www.24tix.com/events/bncfoipaczcpxdwrodeylyti3e",
-    "date_created": "2026-06-24"
-  },
-  {
-    "date": "2026-08-14",
-    "artist": "Rucci",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://liquidjoes.ticketsauce.com/e/rucci",
-    "date_created": "2026-06-04"
-  },
-  {
-    "date": "2026-08-14",
-    "artist": "The Guess Who: Takin’ It Back Tour 2026",
-    "venue": "maverik center",
-    "city": "west valley",
-    "url": "https://www.ticketmaster.com/the-guess-who-takin-it-back-west-valley-city-utah-08-14-2026/event/1E006459F4CEB611?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
-    "date_created": "2026-03-04"
-  },
-  {
-    "date": "2026-08-14",
-    "artist": "The Hip Abduction",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2890.htm",
-    "date_created": "2026-03-17"
-  },
-  {
-    "date": "2026-08-14",
-    "artist": "Trombone Shorty & Orleans Avenue x St.Paul & The Broken Bones",
-    "venue": "deer valley",
-    "city": "park city",
-    "url": "https://www.axs.com/events/1425288/trombone-shorty-orleans-avenue-x-st-paul-the-broken-bones-tickets?skin=stateroom",
-    "date_created": "2026-04-30"
-  },
-  {
-    "date": "2026-08-14",
-    "artist": "WILLIS",
-    "venue": "metro music hall",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/y7c3zsbdffgqdnkwvgbozszctq",
-    "date_created": "2026-04-30"
-  },
-  {
-    "date": "2026-08-14",
-    "artist": "Widowspeak",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/o37vi6a7pzev5j3pgbfjzunuma",
-    "date_created": "2026-03-20"
-  },
-  {
     "date": "2026-08-15",
     "artist": "Cold Weather Venture",
     "venue": "kilby court",
@@ -614,6 +502,14 @@
     "city": "slc",
     "url": "https://www.ticketmaster.com/quicksand-bane-salt-lake-city-utah-08-21-2026/event/1E0064B6AA5E8B90",
     "date_created": "2026-05-28"
+  },
+  {
+    "date": "2026-08-21",
+    "artist": "Real Villains, Ribbons, Pogo Stix, & Filth Lords",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/real-villains-ribbons-pogo-stix-filth-lords/",
+    "date_created": "2026-08-15"
   },
   {
     "date": "2026-08-21",
@@ -1462,6 +1358,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/b5ank336vncvlocq5esk4ttvlm",
     "date_created": "2026-04-30"
+  },
+  {
+    "date": "2026-09-01",
+    "artist": "myveronica (LA)",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/obu65ndsd5dm7ey6pbns2ectjy",
+    "date_created": "2026-08-15"
   },
   {
     "date": "2026-09-02",
@@ -2606,6 +2510,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/2xi7wl5aovf2rh4bfhjj6xxsce",
     "date_created": "2026-03-29"
+  },
+  {
+    "date": "2026-09-19",
+    "artist": "The Lip",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/vi244aknnranrbehs35gekudoi",
+    "date_created": "2026-08-15"
   },
   {
     "date": "2026-09-19",
@@ -5496,6 +5408,14 @@
     "date_created": "2026-03-26"
   },
   {
+    "date": "2026-11-05",
+    "artist": "River Shook",
+    "venue": "the state room",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1566075/river-shook-tickets?skin=stateroom",
+    "date_created": "2026-08-15"
+  },
+  {
     "date": "2026-11-06",
     "artist": "Jessica Audiffred",
     "venue": "the complex",
@@ -6378,9 +6298,9 @@
   {
     "date": "2026-12-02",
     "artist": "Frost Children",
-    "venue": "soundwell",
+    "venue": "the depot",
     "city": "slc",
-    "url": "https://www.eventliveus.com/event/10491/frost-children",
+    "url": "https://www.ticketmaster.com/frost-children-salt-lake-city-utah-12-02-2026/event/1E00650D0768A397",
     "date_created": "2026-08-14"
   },
   {
@@ -6392,9 +6312,25 @@
     "date_created": "2026-06-24"
   },
   {
+    "date": "2026-12-02",
+    "artist": "NEW VENUE: Frost Children at The Depot",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.ticketmaster.com/event/1E00650D0768A397",
+    "date_created": "2026-08-15"
+  },
+  {
+    "date": "2026-12-03",
+    "artist": "Exhumed, Jarhead Fertilizer, Savage Master, & Molder",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/exhumed-jarhead-fertilizer-savage-master-mulder/",
+    "date_created": "2026-08-15"
+  },
+  {
     "date": "2026-12-03",
     "artist": "FATHER OF PEACE",
-    "venue": "kilby court",
+    "venue": "metro music hall",
     "city": "slc",
     "url": "https://www.24tix.com/events/2q2j2isw7jeeham7svzyz5ejm4",
     "date_created": "2026-06-24"
@@ -7310,5 +7246,21 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/rocb75upibg6lllaotqnusehx4",
     "date_created": "2026-08-08"
+  },
+  {
+    "date": "2027-08-14",
+    "artist": "ALT LAKE CITY",
+    "venue": "the urban lounge",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/apiolpdbwjbsvfdog6ladyy7ca",
+    "date_created": "2026-08-15"
+  },
+  {
+    "date": "2027-08-14",
+    "artist": "Driveways",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/181951",
+    "date_created": "2026-08-15"
   }
 ]
