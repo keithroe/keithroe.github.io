@@ -1,117 +1,5 @@
 [
   {
-    "date": "2026-08-15",
-    "artist": "Cold Weather Venture",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/qctmne7syve6vjx4go2wgzctrq",
-    "date_created": "2026-06-04"
-  },
-  {
-    "date": "2026-08-15",
-    "artist": "DWLLRS: One of Those Nights Tour",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/188170",
-    "date_created": "2026-05-06"
-  },
-  {
-    "date": "2026-08-15",
-    "artist": "End Of Summer Kiki Ball",
-    "venue": "metro music hall",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/4xea6d4akjbxtftgh7cwrkvtwa",
-    "date_created": "2026-07-21"
-  },
-  {
-    "date": "2026-08-15",
-    "artist": "Free the Witness, Subtitles, Bridge the Gap, & Hangxiety",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/free-the-witness-subtitles-bridge-the-gap-hangxiety/",
-    "date_created": "2026-05-21"
-  },
-  {
-    "date": "2026-08-15",
-    "artist": "Gorgeous Gourds",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/gorgeous-gourds1474.html",
-    "date_created": "2026-07-02"
-  },
-  {
-    "date": "2026-08-15",
-    "artist": "Heart Transplant Fundraiser Tour",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://liquidjoes.ticketsauce.com/e/heart-transplant-fundraiser-tour",
-    "date_created": "2026-04-27"
-  },
-  {
-    "date": "2026-08-15",
-    "artist": "I Know The DJ",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/syqowrgyura2vkjbpkrvb65kx4",
-    "date_created": "2026-08-05"
-  },
-  {
-    "date": "2026-08-15",
-    "artist": "Made To Suffer",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/md5ubkeo6ndovabow6ewiwowda",
-    "date_created": "2026-05-26"
-  },
-  {
-    "date": "2026-08-15",
-    "artist": "Oliver Tree",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2937.htm",
-    "date_created": "2026-05-06"
-  },
-  {
-    "date": "2026-08-15",
-    "artist": "Oliver Tree - Canceled",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2937.htm",
-    "date_created": "2026-07-10"
-  },
-  {
-    "date": "2026-08-15",
-    "artist": "RED HOT TRIBUTE",
-    "venue": "leatherheads sports bar",
-    "city": "draper",
-    "url": "https://www.24tix.com/events/ci62pml36vce5hct6eyi5kbx3y",
-    "date_created": "2026-06-13"
-  },
-  {
-    "date": "2026-08-15",
-    "artist": "Riff Wood",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2906.htm",
-    "date_created": "2026-03-31"
-  },
-  {
-    "date": "2026-08-15",
-    "artist": "That's Not Me Comedy Tour With Concrete & Jerry Garcia",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/thats-not-me-comedy-tour-with-salt-lake-city-utah-08-15-2026/event/1E00645BB58EB46C",
-    "date_created": "2026-03-03"
-  },
-  {
-    "date": "2026-08-15",
-    "artist": "Third World",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1508798/third-world-tickets?skin=stateroom",
-    "date_created": "2026-07-02"
-  },
-  {
     "date": "2026-08-16",
     "artist": "Casket Cassette",
     "venue": "kilby court",
@@ -406,6 +294,14 @@
     "city": "cottonwood",
     "url": "https://thehogwallow.com/music/live/rgt260722.html",
     "date_created": "2026-08-01"
+  },
+  {
+    "date": "2026-08-20",
+    "artist": "Nuff Seed & Sione Liti",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/rgt260722.html",
+    "date_created": "2026-08-16"
   },
   {
     "date": "2026-08-20",
@@ -2281,6 +2177,14 @@
   },
   {
     "date": "2026-09-17",
+    "artist": "Evelyn's Casket",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/om2a5ipnf5ggrppwwgyigdsw34",
+    "date_created": "2026-08-16"
+  },
+  {
+    "date": "2026-09-17",
     "artist": "Ghorot, Beach Master, Debrider, & Baby Gurl",
     "venue": "aces high",
     "city": "slc",
@@ -2590,6 +2494,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/5qtceiww3vepbb3mp4uwt34da4",
     "date_created": "2026-05-20"
+  },
+  {
+    "date": "2026-09-21",
+    "artist": "Lorraine-Dietrich",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/siejpk6t2rax3odpuhelbhoxia",
+    "date_created": "2026-08-16"
   },
   {
     "date": "2026-09-21",
@@ -3054,6 +2966,14 @@
     "city": "slc",
     "url": "https://www.live-at-the-eccles.com/events/ghostbusters-in-concert",
     "date_created": "2026-04-02"
+  },
+  {
+    "date": "2026-09-27",
+    "artist": "Jon Q Public",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/c2huqh5p3rhdngl7oe2dmyeeuu",
+    "date_created": "2026-08-16"
   },
   {
     "date": "2026-09-27",
@@ -7262,5 +7182,13 @@
     "city": "slc",
     "url": "https://tixr.com/e/181951",
     "date_created": "2026-08-15"
+  },
+  {
+    "date": "2027-08-15",
+    "artist": "DWLLRS: One of Those Nights Tour",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/188170",
+    "date_created": "2026-08-16"
   }
 ]
