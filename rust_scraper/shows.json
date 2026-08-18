@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-08-17",
-    "artist": "Goth Babe",
-    "venue": "this is the place heritage park",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/zfchc6va3be3hie4ptfhs3gyji",
-    "date_created": "2026-07-02"
-  },
-  {
-    "date": "2026-08-17",
-    "artist": "Kublaii",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/sppthzmbercebflzwsq4n62g3y",
-    "date_created": "2026-06-11"
-  },
-  {
-    "date": "2026-08-17",
-    "artist": "Profanatica & Cancerslug",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/profanatica-cancerslug/",
-    "date_created": "2026-06-04"
-  },
-  {
-    "date": "2026-08-17",
-    "artist": "Profanatica, Cancerslug, & Chasmlurk",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/profanatica-cancerslug/",
-    "date_created": "2026-07-21"
-  },
-  {
-    "date": "2026-08-17",
-    "artist": "church bats",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/2hhxfl3ie5hibmdpq4df5tsvqi",
-    "date_created": "2026-08-05"
-  },
-  {
     "date": "2026-08-18",
     "artist": "Bleakness, All Systems Fail, & The X'd",
     "venue": "aces high",
@@ -78,6 +38,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/rn7mf52axra6bfigspjcz7gynu",
     "date_created": "2026-08-05"
+  },
+  {
+    "date": "2026-08-18",
+    "artist": "Dance Noir",
+    "venue": "liquid joes",
+    "city": "slc",
+    "url": "https://liquidjoes.ticketsauce.com/e/dance-noir-17",
+    "date_created": "2026-08-18"
   },
   {
     "date": "2026-08-18",
@@ -1097,6 +1065,14 @@
   },
   {
     "date": "2026-08-29",
+    "artist": "Tame Dog \"Final Show\"",
+    "venue": "velour live music gallery",
+    "city": "provo",
+    "url": "https://www.24tix.com/events/qgiwu4bv6fhpjewbonmouh24vm",
+    "date_created": "2026-08-18"
+  },
+  {
+    "date": "2026-08-29",
     "artist": "Wicked Temple",
     "venue": "the pearl on main",
     "city": "midvale",
@@ -1630,6 +1606,14 @@
     "city": "cottonwood",
     "url": "https://thehogwallow.com/music/live/chris-baron-and-two-secrets1497.html",
     "date_created": "2026-08-07"
+  },
+  {
+    "date": "2026-09-10",
+    "artist": "Emjay Hink \"EP Release\"",
+    "venue": "velour live music gallery",
+    "city": "provo",
+    "url": "https://www.24tix.com/events/twpamwlj7rcuhlalcdotax6dxu",
+    "date_created": "2026-08-18"
   },
   {
     "date": "2026-09-10",
@@ -3350,6 +3334,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1438299/devon-gilfillian-tickets?skin=stateroom",
     "date_created": "2026-05-13"
+  },
+  {
+    "date": "2026-10-03",
+    "artist": "Donna Marie",
+    "venue": "liquid joes",
+    "city": "slc",
+    "url": "https://liquidjoes.ticketsauce.com/e/donna-marie-3",
+    "date_created": "2026-08-18"
   },
   {
     "date": "2026-10-03",
@@ -5321,6 +5313,14 @@
   },
   {
     "date": "2026-11-05",
+    "artist": "Rittz",
+    "venue": "liquid joes",
+    "city": "slc",
+    "url": "https://liquidjoes.ticketsauce.com/e/rittz-before-the-drop-tour",
+    "date_created": "2026-08-18"
+  },
+  {
+    "date": "2026-11-05",
     "artist": "River Shook",
     "venue": "the state room",
     "city": "slc",
@@ -5857,6 +5857,14 @@
   },
   {
     "date": "2026-11-19",
+    "artist": "Randy's Cheeseburger Picnic (Trailer Park Boys) Live In Salt Lake City",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/m7t2cw4a5zcvnoarqk5flropki",
+    "date_created": "2026-08-18"
+  },
+  {
+    "date": "2026-11-19",
     "artist": "Robert Ellis",
     "venue": "the state room",
     "city": "slc",
@@ -6273,6 +6281,14 @@
   },
   {
     "date": "2026-12-04",
+    "artist": "Thoughts on Bowling",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/kjwizz5utvfsrocskxmnvlbz54",
+    "date_created": "2026-08-18"
+  },
+  {
+    "date": "2026-12-04",
     "artist": "Virtual Riot & Blanke (18+)",
     "venue": "the complex",
     "city": "slc",
@@ -6390,6 +6406,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1557942/the-olllam-tickets?skin=stateroom",
     "date_created": "2026-08-12"
+  },
+  {
+    "date": "2026-12-07",
+    "artist": "Jonas Brothers",
+    "venue": "delta center",
+    "city": "slc",
+    "url": "https://www.deltacenter.com/events/jonas-brothers/",
+    "date_created": "2026-08-18"
   },
   {
     "date": "2026-12-08",
