@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-08-24",
-    "artist": "Allo Monroe",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/l6qtzssm2zcyllwhd4zpid6iqq",
-    "date_created": "2026-07-21"
-  },
-  {
-    "date": "2026-08-24",
-    "artist": "Fink",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/artists/252340/fink-tickets",
-    "date_created": "2026-03-26"
-  },
-  {
-    "date": "2026-08-24",
-    "artist": "Lesser Moose",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/cqyypse2arh3hosvv6il677hca",
-    "date_created": "2026-06-10"
-  },
-  {
-    "date": "2026-08-24",
-    "artist": "Ricardo Montaner",
-    "venue": "maverik center",
-    "city": "west valley",
-    "url": "https://www.ticketmaster.com/event/1E006361C2F679DF",
-    "date_created": "2025-11-05"
-  },
-  {
-    "date": "2026-08-24",
-    "artist": "Ricardo Montaner: El Último Regreso Tour",
-    "venue": "maverik center",
-    "city": "west valley",
-    "url": "https://www.ticketmaster.com/ricardo-montaner-el-ultimo-regreso-tour-west-valley-city-utah-08-24-2026/event/1E006361C2F679DF",
-    "date_created": "2026-02-28"
-  },
-  {
     "date": "2026-08-25",
     "artist": "Avenged Sevenfold and Good Charlotte: North American Tour 2026",
     "venue": "utah first",
@@ -281,6 +241,14 @@
   },
   {
     "date": "2026-08-28",
+    "artist": "Brandon Flowers (Night 1) [SOLD OUT]",
+    "venue": "the state room",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1548195/brandon-flowers-tickets?skin=stateroom",
+    "date_created": "2026-08-25"
+  },
+  {
+    "date": "2026-08-28",
     "artist": "Club 90s Presents SLAYYYTER XCX NIGHT (18+)",
     "venue": "the depot",
     "city": "slc",
@@ -366,6 +334,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1548195/brandon-flowers-tickets?skin=stateroom",
     "date_created": "2026-08-07"
+  },
+  {
+    "date": "2026-08-29",
+    "artist": "Brandon Flowers (Night 2) [SOLD OUT]",
+    "venue": "the state room",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1548195/brandon-flowers-tickets?skin=stateroom",
+    "date_created": "2026-08-25"
   },
   {
     "date": "2026-08-29",
@@ -518,6 +494,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/7ov2tzylsnhkvj63zxw5rvz35q",
     "date_created": "2026-06-22"
+  },
+  {
+    "date": "2026-08-30",
+    "artist": "Karaoke",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/domanogjnzgoffoknysregnliq",
+    "date_created": "2026-08-25"
   },
   {
     "date": "2026-08-30",
@@ -689,6 +673,14 @@
   },
   {
     "date": "2026-09-03",
+    "artist": "Dub Nectar & J-Riff",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/reggae-thursday1489.html",
+    "date_created": "2026-08-25"
+  },
+  {
+    "date": "2026-09-03",
     "artist": "MELT-BANANA",
     "venue": "metro music hall - 21+",
     "city": "slc",
@@ -798,6 +790,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/xvxjnd5bzvbrbe6atvn5hgztaq",
     "date_created": "2026-08-17"
+  },
+  {
+    "date": "2026-09-04",
+    "artist": "Soft Palms",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/5sdvp5xpovacnlcy5vqj72d5i4",
+    "date_created": "2026-08-25"
   },
   {
     "date": "2026-09-04",
@@ -1201,11 +1201,27 @@
   },
   {
     "date": "2026-09-11",
+    "artist": "Random Precision: A Pink Floyd Tribute",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/vxdyaujeijhrtbdzxrpjpra2yu",
+    "date_created": "2026-08-25"
+  },
+  {
+    "date": "2026-09-11",
     "artist": "Raskahuele",
     "venue": "liquid joes",
     "city": "slc",
     "url": "https://liquidjoes.ticketsauce.com/e/raskahuele",
     "date_created": "2026-08-19"
+  },
+  {
+    "date": "2026-09-11",
+    "artist": "SEASLAK",
+    "venue": "velour live music gallery",
+    "city": "provo",
+    "url": "https://www.24tix.com/events/oy5oid5mm5eghpj6irauq74wve",
+    "date_created": "2026-08-25"
   },
   {
     "date": "2026-09-11",
@@ -1657,6 +1673,14 @@
   },
   {
     "date": "2026-09-17",
+    "artist": "IZAK",
+    "venue": "velour live music gallery",
+    "city": "provo",
+    "url": "https://www.24tix.com/events/aezhf3w57rfbdkfnmr5rafdrie",
+    "date_created": "2026-08-25"
+  },
+  {
+    "date": "2026-09-17",
     "artist": "Ice Cube: Truth to Power – Four Decades of Attitude",
     "venue": "maverik center",
     "city": "west valley",
@@ -1702,6 +1726,14 @@
     "city": "boise",
     "url": "https://www.24tix.com/events/fl2cdedvt5ddbdsqksbz6x7csy",
     "date_created": "2026-07-15"
+  },
+  {
+    "date": "2026-09-17",
+    "artist": "ShackEnt",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/rgt26082.html",
+    "date_created": "2026-08-25"
   },
   {
     "date": "2026-09-17",
@@ -1777,6 +1809,14 @@
   },
   {
     "date": "2026-09-18",
+    "artist": "Ruby Friedman Orchestra",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/adkuas5hbrepfoy5nb3vho4ava",
+    "date_created": "2026-08-25"
+  },
+  {
+    "date": "2026-09-18",
     "artist": "Ryan Beatty - Arms Over Armor North American Tour '26",
     "venue": "the depot",
     "city": "slc",
@@ -1838,6 +1878,14 @@
     "city": "cottonwood",
     "url": "https://thehogwallow.com/music/live/christian-mills-sky-cougar1502.html",
     "date_created": "2026-08-19"
+  },
+  {
+    "date": "2026-09-19",
+    "artist": "Death Persona",
+    "venue": "metro music hall - 21+",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/kuskq3tcrrftfinonfc7io5jje",
+    "date_created": "2026-08-25"
   },
   {
     "date": "2026-09-19",
@@ -2958,6 +3006,14 @@
     "city": "slc",
     "url": "https://theunioneventcenter.com/upcomingevents/wolfmother2026-2cy93-mkzz7",
     "date_created": "2026-08-20"
+  },
+  {
+    "date": "2026-10-03",
+    "artist": "It's A 2000s Party: Salt Lake City (18+)",
+    "venue": "the depot",
+    "city": "slc",
+    "url": "https://www.ticketmaster.com/its-a-2000s-party-salt-lake-salt-lake-city-utah-10-03-2026/event/1E006514ABFFBDC1",
+    "date_created": "2026-08-25"
   },
   {
     "date": "2026-10-03",
@@ -4849,6 +4905,14 @@
   },
   {
     "date": "2026-11-02",
+    "artist": "Cormae",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/fng2snjsirbojja7hvwcnqqf24",
+    "date_created": "2026-08-25"
+  },
+  {
+    "date": "2026-11-02",
     "artist": "Francis of Delirium",
     "venue": "kilby court",
     "city": "slc",
@@ -4985,6 +5049,14 @@
   },
   {
     "date": "2026-11-05",
+    "artist": "ALIX PEREZ: NORTH AMERICAN TOUR",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10523",
+    "date_created": "2026-08-25"
+  },
+  {
+    "date": "2026-11-05",
     "artist": "El Temach (21+)",
     "venue": "the depot",
     "city": "slc",
@@ -5110,6 +5182,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1526712/musor-tickets?skin=stateroom",
     "date_created": "2026-07-23"
+  },
+  {
+    "date": "2026-11-07",
+    "artist": "Pearl Jam Experience",
+    "venue": "the depot",
+    "city": "slc",
+    "url": "https://www.ticketmaster.com/pearl-jam-experience-salt-lake-city-utah-11-07-2026/event/1E006511B1658D09",
+    "date_created": "2026-08-25"
   },
   {
     "date": "2026-11-07",
@@ -5713,6 +5793,14 @@
   },
   {
     "date": "2026-11-21",
+    "artist": "Fraxiom",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/thbk3pz445hctjtqa3xoj6r2qu",
+    "date_created": "2026-08-25"
+  },
+  {
+    "date": "2026-11-21",
     "artist": "Goodnight, Texas",
     "venue": "the state room",
     "city": "slc",
@@ -5792,6 +5880,14 @@
     "date_created": "2026-07-15"
   },
   {
+    "date": "2026-11-23",
+    "artist": "SAP",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/ky7vaenpfbbajnvqglbkghslja",
+    "date_created": "2026-08-25"
+  },
+  {
     "date": "2026-11-26",
     "artist": "Soundwell Friendsgiving with Nils Hoffmann",
     "venue": "soundwell",
@@ -5862,6 +5958,14 @@
     "city": "slc",
     "url": "https://www.thecomplexslc.com/event-2910.htm",
     "date_created": "2026-04-14"
+  },
+  {
+    "date": "2026-11-28",
+    "artist": "Rinzen",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10497/rinzen",
+    "date_created": "2026-08-25"
   },
   {
     "date": "2026-11-29",
@@ -6272,6 +6376,14 @@
     "date_created": "2026-05-20"
   },
   {
+    "date": "2026-12-15",
+    "artist": "Lindsey Stirling – The Snow Waltz Tour",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/lindsey-stirling-the-snow-waltz-tour-west-valley-city-utah-12-15-2026/event/1E006513AAA6B04D?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-08-25"
+  },
+  {
     "date": "2026-12-16",
     "artist": "Buffalo Traffic Jam - Pictures of You Tour",
     "venue": "the complex",
@@ -6454,6 +6566,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/165732",
     "date_created": "2026-02-13"
+  },
+  {
+    "date": "2027-02-12",
+    "artist": "Stella Lefty: Long Way Home Tour",
+    "venue": "the union",
+    "city": "slc",
+    "url": "https://theunioneventcenter.com/upcomingevents/stellalefty",
+    "date_created": "2026-08-25"
   },
   {
     "date": "2027-02-13",
