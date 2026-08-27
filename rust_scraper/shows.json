@@ -1,77 +1,5 @@
 [
   {
-    "date": "2026-08-26",
-    "artist": "5 Seconds of Summer: EVERYONE'S A STAR! World Tour",
-    "venue": "utah first",
-    "city": "west valley",
-    "url": "https://www.ticketmaster.com/5-seconds-of-summer-everyones-a-west-valley-city-utah-08-26-2026/event/1E006356E4C95314",
-    "date_created": "2025-10-24"
-  },
-  {
-    "date": "2026-08-26",
-    "artist": "Good Terms",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/phx6t6eidrdadetc5ca3m22nue",
-    "date_created": "2026-06-10"
-  },
-  {
-    "date": "2026-08-26",
-    "artist": "Josh Tatofi",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10415/joshtatofi",
-    "date_created": "2026-05-20"
-  },
-  {
-    "date": "2026-08-26",
-    "artist": "Madra Mor",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/w7mrgprpybajvfeycz4lxgtt5m",
-    "date_created": "2026-08-07"
-  },
-  {
-    "date": "2026-08-26",
-    "artist": "Scott Stewart",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/scott-stewart1485.html",
-    "date_created": "2026-07-10"
-  },
-  {
-    "date": "2026-08-26",
-    "artist": "Silkworm",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/6c6kv3vbtzahvahbpnns5i34hy",
-    "date_created": "2026-05-06"
-  },
-  {
-    "date": "2026-08-26",
-    "artist": "Sooflay",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/dqrxaovijjgy7ffafzdhfzvwdy",
-    "date_created": "2026-07-25"
-  },
-  {
-    "date": "2026-08-26",
-    "artist": "The Tide & The Tempest, Johnny Tightlips, & Moon Traveler Deluxe",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/the-tide-the-tempest-johnny-tightlips-moon-traveler-deluxe/",
-    "date_created": "2026-07-21"
-  },
-  {
-    "date": "2026-08-26",
-    "artist": "Thunder From Down Under",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2939.htm",
-    "date_created": "2026-05-06"
-  },
-  {
     "date": "2026-08-27",
     "artist": "Alpine Loop",
     "venue": "the depot",
@@ -326,6 +254,14 @@
     "city": "slc",
     "url": "https://www.thecomplexslc.com/event-2942.htm",
     "date_created": "2026-05-06"
+  },
+  {
+    "date": "2026-08-29",
+    "artist": "Generations Band",
+    "venue": "leatherheads sports bar",
+    "city": "draper",
+    "url": "https://www.24tix.com/events/pi2ki5l65bhqpcp7hotw4b4tri",
+    "date_created": "2026-08-27"
   },
   {
     "date": "2026-08-29",
@@ -638,6 +574,14 @@
     "city": "cottonwood",
     "url": "https://thehogwallow.com/music/live/reggae-thursday1489.html",
     "date_created": "2026-08-25"
+  },
+  {
+    "date": "2026-09-03",
+    "artist": "Jack Greenwood",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/np4epcf2frcb7nqz3ieuh27uke",
+    "date_created": "2026-08-27"
   },
   {
     "date": "2026-09-03",
@@ -2898,7 +2842,7 @@
   {
     "date": "2026-10-02",
     "artist": "Blood For Blood",
-    "venue": "metro music hall - 21+",
+    "venue": "metro music hall - all ages",
     "city": "slc",
     "url": "https://www.24tix.com/events/6h7zgxe5hngtnb3urut3pyno34",
     "date_created": "2026-08-26"
@@ -5993,6 +5937,14 @@
   },
   {
     "date": "2026-11-23",
+    "artist": "Origami Button",
+    "venue": "the pearl on main",
+    "city": "midvale",
+    "url": "https://www.24tix.com/events/7bi6qni5irhbjgpob6eymybeni",
+    "date_created": "2026-08-27"
+  },
+  {
+    "date": "2026-11-23",
     "artist": "SAP",
     "venue": "kilby court",
     "city": "slc",
@@ -6462,6 +6414,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/7xud3vpoinbm5mnvahy5dhxuaq",
     "date_created": "2026-08-19"
+  },
+  {
+    "date": "2026-12-11",
+    "artist": "Ripe: Play The Game Fall Tour 2026",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10536/ripe",
+    "date_created": "2026-08-27"
   },
   {
     "date": "2026-12-12",
@@ -7262,5 +7222,13 @@
     "city": "slc",
     "url": "https://tixr.com/e/171625",
     "date_created": "2026-08-23"
+  },
+  {
+    "date": "2027-08-26",
+    "artist": "Josh Tatofi",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10415/joshtatofi",
+    "date_created": "2026-08-27"
   }
 ]
