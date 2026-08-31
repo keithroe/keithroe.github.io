@@ -1,245 +1,5 @@
 [
   {
-    "date": "2026-08-29",
-    "artist": "Bad Luck Brigade",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/evbf5uverrcbbiyqa6ocsldioi",
-    "date_created": "2026-07-21"
-  },
-  {
-    "date": "2026-08-29",
-    "artist": "Brandon Flowers (Night 2)",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1548195/brandon-flowers-tickets?skin=stateroom",
-    "date_created": "2026-08-07"
-  },
-  {
-    "date": "2026-08-29",
-    "artist": "Brandon Flowers (Night 2) [SOLD OUT]",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1548195/brandon-flowers-tickets?skin=stateroom",
-    "date_created": "2026-08-25"
-  },
-  {
-    "date": "2026-08-29",
-    "artist": "Dayshift",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/dayshift-salt-lake-city-utah-08-29-2026/event/1E0064A1FFA8B42B",
-    "date_created": "2026-05-10"
-  },
-  {
-    "date": "2026-08-29",
-    "artist": "FEED ME",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10413/feedme",
-    "date_created": "2026-06-10"
-  },
-  {
-    "date": "2026-08-29",
-    "artist": "Gareth Emery",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2942.htm",
-    "date_created": "2026-05-06"
-  },
-  {
-    "date": "2026-08-29",
-    "artist": "Generations Band",
-    "venue": "leatherheads sports bar",
-    "city": "draper",
-    "url": "https://www.24tix.com/events/pi2ki5l65bhqpcp7hotw4b4tri",
-    "date_created": "2026-08-27"
-  },
-  {
-    "date": "2026-08-29",
-    "artist": "Goose",
-    "venue": "civic center",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/odrzi6bf2fgr7np5sy7u4nr6de",
-    "date_created": "2026-04-10"
-  },
-  {
-    "date": "2026-08-29",
-    "artist": "HAYLA",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2926.htm",
-    "date_created": "2026-04-28"
-  },
-  {
-    "date": "2026-08-29",
-    "artist": "Judge x Integrity x Strife",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/190615",
-    "date_created": "2026-05-17"
-  },
-  {
-    "date": "2026-08-29",
-    "artist": "NITZER EBB",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/nkh5crdvdja2badbkwylmpfrya",
-    "date_created": "2026-04-28"
-  },
-  {
-    "date": "2026-08-29",
-    "artist": "PIG",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/rtyoilshivenxlbhdvmovrx6nm",
-    "date_created": "2026-06-10"
-  },
-  {
-    "date": "2026-08-29",
-    "artist": "SOLD OUT: Judge x Integrity x Strife",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/190615",
-    "date_created": "2026-06-04"
-  },
-  {
-    "date": "2026-08-29",
-    "artist": "Sludge Judy",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://liquidjoes.ticketsauce.com/e/sludge-judy-2",
-    "date_created": "2026-08-12"
-  },
-  {
-    "date": "2026-08-29",
-    "artist": "Steel & Seduction: WASTELANDER",
-    "venue": "metro music hall - 21+",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/mm7buskfa5ddlly2fiazlchpsu",
-    "date_created": "2026-07-21"
-  },
-  {
-    "date": "2026-08-29",
-    "artist": "Steve Von Till & Six Organs of Admittance",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/steve-von-till-six-organs-of-admittance/",
-    "date_created": "2026-05-06"
-  },
-  {
-    "date": "2026-08-29",
-    "artist": "SuperBubble",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/superbubble1479.html",
-    "date_created": "2026-07-02"
-  },
-  {
-    "date": "2026-08-29",
-    "artist": "Sweat The 80's",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/624no6pycje35lknblq3z2lc5a",
-    "date_created": "2026-08-05"
-  },
-  {
-    "date": "2026-08-29",
-    "artist": "Tame Dog \"Final Show\"",
-    "venue": "velour live music gallery",
-    "city": "provo",
-    "url": "https://www.24tix.com/events/qgiwu4bv6fhpjewbonmouh24vm",
-    "date_created": "2026-08-18"
-  },
-  {
-    "date": "2026-08-29",
-    "artist": "Wicked Temple",
-    "venue": "the pearl on main",
-    "city": "midvale",
-    "url": "https://www.24tix.com/events/fwwzriqblnflpi5oiyaqnb6ofm",
-    "date_created": "2026-06-26"
-  },
-  {
-    "date": "2026-08-29",
-    "artist": "rittz-comp",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://liquidjoes.ticketsauce.com/e/rittz-comp",
-    "date_created": "2026-02-15"
-  },
-  {
-    "date": "2026-08-30",
-    "artist": "DEVILDRIVER - STRIKE AND KILL TOUR w/ Upon A Burning Body and Ov Sulfu",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/devildriver-strike-and-kill-tour-w-salt-lake-city-utah-08-30-2026/event/1E00648F9D2586FD",
-    "date_created": "2026-04-16"
-  },
-  {
-    "date": "2026-08-30",
-    "artist": "Erinne Jones",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/7ov2tzylsnhkvj63zxw5rvz35q",
-    "date_created": "2026-06-22"
-  },
-  {
-    "date": "2026-08-30",
-    "artist": "Karaoke",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/domanogjnzgoffoknysregnliq",
-    "date_created": "2026-08-25"
-  },
-  {
-    "date": "2026-08-30",
-    "artist": "Keep Close",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/boxafwl4drbltcskl3wv3r523a",
-    "date_created": "2026-07-10"
-  },
-  {
-    "date": "2026-08-30",
-    "artist": "Kota the Friend",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10460/kotathefriend",
-    "date_created": "2026-07-10"
-  },
-  {
-    "date": "2026-08-30",
-    "artist": "Kota the Friend – Just Happy To Be Here Tour",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10460/kotathefriend",
-    "date_created": "2026-08-12"
-  },
-  {
-    "date": "2026-08-30",
-    "artist": "Local Artist Benefit Show w/ Art Market & Local Bands!",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/allike3gp5csthxsh5er23hfo4",
-    "date_created": "2026-08-14"
-  },
-  {
-    "date": "2026-08-30",
-    "artist": "Solmark, &Knuckles, & The Mutiny",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/solmark-knuckles-the-mutiny/",
-    "date_created": "2026-05-21"
-  },
-  {
-    "date": "2026-08-30",
-    "artist": "Styx & Chicago: The Windy Cities Tour",
-    "venue": "utah first",
-    "city": "west valley",
-    "url": "https://www.ticketmaster.com/styx-chicago-the-windy-cities-tour-west-valley-city-utah-08-30-2026/event/1E006378C8FC78F8",
-    "date_created": "2025-12-02"
-  },
-  {
     "date": "2026-08-31",
     "artist": "Belles",
     "venue": "kilby court",
@@ -542,6 +302,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/nsegensqo5aujdafr3a54lcimy",
     "date_created": "2026-07-21"
+  },
+  {
+    "date": "2026-09-05",
+    "artist": "Dead Feedback",
+    "venue": "liquid joes",
+    "city": "slc",
+    "url": "https://liquidjoes.ticketsauce.com/e/dead-feedback",
+    "date_created": "2026-08-30"
   },
   {
     "date": "2026-09-05",
@@ -7086,5 +6854,29 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10415/joshtatofi",
     "date_created": "2026-08-27"
+  },
+  {
+    "date": "2027-08-29",
+    "artist": "FEED ME",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10413/feedme",
+    "date_created": "2026-08-30"
+  },
+  {
+    "date": "2027-08-29",
+    "artist": "SOLD OUT: Judge x Integrity x Strife",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/190615",
+    "date_created": "2026-08-30"
+  },
+  {
+    "date": "2027-08-30",
+    "artist": "Kota the Friend – Just Happy To Be Here Tour",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10460/kotathefriend",
+    "date_created": "2026-08-31"
   }
 ]
