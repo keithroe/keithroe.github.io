@@ -1,93 +1,5 @@
 [
   {
-    "date": "2026-09-03",
-    "artist": "2skip",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/3pbdma7kcrhhhkcqvb3574shca",
-    "date_created": "2026-07-07"
-  },
-  {
-    "date": "2026-09-03",
-    "artist": "Dogstar",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2884.htm",
-    "date_created": "2026-03-07"
-  },
-  {
-    "date": "2026-09-03",
-    "artist": "Dub Nectar & J-Riff",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/reggae-thursday1489.html",
-    "date_created": "2026-08-25"
-  },
-  {
-    "date": "2026-09-03",
-    "artist": "Jack Greenwood",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/np4epcf2frcb7nqz3ieuh27uke",
-    "date_created": "2026-08-27"
-  },
-  {
-    "date": "2026-09-03",
-    "artist": "MELT-BANANA",
-    "venue": "metro music hall - 21+",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/prnurk4goze4tekomk742xkeby",
-    "date_created": "2026-07-19"
-  },
-  {
-    "date": "2026-09-03",
-    "artist": "Reggae Thursday",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/reggae-thursday1489.html",
-    "date_created": "2026-08-07"
-  },
-  {
-    "date": "2026-09-03",
-    "artist": "The Heeters",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/nzoixysqk5eb5gunkhsd5gqhcy",
-    "date_created": "2026-07-15"
-  },
-  {
-    "date": "2026-09-03",
-    "artist": "The Wailers",
-    "venue": "the commonwealth room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1379964/the-wailers-tickets?skin=stateroom",
-    "date_created": "2026-03-26"
-  },
-  {
-    "date": "2026-09-03",
-    "artist": "Tyler Halverson & Bottomland",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/148358",
-    "date_created": "2025-09-04"
-  },
-  {
-    "date": "2026-09-03",
-    "artist": "Watterson \"Single Release\"",
-    "venue": "velour live music gallery",
-    "city": "provo",
-    "url": "https://www.24tix.com/events/bjxsqainkvc3ppb2vmegyxzfo4",
-    "date_created": "2026-08-19"
-  },
-  {
-    "date": "2026-09-03",
-    "artist": "Willy Braun",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1502505/willy-braun-tickets?skin=stateroom",
-    "date_created": "2026-07-02"
-  },
-  {
     "date": "2026-09-04",
     "artist": "Anyone Awake",
     "venue": "kilby court",
@@ -289,6 +201,14 @@
   },
   {
     "date": "2026-09-05",
+    "artist": "Street Tombs, Cemetery Reign, Disengaged, & Monstrology",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/street-tombs-disengaged-monstrology/",
+    "date_created": "2026-09-04"
+  },
+  {
+    "date": "2026-09-05",
     "artist": "Street Tombs, Disengaged, & Monstrology",
     "venue": "aces high",
     "city": "slc",
@@ -318,6 +238,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/144214",
     "date_created": "2025-09-07"
+  },
+  {
+    "date": "2026-09-06",
+    "artist": "Grandmaster & Cytrus",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/atq4mo6zdrewhe6gqjehly27cm",
+    "date_created": "2026-09-04"
   },
   {
     "date": "2026-09-06",
@@ -1393,6 +1321,14 @@
   },
   {
     "date": "2026-09-19",
+    "artist": "Gunner’s Filthy Fourty!",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/gunners-filthy-fourty/",
+    "date_created": "2026-09-04"
+  },
+  {
+    "date": "2026-09-19",
     "artist": "Noise Pollution - The AC/DC Experience",
     "venue": "the state room",
     "city": "slc",
@@ -1510,6 +1446,14 @@
     "city": "cottonwood",
     "url": "https://thehogwallow.com/music/live/gordon-greenwood-(solo)1503.html",
     "date_created": "2026-08-19"
+  },
+  {
+    "date": "2026-09-20",
+    "artist": "Inmortui & Crepusculum",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/inmortui-crepusculum/",
+    "date_created": "2026-09-04"
   },
   {
     "date": "2026-09-20",
@@ -1905,6 +1849,14 @@
   },
   {
     "date": "2026-09-25",
+    "artist": "Lock; The DJ – FETISH NITE",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/lock-the-dj-fetish-nite/",
+    "date_created": "2026-09-04"
+  },
+  {
+    "date": "2026-09-25",
     "artist": "OVERDRIVE feat. MEFJUS with DAXTA",
     "venue": "vip event center",
     "city": "slc",
@@ -1958,6 +1910,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/hrtyv7ssuzf7zfcsb5hb4e7pwu",
     "date_created": "2026-08-29"
+  },
+  {
+    "date": "2026-09-26",
+    "artist": "Aces High 6th Anniversary! Deathblow, Acid Hologram, & The Monarchs",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/aces-high-6th-anniversary-deathblow-acid-hologram-the-monarchs/",
+    "date_created": "2026-09-04"
   },
   {
     "date": "2026-09-26",
@@ -2118,6 +2078,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/t2c56xabrbai5g2fnjlung5jfy",
     "date_created": "2026-06-04"
+  },
+  {
+    "date": "2026-09-27",
+    "artist": "Limelight - An Evening With Gloss Haus",
+    "venue": "the depot",
+    "city": "slc",
+    "url": "https://www.ticketmaster.com/limelight-an-evening-with-gloss-haus-salt-lake-city-utah-09-27-2026/event/1E006521DEB0DF01",
+    "date_created": "2026-09-04"
   },
   {
     "date": "2026-09-27",
@@ -2382,6 +2350,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/u5xlttgvmzhzfm37ll6spdoswa",
     "date_created": "2026-06-04"
+  },
+  {
+    "date": "2026-10-01",
+    "artist": "Hoppy (Single Release Show)",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/bxcbf7oy3rcblprcsupo6mdxou",
+    "date_created": "2026-09-04"
   },
   {
     "date": "2026-10-01",
@@ -4833,6 +4809,14 @@
   },
   {
     "date": "2026-11-06",
+    "artist": "Alex Boye",
+    "venue": "eccles theater",
+    "city": "slc",
+    "url": "https://www.live-at-the-eccles.com/events/alex-boye",
+    "date_created": "2026-09-04"
+  },
+  {
+    "date": "2026-11-06",
     "artist": "Jessica Audiffred",
     "venue": "the complex",
     "city": "slc",
@@ -5950,6 +5934,14 @@
     "city": "slc",
     "url": "https://www.ticketmaster.com/event/1E00650D0768A397",
     "date_created": "2026-08-15"
+  },
+  {
+    "date": "2026-12-02",
+    "artist": "The Fretliners",
+    "venue": "the state room",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1597332/the-fretliners-tickets?skin=stateroom",
+    "date_created": "2026-09-04"
   },
   {
     "date": "2026-12-02",
