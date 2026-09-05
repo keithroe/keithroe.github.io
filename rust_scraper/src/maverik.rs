@@ -46,8 +46,8 @@ pub fn scrape() -> Vec<show::Show> {
     let date_re = Regex::new(r"[0-9]{2}-[0-9]{2}-[0-9]{4}").unwrap();
 
     for event in html.select(&scraper::Selector::parse("div.event-info").unwrap()) {
-        let date_div_elmt = util::select_single(event, "div.event-date").unwrap();
         /*
+        let date_div_elmt = util::select_single(event, "div.event-date").unwrap();
         let date_str = util::get_text(date_div_elmt);
         let date_tokens: Vec<_> = date_str
             .split([' ', ','])

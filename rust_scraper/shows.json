@@ -1,101 +1,5 @@
 [
   {
-    "date": "2026-09-04",
-    "artist": "Anyone Awake",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/jrhfzm66prerlocwgovw4y5w4e",
-    "date_created": "2026-06-22"
-  },
-  {
-    "date": "2026-09-04",
-    "artist": "Armed For Apocalypse",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/qi76qeemv5a3xgxrobok5zsj2a",
-    "date_created": "2026-07-17"
-  },
-  {
-    "date": "2026-09-04",
-    "artist": "Brazuca Band",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/brazuca-band1491.html",
-    "date_created": "2026-08-07"
-  },
-  {
-    "date": "2026-09-04",
-    "artist": "Jack Johnson: SURFILMUSIC Tour 2026",
-    "venue": "utah first",
-    "city": "west valley",
-    "url": "https://www.ticketmaster.com/jack-johnson-surfilmusic-tour-2026-west-valley-city-utah-09-04-2026/event/1E00635FEB648727",
-    "date_created": "2025-11-08"
-  },
-  {
-    "date": "2026-09-04",
-    "artist": "LAN PARTY v2.0",
-    "venue": "eve",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/femqzvaujbc3rfytldae6cqnjm",
-    "date_created": "2026-08-07"
-  },
-  {
-    "date": "2026-09-04",
-    "artist": "Mortal American Body",
-    "venue": "velour live music gallery",
-    "city": "provo",
-    "url": "https://www.24tix.com/events/il3yu754uffw5mrurlw2a32xbu",
-    "date_created": "2026-08-19"
-  },
-  {
-    "date": "2026-09-04",
-    "artist": "Nicole Canaan",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/xvxjnd5bzvbrbe6atvn5hgztaq",
-    "date_created": "2026-08-17"
-  },
-  {
-    "date": "2026-09-04",
-    "artist": "Off The Record",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/5gpdyt62xnheflmwqph3eisnay",
-    "date_created": "2026-09-03"
-  },
-  {
-    "date": "2026-09-04",
-    "artist": "Old School Dance Party",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://liquidjoes.ticketsauce.com/e/old-school-dance-party",
-    "date_created": "2026-09-03"
-  },
-  {
-    "date": "2026-09-04",
-    "artist": "Rudios De Colores – Goth DJ Night – W/ DJ Hell Man & DJ Dead Yeti",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/rudios-de-colores-goth-dj-night-w-dj-hell-man-dj-dead-yeti/",
-    "date_created": "2026-08-26"
-  },
-  {
-    "date": "2026-09-04",
-    "artist": "Soft Palms",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/5sdvp5xpovacnlcy5vqj72d5i4",
-    "date_created": "2026-08-25"
-  },
-  {
-    "date": "2026-09-04",
-    "artist": "Wade Forster",
-    "venue": "the commonwealth room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1515576/wade-forster-tickets?skin=stateroom",
-    "date_created": "2026-07-10"
-  },
-  {
     "date": "2026-09-05",
     "artist": "Bad Air Radio",
     "venue": "hog wallow",
@@ -153,10 +57,10 @@
   },
   {
     "date": "2026-09-05",
-    "artist": "Have A Nice Life",
+    "artist": "Have a Nice Life",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2907.htm",
+    "url": "https://www.axs.com/events/1392046/have-a-nice-life-tickets",
     "date_created": "2026-04-02"
   },
   {
@@ -465,10 +369,10 @@
   },
   {
     "date": "2026-09-10",
-    "artist": "KAMELOT",
+    "artist": "Kamelot",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2875.htm",
+    "url": "https://www.axs.com/events/1344028/kamelot-tickets",
     "date_created": "2026-02-28"
   },
   {
@@ -524,7 +428,7 @@
     "artist": "Loe Shimmy",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2975.htm",
+    "url": "https://www.axs.com/events/1457723/loe-shimmy-tickets",
     "date_created": "2026-06-04"
   },
   {
@@ -769,6 +673,14 @@
   },
   {
     "date": "2026-09-12",
+    "artist": "Waylon Wyatt- Dustpiles World Tour",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1449714/waylon-wyatt-dustpiles-world-tour-tickets",
+    "date_created": "2026-09-05"
+  },
+  {
+    "date": "2026-09-12",
     "artist": "camoufly",
     "venue": "soundwell",
     "city": "slc",
@@ -868,7 +780,7 @@
     "artist": "EIHWAR",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2891.htm",
+    "url": "https://www.axs.com/events/1374060/eihwar-tickets",
     "date_created": "2026-03-17"
   },
   {
@@ -1140,7 +1052,7 @@
     "artist": "Sleep",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2988.htm",
+    "url": "https://www.axs.com/events/1493761/sleep-tickets",
     "date_created": "2026-06-22"
   },
   {
@@ -1180,7 +1092,7 @@
     "artist": "Emo Night Brooklyn",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-3001.htm",
+    "url": "https://www.axs.com/events/1511348/emo-night-brooklyn-tickets",
     "date_created": "2026-07-10"
   },
   {
@@ -1356,7 +1268,7 @@
     "artist": "Ravyn Lenae",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2989.htm",
+    "url": "https://www.axs.com/events/1493764/ravyn-lenae-tickets",
     "date_created": "2026-06-24"
   },
   {
@@ -1593,10 +1505,10 @@
   },
   {
     "date": "2026-09-22",
-    "artist": "Sevendust & Theory of a Deadman",
+    "artist": "Sevendust & Theory Of A Deadman",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2940.htm",
+    "url": "https://www.axs.com/events/1433025/sevendust-theory-of-a-deadman-tickets",
     "date_created": "2026-05-06"
   },
   {
@@ -1644,7 +1556,7 @@
     "artist": "Channel Tres",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2943.htm",
+    "url": "https://www.axs.com/events/1435249/channel-tres-tickets",
     "date_created": "2026-05-10"
   },
   {
@@ -1660,7 +1572,7 @@
     "artist": "Isaiah Rashad",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2987.htm",
+    "url": "https://www.axs.com/events/1489872/isaiah-rashad-tickets",
     "date_created": "2026-06-22"
   },
   {
@@ -1716,7 +1628,7 @@
     "artist": "Citizen",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2929.htm",
+    "url": "https://www.axs.com/events/1420219/citizen-tickets",
     "date_created": "2026-04-30"
   },
   {
@@ -1806,6 +1718,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/vmnzzkgl6ffoxgea7ekhku2cxq",
     "date_created": "2026-03-06"
+  },
+  {
+    "date": "2026-09-25",
+    "artist": "ATLiens",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1524003/atliens-tickets",
+    "date_created": "2026-09-05"
   },
   {
     "date": "2026-09-25",
@@ -1948,7 +1868,7 @@
     "artist": "Hail The Sun",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2995.htm",
+    "url": "https://www.axs.com/events/1501344/hail-the-sun-tickets",
     "date_created": "2026-06-26"
   },
   {
@@ -1982,6 +1902,14 @@
     "city": "slc",
     "url": "https://www.live-at-the-eccles.com/events/my-favorite-murder",
     "date_created": "2025-09-27"
+  },
+  {
+    "date": "2026-09-26",
+    "artist": "NYMSC",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/nymsc-3/",
+    "date_created": "2026-09-05"
   },
   {
     "date": "2026-09-26",
@@ -2124,7 +2052,7 @@
     "artist": "The Rasmus",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-3002.htm",
+    "url": "https://www.axs.com/events/1515503/the-rasmus-tickets",
     "date_created": "2026-07-10"
   },
   {
@@ -2180,7 +2108,7 @@
     "artist": "Paris Paloma",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2944.htm",
+    "url": "https://www.axs.com/events/1435456/paris-paloma-tickets",
     "date_created": "2026-05-10"
   },
   {
@@ -2198,6 +2126,14 @@
     "city": "slc",
     "url": "https://www.eventbrite.com/e/the-rhyme-slayers-tour-salt-lake-city-tickets-1994275197801",
     "date_created": "2026-08-19"
+  },
+  {
+    "date": "2026-09-29",
+    "artist": "Uncle Acid & the Deadbeats",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1471598/uncle-acid-the-deadbeats-tickets",
+    "date_created": "2026-09-05"
   },
   {
     "date": "2026-09-29",
@@ -2260,7 +2196,7 @@
     "artist": "Coheed and Cambria",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2955.htm",
+    "url": "https://www.axs.com/events/1440193/coheed-and-cambria-tickets",
     "date_created": "2026-05-13"
   },
   {
@@ -2332,7 +2268,7 @@
     "artist": "Cavetown",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2909.htm",
+    "url": "https://www.axs.com/events/1397021/cavetown-tickets",
     "date_created": "2026-04-14"
   },
   {
@@ -2372,7 +2308,7 @@
     "artist": "Mind Enterprises",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2973.htm",
+    "url": "https://www.axs.com/events/1471957/mind-enterprises-tickets",
     "date_created": "2026-06-04"
   },
   {
@@ -2476,7 +2412,7 @@
     "artist": "Dying Fetus & Sanguisugabogg",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2931.htm",
+    "url": "https://www.axs.com/events/1416464/dying-fetus-sanguisugabogg-tickets",
     "date_created": "2026-04-30"
   },
   {
@@ -2550,6 +2486,14 @@
     "city": "slc",
     "url": "https://www.thecomplexslc.com/event-3009.htm",
     "date_created": "2026-07-17"
+  },
+  {
+    "date": "2026-10-03",
+    "artist": "DOMi & JD Beck",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1525115/domi-jd-beck-tickets",
+    "date_created": "2026-09-05"
   },
   {
     "date": "2026-10-03",
@@ -2641,6 +2585,14 @@
   },
   {
     "date": "2026-10-04",
+    "artist": "Earl Sweatshirt & MIKE",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1362206/earl-sweatshirt-mike-tickets",
+    "date_created": "2026-09-05"
+  },
+  {
+    "date": "2026-10-04",
     "artist": "Earl Sweatshirt & MIKE - New Date",
     "venue": "the complex",
     "city": "slc",
@@ -2660,7 +2612,7 @@
     "artist": "Hairball",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2994.htm",
+    "url": "https://www.axs.com/events/1497638/hairball-tickets",
     "date_created": "2026-06-24"
   },
   {
@@ -2737,6 +2689,22 @@
   },
   {
     "date": "2026-10-05",
+    "artist": "JPEGMAFIA: the Experimental Rap Tour",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1405054/jpegmafia-the-experimental-rap-tour-tickets",
+    "date_created": "2026-09-05"
+  },
+  {
+    "date": "2026-10-05",
+    "artist": "Lil Pete",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1579245/lil-pete-tickets",
+    "date_created": "2026-09-05"
+  },
+  {
+    "date": "2026-10-05",
     "artist": "MARO",
     "venue": "the urban lounge",
     "city": "slc",
@@ -2777,10 +2745,10 @@
   },
   {
     "date": "2026-10-06",
-    "artist": "EMEI",
+    "artist": "Emei",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2930.htm",
+    "url": "https://www.axs.com/events/1423209/emei-tickets",
     "date_created": "2026-04-27"
   },
   {
@@ -2828,7 +2796,7 @@
     "artist": "Mastodon",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2974.htm",
+    "url": "https://www.axs.com/events/1472190/mastodon-tickets",
     "date_created": "2026-06-04"
   },
   {
@@ -2884,7 +2852,7 @@
     "artist": "Ethan Regan",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2970.htm",
+    "url": "https://www.axs.com/events/1468100/ethan-regan-tickets",
     "date_created": "2026-06-04"
   },
   {
@@ -2940,7 +2908,7 @@
     "artist": "Arch Enemy & The Black Dahlia Murder",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2960.htm",
+    "url": "https://www.axs.com/events/1451559/arch-enemy-the-black-dahlia-murder-tickets",
     "date_created": "2026-05-20"
   },
   {
@@ -2993,6 +2961,14 @@
   },
   {
     "date": "2026-10-08",
+    "artist": "Kal-el, Goya, & Black Moon Cult",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/kal-el-goya-volume/",
+    "date_created": "2026-09-05"
+  },
+  {
+    "date": "2026-10-08",
     "artist": "Kal-el, Goya, & Volume",
     "venue": "aces high",
     "city": "slc",
@@ -3012,7 +2988,7 @@
     "artist": "Michelle Branch",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-3008.htm",
+    "url": "https://www.axs.com/events/1520001/michelle-branch-tickets",
     "date_created": "2026-07-17"
   },
   {
@@ -3124,7 +3100,7 @@
     "artist": "Twiztid",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2997.htm",
+    "url": "https://www.axs.com/events/1505899/twiztid-tickets",
     "date_created": "2026-07-02"
   },
   {
@@ -3180,7 +3156,7 @@
     "artist": "Hazlett",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2986.htm",
+    "url": "https://www.axs.com/events/1489836/hazlett-tickets",
     "date_created": "2026-06-22"
   },
   {
@@ -3220,7 +3196,7 @@
     "artist": "glaive",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2948.htm",
+    "url": "https://www.axs.com/events/1438398/glaive-tickets",
     "date_created": "2026-05-13"
   },
   {
@@ -3236,7 +3212,7 @@
     "artist": "Castle Rat",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2972.htm",
+    "url": "https://www.axs.com/events/1471601/castle-rat-tickets",
     "date_created": "2026-06-04"
   },
   {
@@ -3297,10 +3273,10 @@
   },
   {
     "date": "2026-10-12",
-    "artist": "MOVEMENTS - HAPPIER NOW USA TOUR",
+    "artist": "Movements - HAPPIER NOW USA TOUR",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2947.htm",
+    "url": "https://www.axs.com/events/1438305/movements-happier-now-usa-tour-tickets",
     "date_created": "2026-05-13"
   },
   {
@@ -3348,7 +3324,7 @@
     "artist": "gnash",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2872.htm",
+    "url": "https://www.axs.com/events/1342098/gnash-tickets",
     "date_created": "2026-02-28"
   },
   {
@@ -3409,10 +3385,10 @@
   },
   {
     "date": "2026-10-13",
-    "artist": "Nahko and Medicine for the People",
+    "artist": "Nahko And Medicine for the People",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2962.htm",
+    "url": "https://www.axs.com/events/1455603/nahko-and-medicine-for-the-people-tickets",
     "date_created": "2026-05-20"
   },
   {
@@ -3420,7 +3396,7 @@
     "artist": "Pouya",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2980.htm",
+    "url": "https://www.axs.com/events/1480633/pouya-tickets",
     "date_created": "2026-06-10"
   },
   {
@@ -3508,7 +3484,7 @@
     "artist": "Yelawolf & Highly Suspect - The War Within Tour",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-3004.htm",
+    "url": "https://www.axs.com/events/1518853/yelawolf-highly-suspect-the-war-within-tour-tickets",
     "date_created": "2026-07-15"
   },
   {
@@ -3636,7 +3612,7 @@
     "artist": "Sueco",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-3005.htm",
+    "url": "https://www.axs.com/events/1519988/sueco-tickets",
     "date_created": "2026-07-15"
   },
   {
@@ -3726,6 +3702,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/ttu7hqahprfavpxshgknnicl74",
     "date_created": "2026-05-13"
+  },
+  {
+    "date": "2026-10-17",
+    "artist": "Ricky’s House Halloween",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1593711/rickys-house-halloween-tickets",
+    "date_created": "2026-09-05"
   },
   {
     "date": "2026-10-17",
@@ -3825,6 +3809,14 @@
   },
   {
     "date": "2026-10-19",
+    "artist": "Bongfather, Raizercrow, & Hateful Fate",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/bongfather-raizercrow-hateful-fate/",
+    "date_created": "2026-09-05"
+  },
+  {
+    "date": "2026-10-19",
     "artist": "Derya Yildirim & Grup Simsek",
     "venue": "the urban lounge",
     "city": "slc",
@@ -3836,7 +3828,7 @@
     "artist": "Palace",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2921.htm",
+    "url": "https://www.axs.com/events/1415419/palace-tickets",
     "date_created": "2026-04-27"
   },
   {
@@ -3889,6 +3881,14 @@
   },
   {
     "date": "2026-10-20",
+    "artist": "Taste of Chaos",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1465625/taste-of-chaos-tickets",
+    "date_created": "2026-09-05"
+  },
+  {
+    "date": "2026-10-20",
     "artist": "The Wildwoods",
     "venue": "the urban lounge",
     "city": "slc",
@@ -3924,7 +3924,7 @@
     "artist": "Lenny Pearce",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2983.htm",
+    "url": "https://www.axs.com/events/1484088/lenny-pearce-tickets",
     "date_created": "2026-06-13"
   },
   {
@@ -3972,7 +3972,7 @@
     "artist": "Slow Pulp",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2952.htm",
+    "url": "https://www.axs.com/events/1442844/slow-pulp-tickets",
     "date_created": "2026-05-13"
   },
   {
@@ -4001,6 +4001,14 @@
   },
   {
     "date": "2026-10-22",
+    "artist": "SiM",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1454533/sim-tickets",
+    "date_created": "2026-09-05"
+  },
+  {
+    "date": "2026-10-22",
     "artist": "SiM - HOOMAN WORLD TOUR",
     "venue": "the complex",
     "city": "slc",
@@ -4024,10 +4032,18 @@
     "date_created": "2026-09-03"
   },
   {
+    "date": "2026-10-22",
+    "artist": "The Very Scary Show feat. Cody Himself",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/vkkcmt42jfc7niwnrdtcujl5nu",
+    "date_created": "2026-09-05"
+  },
+  {
     "date": "2026-10-23",
     "artist": "Anthony Locascio",
-    "venue": "the pearl on main",
-    "city": "midvale",
+    "venue": "blue gene's",
+    "city": "slc",
     "url": "https://www.24tix.com/events/tnfyipaosvhdphg6ncul6phmli",
     "date_created": "2026-07-02"
   },
@@ -4153,6 +4169,14 @@
   },
   {
     "date": "2026-10-24",
+    "artist": "Lil Tracy",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1511138/lil-tracy-tickets",
+    "date_created": "2026-09-05"
+  },
+  {
+    "date": "2026-10-24",
     "artist": "Lil Tracy #Bruh #Rave",
     "venue": "the complex",
     "city": "slc",
@@ -4176,6 +4200,14 @@
     "date_created": "2026-07-25"
   },
   {
+    "date": "2026-10-24",
+    "artist": "The Crooked Rugs",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/zaz7i4bqhjdm5czrkoymw64hcq",
+    "date_created": "2026-09-05"
+  },
+  {
     "date": "2026-10-25",
     "artist": "BurnDown",
     "venue": "soundwell",
@@ -4193,10 +4225,18 @@
   },
   {
     "date": "2026-10-25",
+    "artist": "ButtTootKing: Lydia Kollins, Suzie Toot, Kori King",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1442925/butttootking-lydia-kollins-suzie-toot-kori-king-tickets",
+    "date_created": "2026-09-05"
+  },
+  {
+    "date": "2026-10-25",
     "artist": "Dweezil Zappa",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2969.htm",
+    "url": "https://www.axs.com/events/1468126/dweezil-zappa-tickets",
     "date_created": "2026-06-04"
   },
   {
@@ -4244,7 +4284,7 @@
     "artist": "Dinosaur Jr.",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2998.htm",
+    "url": "https://www.axs.com/events/1505904/dinosaur-jr-tickets",
     "date_created": "2026-07-02"
   },
   {
@@ -4292,7 +4332,7 @@
     "artist": "Geese - Getting Killed Again Tour",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2916.htm",
+    "url": "https://www.axs.com/events/1412218/geese-getting-killed-again-tour-tickets",
     "date_created": "2026-04-27"
   },
   {
@@ -4369,6 +4409,14 @@
   },
   {
     "date": "2026-10-29",
+    "artist": "LAST Album Release – With Gracemaker & Rothko Chapel",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/last-album-release-with-gracemaker-rothko-chapel/",
+    "date_created": "2026-09-05"
+  },
+  {
+    "date": "2026-10-29",
     "artist": "LAUNDRY DAY: The Time of Your Life Tour",
     "venue": "soundwell",
     "city": "slc",
@@ -4412,7 +4460,7 @@
     "artist": "Zack Fox",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2996.htm",
+    "url": "https://www.axs.com/events/1502854/zack-fox-tickets",
     "date_created": "2026-06-26"
   },
   {
@@ -4436,7 +4484,7 @@
     "artist": "Basement",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2945.htm",
+    "url": "https://www.axs.com/events/1436184/basement-tickets",
     "date_created": "2026-05-13"
   },
   {
@@ -4548,7 +4596,7 @@
     "artist": "Sienna Spiro",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2978.htm",
+    "url": "https://www.axs.com/events/1479395/sienna-spiro-tickets",
     "date_created": "2026-06-10"
   },
   {
@@ -4628,7 +4676,7 @@
     "artist": "Joy Oladokun",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-3014.htm",
+    "url": "https://www.axs.com/events/1536727/joy-oladokun-tickets",
     "date_created": "2026-07-28"
   },
   {
@@ -4668,7 +4716,7 @@
     "artist": "Everclear - Lucky 7 Tour",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2958.htm",
+    "url": "https://www.axs.com/events/1448769/everclear-lucky-7-tour-tickets",
     "date_created": "2026-05-20"
   },
   {
@@ -4726,6 +4774,14 @@
     "city": "slc",
     "url": "https://www.deltacenter.com/events/teddy-swims/",
     "date_created": "2026-04-16"
+  },
+  {
+    "date": "2026-11-04",
+    "artist": "Jen Howard",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/jen-howard/",
+    "date_created": "2026-09-05"
   },
   {
     "date": "2026-11-04",
@@ -4817,10 +4873,18 @@
   },
   {
     "date": "2026-11-06",
+    "artist": "Donavon Frankenreiter X The Band of Heathens",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1537181/donavon-frankenreiter-x-the-band-of-heathens-tickets",
+    "date_created": "2026-09-05"
+  },
+  {
+    "date": "2026-11-06",
     "artist": "Jessica Audiffred",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2990.htm",
+    "url": "https://www.axs.com/events/1497612/jessica-audiffred-tickets",
     "date_created": "2026-06-24"
   },
   {
@@ -4928,12 +4992,28 @@
     "date_created": "2026-06-24"
   },
   {
+    "date": "2026-11-07",
+    "artist": "bleood",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1573663/bleood-tickets",
+    "date_created": "2026-09-05"
+  },
+  {
     "date": "2026-11-08",
     "artist": "20 Years of Nekrogoblikon with Special Guests Aborted",
     "venue": "the depot",
     "city": "slc",
     "url": "https://www.ticketmaster.com/20-years-of-nekrogoblikon-with-special-salt-lake-city-utah-11-08-2026/event/1E0064C2B380E18B",
     "date_created": "2026-06-10"
+  },
+  {
+    "date": "2026-11-08",
+    "artist": "8Turn",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1566087/8turn-tickets",
+    "date_created": "2026-09-05"
   },
   {
     "date": "2026-11-08",
@@ -5084,7 +5164,7 @@
     "artist": "Token",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-3006.htm",
+    "url": "https://www.axs.com/events/1521566/token-tickets",
     "date_created": "2026-07-15"
   },
   {
@@ -5153,6 +5233,14 @@
   },
   {
     "date": "2026-11-13",
+    "artist": "Dead Boys, Powerbeer, & The Adjusters",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/dead-boys/",
+    "date_created": "2026-09-05"
+  },
+  {
+    "date": "2026-11-13",
     "artist": "Frankie J",
     "venue": "soundwell",
     "city": "slc",
@@ -5164,8 +5252,16 @@
     "artist": "GWAR",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2928.htm",
+    "url": "https://www.axs.com/events/1423193/gwar-tickets",
     "date_created": "2026-04-30"
+  },
+  {
+    "date": "2026-11-13",
+    "artist": "Lucy Bedroque",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1559144/lucy-bedroque-tickets",
+    "date_created": "2026-09-05"
   },
   {
     "date": "2026-11-13",
@@ -5225,6 +5321,14 @@
   },
   {
     "date": "2026-11-14",
+    "artist": "Legends",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1579139/legends-tickets",
+    "date_created": "2026-09-05"
+  },
+  {
+    "date": "2026-11-14",
     "artist": "MADDIE ZAHM",
     "venue": "metro music hall - all ages",
     "city": "slc",
@@ -5249,10 +5353,10 @@
   },
   {
     "date": "2026-11-14",
-    "artist": "WHETHAN (360 SHOW)",
+    "artist": "Whethan (360 SHOW)",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2965.htm",
+    "url": "https://www.axs.com/events/1462884/whethan-360-show-tickets",
     "date_created": "2026-05-28"
   },
   {
@@ -5284,7 +5388,7 @@
     "artist": "Thundercat",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-3003.htm",
+    "url": "https://www.axs.com/events/1518422/thundercat-tickets",
     "date_created": "2026-07-15"
   },
   {
@@ -5340,7 +5444,7 @@
     "artist": "Parachute",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-3012.htm",
+    "url": "https://www.axs.com/events/1527104/parachute-tickets",
     "date_created": "2026-07-21"
   },
   {
@@ -5388,7 +5492,7 @@
     "artist": "Honey Revenge X Dead Poet Society",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-3013.htm",
+    "url": "https://www.axs.com/events/1536061/honey-revenge-x-dead-poet-society-tickets",
     "date_created": "2026-07-28"
   },
   {
@@ -5444,7 +5548,7 @@
     "artist": "Switchfoot with special guest Anberlin - Forever Now Tour",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2946.htm",
+    "url": "https://www.axs.com/events/1436210/switchfoot-with-special-guest-anberlin-forever-now-tour-tickets",
     "date_created": "2026-05-13"
   },
   {
@@ -5532,8 +5636,16 @@
     "artist": "State Champs",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2985.htm",
+    "url": "https://www.axs.com/events/1485590/state-champs-tickets",
     "date_created": "2026-06-22"
+  },
+  {
+    "date": "2026-11-20",
+    "artist": "TVBOO",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1536704/tvboo-tickets",
+    "date_created": "2026-09-05"
   },
   {
     "date": "2026-11-20",
@@ -5617,10 +5729,10 @@
   },
   {
     "date": "2026-11-21",
-    "artist": "Saosin: 20 Years of Self-Titled",
+    "artist": "SAOSIN: 20 Years of Self-Titled",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2950.htm",
+    "url": "https://www.axs.com/events/1438505/saosin-20-years-of-self-titled-tickets",
     "date_created": "2026-05-13"
   },
   {
@@ -5636,8 +5748,16 @@
     "artist": "almost monday",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2992.htm",
+    "url": "https://www.axs.com/events/1497621/almost-monday-tickets",
     "date_created": "2026-06-24"
+  },
+  {
+    "date": "2026-11-22",
+    "artist": "Adelitas Way",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1548200/adelitas-way-tickets",
+    "date_created": "2026-09-05"
   },
   {
     "date": "2026-11-22",
@@ -5681,6 +5801,14 @@
   },
   {
     "date": "2026-11-24",
+    "artist": "Clara La San",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1566312/clara-la-san-tickets",
+    "date_created": "2026-09-05"
+  },
+  {
+    "date": "2026-11-24",
     "artist": "Sunny Day Soap Opera",
     "venue": "kilby court",
     "city": "slc",
@@ -5708,7 +5836,7 @@
     "artist": "Boston Manor",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2966.htm",
+    "url": "https://www.axs.com/events/1463669/boston-manor-tickets",
     "date_created": "2026-05-28"
   },
   {
@@ -5772,7 +5900,7 @@
     "artist": "Jimmy Failla",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2910.htm",
+    "url": "https://www.axs.com/events/1402213/jimmy-failla-tickets",
     "date_created": "2026-04-14"
   },
   {
@@ -5790,6 +5918,14 @@
     "city": "slc",
     "url": "https://www.ticketmaster.com/royal-bliss-annual-hometown-thanksgiving-bash-salt-lake-city-utah-11-28-2026/event/1E00651FA2A96162",
     "date_created": "2026-09-03"
+  },
+  {
+    "date": "2026-11-29",
+    "artist": "Alter Bridge",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1457692/alter-bridge-tickets",
+    "date_created": "2026-09-05"
   },
   {
     "date": "2026-11-29",
@@ -5988,7 +6124,7 @@
     "artist": "AJ McLean",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2991.htm",
+    "url": "https://www.axs.com/events/1497619/aj-mclean-tickets",
     "date_created": "2026-06-24"
   },
   {
@@ -5998,6 +6134,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/kjwizz5utvfsrocskxmnvlbz54",
     "date_created": "2026-08-18"
+  },
+  {
+    "date": "2026-12-04",
+    "artist": "Virtual Riot & Blanke",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1497631/virtual-riot-blanke-tickets",
+    "date_created": "2026-09-05"
   },
   {
     "date": "2026-12-04",
@@ -6068,7 +6212,7 @@
     "artist": "Suicide Silence: REMINDERS OF HELL TOUR",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-3011.htm",
+    "url": "https://www.axs.com/events/1525658/suicide-silence-reminders-of-hell-tour-tickets",
     "date_created": "2026-07-21"
   },
   {
@@ -6201,6 +6345,14 @@
   },
   {
     "date": "2026-12-11",
+    "artist": "BARELY ALIVE",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1566046/barely-alive-tickets",
+    "date_created": "2026-09-05"
+  },
+  {
+    "date": "2026-12-11",
     "artist": "Ripe: Play The Game Fall Tour 2026",
     "venue": "soundwell",
     "city": "slc",
@@ -6225,11 +6377,27 @@
   },
   {
     "date": "2026-12-12",
+    "artist": "Desi Banks: YOUR FAVORITE COUSIN",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1427046/desi-banks-your-favorite-cousin-tickets",
+    "date_created": "2026-09-05"
+  },
+  {
+    "date": "2026-12-12",
     "artist": "Markus Schulz",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://tixr.com/e/151686",
     "date_created": "2025-12-13"
+  },
+  {
+    "date": "2026-12-12",
+    "artist": "SoDown",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1551449/sodown-tickets",
+    "date_created": "2026-09-05"
   },
   {
     "date": "2026-12-13",
@@ -6246,6 +6414,14 @@
     "city": "west valley",
     "url": "https://www.ticketmaster.com/lindsey-stirling-the-snow-waltz-tour-west-valley-city-utah-12-15-2026/event/1E006513AAA6B04D?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
     "date_created": "2026-08-25"
+  },
+  {
+    "date": "2026-12-16",
+    "artist": "Buffalo Traffic Jam",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1438472/buffalo-traffic-jam-tickets",
+    "date_created": "2026-09-05"
   },
   {
     "date": "2026-12-16",
@@ -6294,6 +6470,14 @@
     "city": "slc",
     "url": "https://liquidjoes.ticketsauce.com/e/oingo-boingo-former-members-dec19-m",
     "date_created": "2026-05-20"
+  },
+  {
+    "date": "2026-12-19",
+    "artist": "The Grouch",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1597351/the-grouch-tickets",
+    "date_created": "2026-09-05"
   },
   {
     "date": "2026-12-20",
@@ -6396,7 +6580,7 @@
     "artist": "Paul Wall",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2933.htm",
+    "url": "https://www.axs.com/events/1425506/paul-wall-tickets",
     "date_created": "2026-06-04"
   },
   {
@@ -6414,6 +6598,14 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10263/surf-mesa",
     "date_created": "2026-02-01"
+  },
+  {
+    "date": "2027-02-03",
+    "artist": "Satsang",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10541/satsang",
+    "date_created": "2026-09-05"
   },
   {
     "date": "2027-02-04",
@@ -6496,6 +6688,14 @@
     "date_created": "2026-03-20"
   },
   {
+    "date": "2027-02-17",
+    "artist": "Public Image Ltd (PiL)",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1376493/public-image-ltd-pil-tickets",
+    "date_created": "2026-09-05"
+  },
+  {
     "date": "2027-02-19",
     "artist": "Polyphia: BE NOT AFRAID World Tour",
     "venue": "the depot",
@@ -6548,7 +6748,7 @@
     "artist": "Sylvan Esso",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2982.htm",
+    "url": "https://www.axs.com/events/1484006/sylvan-esso-tickets",
     "date_created": "2026-06-11"
   },
   {
@@ -6556,7 +6756,7 @@
     "artist": "Blue October",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2956.htm",
+    "url": "https://www.axs.com/events/1438519/blue-october-tickets",
     "date_created": "2026-05-13"
   },
   {
@@ -6620,7 +6820,7 @@
     "artist": "Wheeler Walker Jr.",
     "venue": "the complex",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2976.htm",
+    "url": "https://www.axs.com/events/1477887/wheeler-walker-jr-tickets",
     "date_created": "2026-06-09"
   },
   {
@@ -6638,6 +6838,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/172024",
     "date_created": "2026-03-26"
+  },
+  {
+    "date": "2027-03-26",
+    "artist": "VNV Nation",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1505213/vnv-nation-tickets",
+    "date_created": "2026-09-05"
   },
   {
     "date": "2027-03-26",
@@ -6726,6 +6934,14 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10277/call-me-karizma",
     "date_created": "2026-04-28"
+  },
+  {
+    "date": "2027-04-28",
+    "artist": "FKJ",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1465854/fkj-tickets",
+    "date_created": "2026-09-05"
   },
   {
     "date": "2027-04-28",

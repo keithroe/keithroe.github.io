@@ -1,65 +1,58 @@
 use crate::show;
 use crate::util;
-use regex;
 
 /*
-<div class="content">
-    <a href="https://www.thecomplexslc.com/event-2562.htm" class="image-link" title="Mark Ambor - The Rockwood Tour">
-        <h3>Mark Ambor - The Rockwood Tour</h3>
-        <h4>Tuesday Nov 19th</h4>
-        <h4>The Grand</h4>
-        <p>Indie</p>
-    </a>
-</div>
+The shows page renders its listings from an AXS json feed whose url lives in the
+data-file attribute of the events container:
+
+<div class="c-axs-events ...">
+    <div class="c-axs-events__container"
+         data-file="https://aegwebprod.blob.core.windows.net/json/events/376/events.json">
+
+Each entry in that feed looks like:
+
+{
+    "title": { "headlinersText": "Have a Nice Life", ... },
+    "eventDateTime": "2026-09-05T20:00:00",
+    "ticketing": { "url": "https://www.axs.com/events/1392046/have-a-nice-life-tickets", ... },
+    ...
+}
 */
 
 pub fn scrape() -> Vec<show::Show> {
     println!("processing the complex ...");
 
     let mut shows = Vec::new();
-    let html = util::get_html("https://www.thecomplexslc.com/").unwrap();
-    let date_re = regex::Regex::new(r"[a-zA-Z]+\s+([a-zA-Z]+)\s+(\d+).+").unwrap();
+    let html = util::get_html("https://thecomplexslc.com/shows/").unwrap();
 
-    let event_selector = scraper::Selector::parse("a.image-link").unwrap();
-    let html_events = html.select(&event_selector);
-    for html_event in html_events {
-        let artist_str;
-        if let Some(artist_string) = html_event.attr("title") {
-            artist_str = artist_string;
-        } else {
+    let events_div = util::select_single(html.root_element(), "div.c-axs-events").unwrap();
+    let container_div = util::select_single(events_div, "div.c-axs-events__container").unwrap();
+    let data_file = container_div.attr("data-file").unwrap();
+
+    let json = util::get_json(data_file).unwrap();
+    let Some(events) = json["events"].as_array() else {
+        println!("\tfound 0 shows");
+        return shows;
+    };
+
+    for event in events {
+        let Some(artist_str) = event["title"]["headlinersText"].as_str() else {
             continue;
-        }
+        };
 
-        let url_str;
-        if let Some(url_string) = html_event.attr("href") {
-            url_str = url_string;
-        } else {
+        let Some(url_str) = event["ticketing"]["url"].as_str() else {
             continue;
-        }
+        };
 
-        let date;
-        if let Some(date_elem) = html_event
-            .select(&scraper::Selector::parse("h4").unwrap())
-            .next()
-        {
-            let date_str = date_elem
-                .text()
-                .collect::<Vec<_>>()
-                .join(" ")
-                .trim()
-                .to_string()
-                .to_lowercase();
-
-            if let Some(matches) = date_re.captures(&date_str) {
-                let month = util::month_int_from_str(&matches[1]).unwrap();
-                let day = matches[2].parse::<u32>().unwrap();
-                date = util::create_date(day, month).unwrap();
-            } else {
-                continue;
-            }
-        } else {
+        let Some(date_str) = event["eventDateTime"].as_str() else {
             continue;
-        }
+        };
+        let Ok(date) = chrono::naive::NaiveDate::parse_from_str(
+            date_str.split('T').next().unwrap(),
+            "%Y-%m-%d",
+        ) else {
+            continue;
+        };
 
         shows.push(show::Show::new(
             date,

@@ -41,6 +41,20 @@ pub fn get_html(url: &str) -> Result<scraper::html::Html> {
     Ok(scraper::Html::parse_document(&body))
 }
 
+pub fn get_json(url: &str) -> Result<serde_json::Value> {
+    let body: String = ureq::get(url)
+        .header("accept", "application/json,text/plain,*/*;q=0.8")
+        .header(
+            "user-agent",
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+        )
+        .call()?
+        .body_mut()
+        .read_to_string()?;
+
+    Ok(serde_json::from_str(&body)?)
+}
+
 pub fn month_int_from_str(month_str: &str) -> Result<u32> {
     let month_str = month_str.to_lowercase();
     if month_str.starts_with("ja") {
