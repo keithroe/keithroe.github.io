@@ -1,133 +1,5 @@
 [
   {
-    "date": "2026-09-05",
-    "artist": "Bad Air Radio",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/bad-air.html",
-    "date_created": "2026-08-19"
-  },
-  {
-    "date": "2026-09-05",
-    "artist": "Broadway Rave",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/e2pt5vyfobfofckdebrzqftgx4",
-    "date_created": "2026-07-10"
-  },
-  {
-    "date": "2026-09-05",
-    "artist": "Cam Gallagher & The Tasty Soul",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/cam-gallagher-and-the-tasty-soul1492.html",
-    "date_created": "2026-08-07"
-  },
-  {
-    "date": "2026-09-05",
-    "artist": "Charles Ellsworth & The SFD",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/nsegensqo5aujdafr3a54lcimy",
-    "date_created": "2026-07-21"
-  },
-  {
-    "date": "2026-09-05",
-    "artist": "Dead Feedback",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://liquidjoes.ticketsauce.com/e/dead-feedback",
-    "date_created": "2026-08-30"
-  },
-  {
-    "date": "2026-09-05",
-    "artist": "FML Fest 2",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/h426puwdbna2tctycilxb6m6am",
-    "date_created": "2026-08-12"
-  },
-  {
-    "date": "2026-09-05",
-    "artist": "Ferrin \"Album Release\"",
-    "venue": "velour live music gallery",
-    "city": "provo",
-    "url": "https://www.24tix.com/events/xrltb7bufffdtd6yus5n6bgt2i",
-    "date_created": "2026-08-20"
-  },
-  {
-    "date": "2026-09-05",
-    "artist": "Have a Nice Life",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1392046/have-a-nice-life-tickets",
-    "date_created": "2026-04-02"
-  },
-  {
-    "date": "2026-09-05",
-    "artist": "RECKLLESS ROMANCE",
-    "venue": "leatherheads sports bar",
-    "city": "draper",
-    "url": "https://www.24tix.com/events/zxvow4ypdrdo7c5knftxwrecrq",
-    "date_created": "2026-07-05"
-  },
-  {
-    "date": "2026-09-05",
-    "artist": "Raq baby Presents: Robert Johnson Tour",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10451/raqbaby",
-    "date_created": "2026-07-02"
-  },
-  {
-    "date": "2026-09-05",
-    "artist": "Silk",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/silk-salt-lake-city-utah-09-05-2026/event/1E0064FBAB53C508",
-    "date_created": "2026-08-20"
-  },
-  {
-    "date": "2026-09-05",
-    "artist": "Sillk",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/sillk-salt-lake-city-utah-09-05-2026/event/1E0064FBAB53C508",
-    "date_created": "2026-07-30"
-  },
-  {
-    "date": "2026-09-05",
-    "artist": "Slipstream",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/ws5rgdseafachfcwx75qhc2mly",
-    "date_created": "2026-09-03"
-  },
-  {
-    "date": "2026-09-05",
-    "artist": "Street Tombs, Cemetery Reign, Disengaged, & Monstrology",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/street-tombs-disengaged-monstrology/",
-    "date_created": "2026-09-04"
-  },
-  {
-    "date": "2026-09-05",
-    "artist": "Street Tombs, Disengaged, & Monstrology",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/street-tombs-disengaged-monstrology/",
-    "date_created": "2026-08-26"
-  },
-  {
-    "date": "2026-09-05",
-    "artist": "Turning Point U.S.GAY",
-    "venue": "metro music hall - 21+",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/4ygsy4hserbmzcw7spylzliaaq",
-    "date_created": "2026-08-05"
-  },
-  {
     "date": "2026-09-06",
     "artist": "Black Flag",
     "venue": "aces high",
@@ -4406,6 +4278,14 @@
     "city": "midvale",
     "url": "https://www.24tix.com/events/2luxawpsdjhsnigrokcmuz6kiy",
     "date_created": "2026-06-26"
+  },
+  {
+    "date": "2026-10-29",
+    "artist": "LAST Album Release - With Gracemaker & Rothko Chapel",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/last-album-release-with-gracemaker-rothko-chapel/",
+    "date_created": "2026-09-06"
   },
   {
     "date": "2026-10-29",
