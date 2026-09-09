@@ -1,69 +1,5 @@
 [
   {
-    "date": "2026-09-08",
-    "artist": "All Shall Perish",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/5ab34rbwgvg3xksiulokkg75ya",
-    "date_created": "2026-05-13"
-  },
-  {
-    "date": "2026-09-08",
-    "artist": "BRENN!",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/ssypfgqhlbfmdkaz6efc5jozou",
-    "date_created": "2026-05-06"
-  },
-  {
-    "date": "2026-09-08",
-    "artist": "DOOM LOUNGE",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/btscdhtgvfatpnxhuylbaxmdyq",
-    "date_created": "2026-09-03"
-  },
-  {
-    "date": "2026-09-08",
-    "artist": "Dance Noir",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://liquidjoes.ticketsauce.com/e/dance-noir-20",
-    "date_created": "2026-09-08"
-  },
-  {
-    "date": "2026-09-08",
-    "artist": "LP - All Is Not Lost Tour",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/lp-all-is-not-lost-tour-salt-lake-city-utah-09-08-2026/event/1E00649A3C963AB2",
-    "date_created": "2026-04-30"
-  },
-  {
-    "date": "2026-09-08",
-    "artist": "Mutilated Perception",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/apex7xma4jgnflaulzaetyoj6u",
-    "date_created": "2026-07-28"
-  },
-  {
-    "date": "2026-09-08",
-    "artist": "Tony Holiday",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/tony-holiday1493.html",
-    "date_created": "2026-08-07"
-  },
-  {
-    "date": "2026-09-08",
-    "artist": "UNDERTALE: The Determination Symphony",
-    "venue": "eccles theater",
-    "city": "slc",
-    "url": "https://live-at-the-eccles.com/events/undertale",
-    "date_created": "2026-06-04"
-  },
-  {
     "date": "2026-09-09",
     "artist": "Awakening Autumn",
     "venue": "kilby court",
@@ -202,7 +138,7 @@
   {
     "date": "2026-09-10",
     "artist": "The Obsessed + Hippie Death Cult",
-    "venue": "the dlc at quarters",
+    "venue": "international bar",
     "city": "slc",
     "url": "https://www.24tix.com/events/odbbdkb6l5eavcgwq2kv3bw3pe",
     "date_created": "2026-06-26"
@@ -657,6 +593,14 @@
   },
   {
     "date": "2026-09-15",
+    "artist": "Dance Noir",
+    "venue": "liquid joes",
+    "city": "slc",
+    "url": "https://liquidjoes.ticketsauce.com/e/dance-noir-21",
+    "date_created": "2026-09-09"
+  },
+  {
+    "date": "2026-09-15",
     "artist": "Joshua Ray Walker",
     "venue": "the state room",
     "city": "slc",
@@ -854,6 +798,14 @@
     "city": "slc",
     "url": "https://liquidjoes.ticketsauce.com/e/r-a-the-rugged-man",
     "date_created": "2026-08-19"
+  },
+  {
+    "date": "2026-09-17",
+    "artist": "R.A. THE RUGGEDMAN - RIDE WITH US TOUR",
+    "venue": "liquid joe's",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/asenzjbyyrcrppo4pqb7jibs5y",
+    "date_created": "2026-09-09"
   },
   {
     "date": "2026-09-17",
@@ -1169,6 +1121,14 @@
   },
   {
     "date": "2026-09-19",
+    "artist": "Thunder Sak",
+    "venue": "liquid joes",
+    "city": "slc",
+    "url": "https://liquidjoes.ticketsauce.com/e/thunder-sak",
+    "date_created": "2026-09-09"
+  },
+  {
+    "date": "2026-09-19",
     "artist": "Who Cried Wolf",
     "venue": "international bar",
     "city": "slc",
@@ -1457,6 +1417,14 @@
   },
   {
     "date": "2026-09-23",
+    "artist": "The Schizophonics & Fever Dog",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/the-schizophonics-the-snares/",
+    "date_created": "2026-09-09"
+  },
+  {
+    "date": "2026-09-23",
     "artist": "Zee Machine",
     "venue": "the dlc at quarters",
     "city": "slc",
@@ -1486,6 +1454,14 @@
     "city": "slc?",
     "url": "https://fortdesolation.com/",
     "date_created": "2026-06-04"
+  },
+  {
+    "date": "2026-09-24",
+    "artist": "Hoard Nation Presents Cry - Baby, a film by John Waters",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/rvsrlnvcw5gp7ljt34hjn233he",
+    "date_created": "2026-09-09"
   },
   {
     "date": "2026-09-24",
@@ -1641,6 +1617,14 @@
   },
   {
     "date": "2026-09-25",
+    "artist": "Sensoria",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/zzrppfw5z5g4pfpfb6yjbr435u",
+    "date_created": "2026-09-09"
+  },
+  {
+    "date": "2026-09-25",
     "artist": "Stonefed",
     "venue": "hog wallow",
     "city": "cottonwood",
@@ -1718,6 +1702,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1501344/hail-the-sun-tickets",
     "date_created": "2026-06-26"
+  },
+  {
+    "date": "2026-09-26",
+    "artist": "High Wasted! At Blue Gene's",
+    "venue": "blue gene's",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/mwowojwqlbhprki2m4ddy6r25y",
+    "date_created": "2026-09-09"
   },
   {
     "date": "2026-09-26",
@@ -1870,6 +1862,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/abjtjllzvbgtjnxr7xsbkoqwwa",
     "date_created": "2026-06-22"
+  },
+  {
+    "date": "2026-09-28",
+    "artist": "Deth Rali",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/pyh4tvuylvgznbp2a7dzm43wlu",
+    "date_created": "2026-09-09"
   },
   {
     "date": "2026-09-28",
@@ -2838,6 +2838,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/hmji7kn3irc6vivhl7stdeqe34",
     "date_created": "2026-07-10"
+  },
+  {
+    "date": "2026-10-08",
+    "artist": "MVTANT",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/uztymlux35h2jiin532ssfhirm",
+    "date_created": "2026-09-09"
   },
   {
     "date": "2026-10-08",
@@ -4465,6 +4473,14 @@
   },
   {
     "date": "2026-10-31",
+    "artist": "Pixie & The Partygrass Boys",
+    "venue": "the commonwealth room",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1598798/pixie-the-partygrass-boys-tickets?skin=stateroom",
+    "date_created": "2026-09-09"
+  },
+  {
+    "date": "2026-10-31",
     "artist": "Sienna Spiro",
     "venue": "the complex",
     "city": "slc",
@@ -5792,6 +5808,14 @@
     "date_created": "2026-09-03"
   },
   {
+    "date": "2026-11-28",
+    "artist": "Tommy Fleece",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/iz6pe37f5rgn5kitxhtfsailtq",
+    "date_created": "2026-09-09"
+  },
+  {
     "date": "2026-11-29",
     "artist": "Alter Bridge",
     "venue": "the complex",
@@ -6273,6 +6297,14 @@
   },
   {
     "date": "2026-12-12",
+    "artist": "Sangre Hirviendo 8º Aniversario",
+    "venue": "liquid joes",
+    "city": "slc",
+    "url": "https://liquidjoes.ticketsauce.com/e/sangre-hirviendo-8%C2%BA-aniversario",
+    "date_created": "2026-09-09"
+  },
+  {
+    "date": "2026-12-12",
     "artist": "SoDown",
     "venue": "the complex",
     "city": "slc",
@@ -6512,6 +6544,14 @@
     "date_created": "2026-02-08"
   },
   {
+    "date": "2027-02-09",
+    "artist": "Heal The Hurt / Cultist / Small Voice",
+    "venue": "liquid joes",
+    "city": "slc",
+    "url": "https://liquidjoes.ticketsauce.com/e/heal-the-hurt-cultist-small-voice",
+    "date_created": "2026-09-09"
+  },
+  {
     "date": "2027-02-12",
     "artist": "Kpop Club Night ft DJ CHEN",
     "venue": "soundwell",
@@ -6641,6 +6681,14 @@
   },
   {
     "date": "2027-03-06",
+    "artist": "Brooke Alexx - Dream Girl Tour",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/bulva4t3ojdd5dbjdvfw4iibpu",
+    "date_created": "2026-09-09"
+  },
+  {
+    "date": "2027-03-06",
     "artist": "FIA “THE LOVE ME TOUR”",
     "venue": "soundwell",
     "city": "slc",
@@ -6750,6 +6798,14 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10324/billie-marten",
     "date_created": "2026-03-30"
+  },
+  {
+    "date": "2027-03-29",
+    "artist": "Twilight in Concert",
+    "venue": "eccles theater",
+    "city": "slc",
+    "url": "/ https://www.live-at-the-eccles.com/events/twilight-in-concert",
+    "date_created": "2026-09-09"
   },
   {
     "date": "2027-04-05",
