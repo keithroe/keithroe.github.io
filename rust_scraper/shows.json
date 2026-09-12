@@ -1,117 +1,5 @@
 [
   {
-    "date": "2026-09-11",
-    "artist": "BINGO LOCO",
-    "venue": "the union",
-    "city": "slc",
-    "url": "https://theunioneventcenter.com/upcomingevents/september-xff8l",
-    "date_created": "2026-07-02"
-  },
-  {
-    "date": "2026-09-11",
-    "artist": "Cult Member",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/xcxxzozg3jfbvb3me7stfffery",
-    "date_created": "2026-08-07"
-  },
-  {
-    "date": "2026-09-11",
-    "artist": "K Motionz",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10468/kmotionz",
-    "date_created": "2026-07-23"
-  },
-  {
-    "date": "2026-09-11",
-    "artist": "Loe Shimmy",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1457723/loe-shimmy-tickets",
-    "date_created": "2026-06-04"
-  },
-  {
-    "date": "2026-09-11",
-    "artist": "Mad Caddies",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/3dl5l4kx7jcgxebjvvldiidjq4",
-    "date_created": "2026-07-02"
-  },
-  {
-    "date": "2026-09-11",
-    "artist": "Modern Speed, The Lip",
-    "venue": "SEE EVENT LISTING",
-    "city": "slc",
-    "url": "https://www.hyphaproductions.com/events/modern-speed-the-lip",
-    "date_created": "2026-09-08"
-  },
-  {
-    "date": "2026-09-11",
-    "artist": "Mustard Service",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/kxumyexdxne7rhod634xjhcem4",
-    "date_created": "2026-05-20"
-  },
-  {
-    "date": "2026-09-11",
-    "artist": "Rage Against The Supremes",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/rage-against-the-supremes1495.html",
-    "date_created": "2026-08-07"
-  },
-  {
-    "date": "2026-09-11",
-    "artist": "Random Precision: A Pink Floyd Tribute",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/lxkelggsizdvbfkz4ofpdsdaoq",
-    "date_created": "2026-08-25"
-  },
-  {
-    "date": "2026-09-11",
-    "artist": "Raskahuele",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://liquidjoes.ticketsauce.com/e/raskahuele",
-    "date_created": "2026-08-19"
-  },
-  {
-    "date": "2026-09-11",
-    "artist": "SEASLAK",
-    "venue": "velour live music gallery",
-    "city": "provo",
-    "url": "https://www.24tix.com/events/oy5oid5mm5eghpj6irauq74wve",
-    "date_created": "2026-08-25"
-  },
-  {
-    "date": "2026-09-11",
-    "artist": "Sounds By Ethan",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/umtifjqbgjaadk5zf6wgpjakya",
-    "date_created": "2026-09-03"
-  },
-  {
-    "date": "2026-09-11",
-    "artist": "The Queers",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/the-queers/",
-    "date_created": "2026-05-21"
-  },
-  {
-    "date": "2026-09-11",
-    "artist": "The Queers, Shecock, Captain Daniels & The Sunnybrook Sailors, & Outlaw Stiffs",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/the-queers/",
-    "date_created": "2026-08-20"
-  },
-  {
     "date": "2026-09-12",
     "artist": "\"POSTPONED\" DANNY V",
     "venue": "liquid joes",
@@ -1553,6 +1441,14 @@
   },
   {
     "date": "2026-09-26",
+    "artist": "Crash 'N Bash Benefit show",
+    "venue": "liquid joes",
+    "city": "slc",
+    "url": "https://liquidjoes.ticketsauce.com/e/krypled",
+    "date_created": "2026-09-12"
+  },
+  {
+    "date": "2026-09-26",
     "artist": "DJ Leemont Tribute Concert",
     "venue": "liquid joes",
     "city": "slc",
@@ -2158,6 +2054,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1416464/dying-fetus-sanguisugabogg-tickets",
     "date_created": "2026-04-30"
+  },
+  {
+    "date": "2026-10-02",
+    "artist": "Metal Night",
+    "venue": "liquid joes",
+    "city": "slc",
+    "url": "https://liquidjoes.ticketsauce.com/e/metal-night-8",
+    "date_created": "2026-09-12"
   },
   {
     "date": "2026-10-02",
@@ -7342,5 +7246,13 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10460/kotathefriend",
     "date_created": "2026-08-31"
+  },
+  {
+    "date": "2027-09-11",
+    "artist": "K Motionz",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10468/kmotionz",
+    "date_created": "2026-09-12"
   }
 ]
