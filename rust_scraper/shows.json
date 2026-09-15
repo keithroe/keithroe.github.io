@@ -1,117 +1,5 @@
 [
   {
-    "date": "2026-09-13",
-    "artist": "BAYNK Senescence DJ Tour",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/154441",
-    "date_created": "2025-09-14"
-  },
-  {
-    "date": "2026-09-13",
-    "artist": "Hot Wheels Monster Trucks Live Glow-N-Fire",
-    "venue": "maverik center",
-    "city": "west valley",
-    "url": "https://www.ticketmaster.com/hot-wheels-monster-trucks-live-glownfire-west-valley-city-utah-09-13-2026/event/1E006462D8ABB40B?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
-    "date_created": "2026-03-11"
-  },
-  {
-    "date": "2026-09-13",
-    "artist": "Hot Wheels Pedal to the Metal VIP – 11AM",
-    "venue": "maverik center",
-    "city": "west valley",
-    "url": "https://www.ticketmaster.com/hot-wheels-pedal-to-the-metal-west-valley-city-utah-09-13-2026/event/1E006464958C8516?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
-    "date_created": "2026-03-11"
-  },
-  {
-    "date": "2026-09-13",
-    "artist": "Hot Wheels Start Your Engine VIP – 11AM",
-    "venue": "maverik center",
-    "city": "west valley",
-    "url": "https://www.ticketmaster.com/hot-wheels-start-your-engine-vip-west-valley-city-utah-09-13-2026/event/1E0064649A5D8A6B?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
-    "date_created": "2026-03-11"
-  },
-  {
-    "date": "2026-09-13",
-    "artist": "Karaoke",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/5nctyojbhzhmjc63d5gazza67i",
-    "date_created": "2026-09-03"
-  },
-  {
-    "date": "2026-09-13",
-    "artist": "My Hero Academia in Concert",
-    "venue": "eccles theater",
-    "city": "slc",
-    "url": "https://www.live-at-the-eccles.com/events/my-hero-academia-in-concert",
-    "date_created": "2026-04-21"
-  },
-  {
-    "date": "2026-09-13",
-    "artist": "Sue Foley",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1493753/sue-foley-tickets?skin=stateroom",
-    "date_created": "2026-06-24"
-  },
-  {
-    "date": "2026-09-13",
-    "artist": "You Shall Know Our Velocity",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/mzbzyp6zgjgkrco2jj4kznn26m",
-    "date_created": "2026-07-21"
-  },
-  {
-    "date": "2026-09-13",
-    "artist": "Your Arms Are My Cocoon",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/a2aqfcnxszd6xc4oq6ehhf7bxy",
-    "date_created": "2026-07-10"
-  },
-  {
-    "date": "2026-09-14",
-    "artist": "Cat Positive",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/vrlg4q7kqjasjdhtb2er3z5ziu",
-    "date_created": "2026-07-13"
-  },
-  {
-    "date": "2026-09-14",
-    "artist": "Daisyhead / Not My Weekend",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/gxcikqorenaofdwupro7zmra6u",
-    "date_created": "2026-07-25"
-  },
-  {
-    "date": "2026-09-14",
-    "artist": "EIHWAR",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1374060/eihwar-tickets",
-    "date_created": "2026-03-17"
-  },
-  {
-    "date": "2026-09-14",
-    "artist": "Rav",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/24z4igughvhevj54256h6fohzu",
-    "date_created": "2026-07-02"
-  },
-  {
-    "date": "2026-09-14",
-    "artist": "Rob Zombie & Marilyn Manson with The Hu & Orgy",
-    "venue": "utah first",
-    "city": "west valley",
-    "url": "https://www.ticketmaster.com/rob-zombie-marilyn-manson-with-the-west-valley-city-utah-09-14-2026/event/1E00642CC99290F6",
-    "date_created": "2026-01-19"
-  },
-  {
     "date": "2026-09-15",
     "artist": "Anamanaguchi The Buckwild Tour",
     "venue": "soundwell",
@@ -326,6 +214,14 @@
     "city": "west valley",
     "url": "https://www.ticketmaster.com/ice-cube-truth-to-power-four-west-valley-city-utah-09-17-2025/event/1E00628BB8E24931",
     "date_created": "2026-02-28"
+  },
+  {
+    "date": "2026-09-17",
+    "artist": "KHSS with Junii",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/rgt26082.html",
+    "date_created": "2026-09-15"
   },
   {
     "date": "2026-09-17",
@@ -1153,6 +1049,14 @@
   },
   {
     "date": "2026-09-25",
+    "artist": "Local Kin",
+    "venue": "velour live music gallery",
+    "city": "provo",
+    "url": "https://www.24tix.com/events/owrc7wvpvjconjuwcdo37behv4",
+    "date_created": "2026-09-15"
+  },
+  {
+    "date": "2026-09-25",
     "artist": "Lock; The DJ – FETISH NITE",
     "venue": "aces high",
     "city": "slc",
@@ -1366,6 +1270,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/150502",
     "date_created": "2025-09-28"
+  },
+  {
+    "date": "2026-09-27",
+    "artist": "Blair Gun (San Diego)",
+    "venue": "3hive record lounge",
+    "city": "provo",
+    "url": "https://www.24tix.com/events/y4qs53poineydd4oug67mqhh4m",
+    "date_created": "2026-09-15"
   },
   {
     "date": "2026-09-27",
@@ -1913,6 +1825,14 @@
   },
   {
     "date": "2026-10-03",
+    "artist": "AURHE \"Album Release\"",
+    "venue": "velour live music gallery",
+    "city": "provo",
+    "url": "https://www.24tix.com/events/4juegkoyofgfrk2gmp4nxf6fwq",
+    "date_created": "2026-09-15"
+  },
+  {
+    "date": "2026-10-03",
     "artist": "BLADE RAVE",
     "venue": "metro music hall - 21+",
     "city": "slc",
@@ -2078,6 +1998,14 @@
     "city": "slc",
     "url": "https://aceshighsaloon.com/event/hirs-collective/",
     "date_created": "2026-06-24"
+  },
+  {
+    "date": "2026-10-04",
+    "artist": "HIRS Collective & Feral!Cat?Red!",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/hirs-collective/",
+    "date_created": "2026-09-15"
   },
   {
     "date": "2026-10-04",
@@ -2814,6 +2742,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/umriu3oamnhnjca5vw3mnukx3a",
     "date_created": "2026-05-17"
+  },
+  {
+    "date": "2026-10-12",
+    "artist": "MOMMICKED (AZ Touring)",
+    "venue": "velour live music gallery",
+    "city": "provo",
+    "url": "https://www.24tix.com/events/fmzib255yvaidlkbdowd7qw3qu",
+    "date_created": "2026-09-15"
   },
   {
     "date": "2026-10-12",
@@ -3577,6 +3513,14 @@
   },
   {
     "date": "2026-10-21",
+    "artist": "Sarah DeGraw",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/sarah-degraw1526.html",
+    "date_created": "2026-09-15"
+  },
+  {
+    "date": "2026-10-21",
     "artist": "Slow Pulp",
     "venue": "the complex",
     "city": "slc",
@@ -3606,6 +3550,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/emrohz624zcqzlbltejw7qpaay",
     "date_created": "2026-08-26"
+  },
+  {
+    "date": "2026-10-22",
+    "artist": "Mel Soul And The Heartbeat",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/mel-soul-and-the-heartbeat1527.html",
+    "date_created": "2026-09-15"
   },
   {
     "date": "2026-10-22",
@@ -3670,6 +3622,14 @@
     "city": "slc",
     "url": "https://www.deltacenter.com/events/eric-church/",
     "date_created": "2025-10-24"
+  },
+  {
+    "date": "2026-10-23",
+    "artist": "Fat Paw",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/fat-paw1528.html",
+    "date_created": "2026-09-15"
   },
   {
     "date": "2026-10-23",
@@ -3774,6 +3734,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/curz67bxnvc5lje3vm6tm23vlu",
     "date_created": "2026-06-24"
+  },
+  {
+    "date": "2026-10-24",
+    "artist": "Kirk Dath Band",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/kirk-dath-band1529.html",
+    "date_created": "2026-09-15"
   },
   {
     "date": "2026-10-24",
@@ -4433,6 +4401,14 @@
   },
   {
     "date": "2026-11-04",
+    "artist": "Every Single Time",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/hgl2zdri65g6lnc3lt5qws525i",
+    "date_created": "2026-09-15"
+  },
+  {
+    "date": "2026-11-04",
     "artist": "Jen Howard",
     "venue": "aces high",
     "city": "slc",
@@ -4782,6 +4758,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/szayezgmufgatgmisx7wdrqeym",
     "date_created": "2026-08-19"
+  },
+  {
+    "date": "2026-11-10",
+    "artist": "The Musical Box",
+    "venue": "other rooms",
+    "city": "slc?",
+    "url": "https://www.saltlakecountyarts.org/events/the-musical-box-the-music-of-genesis/",
+    "date_created": "2026-09-15"
   },
   {
     "date": "2026-11-11",
@@ -6073,6 +6057,14 @@
   },
   {
     "date": "2026-12-11",
+    "artist": "Alison's Halo",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/n3r32lb3bnbnfgnehyhp5woxc4",
+    "date_created": "2026-09-15"
+  },
+  {
+    "date": "2026-12-11",
     "artist": "BARELY ALIVE",
     "venue": "the complex",
     "city": "slc",
@@ -6198,6 +6190,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/qifznz7p6nf4pcewghrfbln2k4",
     "date_created": "2026-09-03"
+  },
+  {
+    "date": "2026-12-18",
+    "artist": "JD McPherson",
+    "venue": "the commonwealth room",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1598790/jd-mcpherson-tickets?skin=stateroom",
+    "date_created": "2026-09-15"
   },
   {
     "date": "2026-12-18",
@@ -6694,6 +6694,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/169902",
     "date_created": "2026-04-12"
+  },
+  {
+    "date": "2027-04-17",
+    "artist": "Jo Koy",
+    "venue": "eccles theater",
+    "city": "slc",
+    "url": "/ https://www.live-at-the-eccles.com/events/jo-koy",
+    "date_created": "2026-09-15"
   },
   {
     "date": "2027-04-17",
