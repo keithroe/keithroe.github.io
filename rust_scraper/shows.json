@@ -1,117 +1,5 @@
 [
   {
-    "date": "2026-09-23",
-    "artist": "Author & Punisher",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/5zzdkegcyrecfbadgxkl5f6llq",
-    "date_created": "2026-06-10"
-  },
-  {
-    "date": "2026-09-23",
-    "artist": "CHAT PILE",
-    "venue": "metro music hall - 21+",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/ykqeiizaafh7bdsiycw2ohw3ta",
-    "date_created": "2026-06-10"
-  },
-  {
-    "date": "2026-09-23",
-    "artist": "Candlebox - Can't Quit You Tour, Fall 2026",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/candlebox-cant-quit-you-tour-fall-salt-lake-city-utah-09-23-2026/event/1E0064E79FD35D91",
-    "date_created": "2026-07-15"
-  },
-  {
-    "date": "2026-09-23",
-    "artist": "Channel Tres",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1435249/channel-tres-tickets",
-    "date_created": "2026-05-10"
-  },
-  {
-    "date": "2026-09-23",
-    "artist": "Country Ramble",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/country-ramble30.html",
-    "date_created": "2026-08-19"
-  },
-  {
-    "date": "2026-09-23",
-    "artist": "Isaiah Rashad",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1489872/isaiah-rashad-tickets",
-    "date_created": "2026-06-22"
-  },
-  {
-    "date": "2026-09-23",
-    "artist": "Luke Bower",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/oqgxwq5vb5gofbujnvz7r7trxu",
-    "date_created": "2026-06-04"
-  },
-  {
-    "date": "2026-09-23",
-    "artist": "Reggaeton/ Latin Tech / afro-House",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://liquidjoes.ticketsauce.com/e/reggaeton-latin-tech-afro-house-2",
-    "date_created": "2026-09-22"
-  },
-  {
-    "date": "2026-09-23",
-    "artist": "Social Distortion",
-    "venue": "the union",
-    "city": "slc",
-    "url": "https://theunioneventcenter.com/upcomingevents/socialdistortion2026",
-    "date_created": "2026-02-28"
-  },
-  {
-    "date": "2026-09-23",
-    "artist": "Sophie Truax",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10456/sophie-truax",
-    "date_created": "2026-07-10"
-  },
-  {
-    "date": "2026-09-23",
-    "artist": "THE SCHIZOPHONICS & THE SNARES",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/the-schizophonics-the-snares/",
-    "date_created": "2026-06-14"
-  },
-  {
-    "date": "2026-09-23",
-    "artist": "The Schizophonics & Fever Dog",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/the-schizophonics-the-snares/",
-    "date_created": "2026-09-09"
-  },
-  {
-    "date": "2026-09-23",
-    "artist": "The Schizophonics, Fever Dog & The Sexdolls",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/the-schizophonics-the-snares/",
-    "date_created": "2026-09-13"
-  },
-  {
-    "date": "2026-09-23",
-    "artist": "Zee Machine",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/pyznjg5x45g7rm6fsjbqnjxooi",
-    "date_created": "2026-07-13"
-  },
-  {
     "date": "2026-09-24",
     "artist": "American Aquarium",
     "venue": "soundwell",
@@ -1585,6 +1473,14 @@
   },
   {
     "date": "2026-10-07",
+    "artist": "The Soakers",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/gbw3vdg7uvdcpal4krjhnjpr2u",
+    "date_created": "2026-09-24"
+  },
+  {
+    "date": "2026-10-07",
     "artist": "ZOLITA – THE HELL’S BELLES TOUR",
     "venue": "soundwell",
     "city": "slc",
@@ -1718,6 +1614,14 @@
     "city": "slc",
     "url": "https://theunioneventcenter.com/upcomingevents/sleepingwithsirens",
     "date_created": "2026-06-22"
+  },
+  {
+    "date": "2026-10-08",
+    "artist": "The Masse Marine",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/22sgmz2pfzc3lngwufgnroc6sa",
+    "date_created": "2026-09-24"
   },
   {
     "date": "2026-10-08",
@@ -3873,6 +3777,14 @@
   },
   {
     "date": "2026-11-05",
+    "artist": "MADRE CUMBIA Featuring Los Gaiteros de San Jacinto and Carmelo Torres",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/twio36fw6rbddjhcwtnz27usne",
+    "date_created": "2026-09-24"
+  },
+  {
+    "date": "2026-11-05",
     "artist": "Outlander in Concert",
     "venue": "eccles theater",
     "city": "slc",
@@ -3982,6 +3894,14 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10453/whales",
     "date_created": "2026-07-02"
+  },
+  {
+    "date": "2026-11-07",
+    "artist": "2slimey",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10563/2slimey",
+    "date_created": "2026-09-24"
   },
   {
     "date": "2026-11-07",
@@ -5552,6 +5472,14 @@
     "date_created": "2026-02-28"
   },
   {
+    "date": "2026-12-09",
+    "artist": "Trippie Redd",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1619467/trippie-redd-tickets",
+    "date_created": "2026-09-24"
+  },
+  {
     "date": "2026-12-10",
     "artist": "3BallMTY",
     "venue": "the complex",
@@ -5688,12 +5616,28 @@
     "date_created": "2026-09-11"
   },
   {
+    "date": "2026-12-12",
+    "artist": "The Eighth Annual Craft Lake City Holiday Market",
+    "venue": "mountain america expo center",
+    "city": "sandy",
+    "url": "https://www.24tix.com/events/l72r7uhi35hy7gtpwup6ksyhpq",
+    "date_created": "2026-09-24"
+  },
+  {
     "date": "2026-12-13",
     "artist": "Beartooth: Pure Ecstasy World Tour",
     "venue": "the union",
     "city": "slc",
     "url": "https://theunioneventcenter.com/upcomingevents/beartooth",
     "date_created": "2026-05-20"
+  },
+  {
+    "date": "2026-12-14",
+    "artist": "Honey Revenge X Dead Poet Society",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1536061/honey-revenge-x-dead-poet-society-tickets",
+    "date_created": "2026-09-24"
   },
   {
     "date": "2026-12-15",
