@@ -1,117 +1,5 @@
 [
   {
-    "date": "2026-09-24",
-    "artist": "American Aquarium",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10432/americanaquarium",
-    "date_created": "2026-06-13"
-  },
-  {
-    "date": "2026-09-24",
-    "artist": "Citizen",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1420219/citizen-tickets",
-    "date_created": "2026-04-30"
-  },
-  {
-    "date": "2026-09-24",
-    "artist": "Fort Desolation Fest",
-    "venue": "other rooms",
-    "city": "slc?",
-    "url": "https://fortdesolation.com/",
-    "date_created": "2026-06-04"
-  },
-  {
-    "date": "2026-09-24",
-    "artist": "Hoard Nation Presents Cry - Baby, a film by John Waters",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/rvsrlnvcw5gp7ljt34hjn233he",
-    "date_created": "2026-09-09"
-  },
-  {
-    "date": "2026-09-24",
-    "artist": "Hug The Warrior",
-    "venue": "velour live music gallery",
-    "city": "provo",
-    "url": "https://www.24tix.com/events/7u37ixvhqncu7jx5iaruquujji",
-    "date_created": "2026-09-18"
-  },
-  {
-    "date": "2026-09-24",
-    "artist": "Killswitch Engage",
-    "venue": "the union",
-    "city": "slc",
-    "url": "https://theunioneventcenter.com/upcomingevents/killswitch-engage",
-    "date_created": "2026-04-16"
-  },
-  {
-    "date": "2026-09-24",
-    "artist": "MAXIMUM UNLIMITED",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/34r4fabrpbf27cgborwjyxw4si",
-    "date_created": "2026-08-29"
-  },
-  {
-    "date": "2026-09-24",
-    "artist": "Meander Cat",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/meander-cat1505.html",
-    "date_created": "2026-08-19"
-  },
-  {
-    "date": "2026-09-24",
-    "artist": "Mountain Grass Unit",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/4452dtnxwzh4hdh7rtoqrqaafm",
-    "date_created": "2026-06-22"
-  },
-  {
-    "date": "2026-09-24",
-    "artist": "POiSON GiRL FRiEND",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/c7fym7dcbzbzdkcmiq253o74cm",
-    "date_created": "2026-06-26"
-  },
-  {
-    "date": "2026-09-24",
-    "artist": "SLUG Localized",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/boqaxmj22nhg7nkhf3kzfv6vnu",
-    "date_created": "2026-08-21"
-  },
-  {
-    "date": "2026-09-24",
-    "artist": "oskar med k",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2896.htm",
-    "date_created": "2026-03-20"
-  },
-  {
-    "date": "2026-09-24",
-    "artist": "underscores",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2954.htm",
-    "date_created": "2026-05-20"
-  },
-  {
-    "date": "2026-09-24",
-    "artist": "underscores - CANCELED",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2954.htm",
-    "date_created": "2026-06-09"
-  },
-  {
     "date": "2026-09-25",
     "artist": "ARLO PARKS",
     "venue": "metro music hall - all ages",
@@ -473,6 +361,14 @@
   },
   {
     "date": "2026-09-27",
+    "artist": "Poké Rave",
+    "venue": "liquid joes",
+    "city": "slc",
+    "url": "https://liquidjoes.ticketsauce.com/e/pokerave",
+    "date_created": "2026-09-25"
+  },
+  {
+    "date": "2026-09-27",
     "artist": "YHWH NAILGUN",
     "venue": "kilby court",
     "city": "slc",
@@ -806,6 +702,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1471957/mind-enterprises-tickets",
     "date_created": "2026-06-04"
+  },
+  {
+    "date": "2026-10-01",
+    "artist": "Nyahmidi",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/reggae-thursday1514.html",
+    "date_created": "2026-09-25"
   },
   {
     "date": "2026-10-01",
@@ -1873,6 +1777,14 @@
   },
   {
     "date": "2026-10-10",
+    "artist": "With Andrea",
+    "venue": "velour live music gallery",
+    "city": "provo",
+    "url": "https://www.24tix.com/events/sitxfiuaynd7xp7misndet7u3q",
+    "date_created": "2026-09-25"
+  },
+  {
+    "date": "2026-10-10",
     "artist": "glaive",
     "venue": "the complex",
     "city": "slc",
@@ -2198,6 +2110,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1518853/yelawolf-highly-suspect-the-war-within-tour-tickets",
     "date_created": "2026-07-15"
+  },
+  {
+    "date": "2026-10-15",
+    "artist": "BLACK CELEBRATION (Goth Bands + DJ Set)",
+    "venue": "velour live music gallery",
+    "city": "provo",
+    "url": "https://www.24tix.com/events/2usowyhmmnhd3jdae4w7l24icq",
+    "date_created": "2026-09-25"
   },
   {
     "date": "2026-10-15",
@@ -2801,6 +2721,14 @@
   },
   {
     "date": "2026-10-22",
+    "artist": "ROFL: A Night of Comedy + EDM",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/e3rck2w5s5drhavyo7rrot4nwe",
+    "date_created": "2026-09-25"
+  },
+  {
+    "date": "2026-10-22",
     "artist": "SiM",
     "venue": "the complex",
     "city": "slc",
@@ -3040,6 +2968,14 @@
     "date_created": "2026-09-11"
   },
   {
+    "date": "2026-10-24",
+    "artist": "Wicked Temple, Death Persona, Oscillascura, & The Mutiny",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/wicked-temple-death-persona-oscillascura-the-mutiny/",
+    "date_created": "2026-09-25"
+  },
+  {
     "date": "2026-10-25",
     "artist": "BurnDown",
     "venue": "soundwell",
@@ -3249,6 +3185,14 @@
   },
   {
     "date": "2026-10-28",
+    "artist": "Movie Night",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/movie-night-2/",
+    "date_created": "2026-09-25"
+  },
+  {
+    "date": "2026-10-28",
     "artist": "SHAWN JAMES",
     "venue": "the urban lounge",
     "city": "slc",
@@ -3313,6 +3257,14 @@
   },
   {
     "date": "2026-10-29",
+    "artist": "Sunfish Halloween",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10564/sunfishhalloween",
+    "date_created": "2026-09-25"
+  },
+  {
+    "date": "2026-10-29",
     "artist": "Taylor Bickett",
     "venue": "the pearl on main",
     "city": "midvale",
@@ -3374,6 +3326,14 @@
     "city": "slc",
     "url": "https://www.deltacenter.com/events/dan-shay/",
     "date_created": "2026-05-20"
+  },
+  {
+    "date": "2026-10-30",
+    "artist": "Halloween Pizza Party VI",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/nlpqzkzdujdvzjvomsdbssutpq",
+    "date_created": "2026-09-25"
   },
   {
     "date": "2026-10-30",
@@ -3913,6 +3873,14 @@
   },
   {
     "date": "2026-11-07",
+    "artist": "Bad Year, Bridge the Gap, Pirates of the Promised Land, & Molotovin",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/bad-year-bridge-the-gap-pirates-of-the-promised-land-molotovin/",
+    "date_created": "2026-09-25"
+  },
+  {
+    "date": "2026-11-07",
     "artist": "Derrick Stroup",
     "venue": "eccles theater",
     "city": "slc",
@@ -4129,6 +4097,14 @@
   },
   {
     "date": "2026-11-11",
+    "artist": "ALL Elite Wrestling presents Dynamite & Collision",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/all-elite-wrestling-presents-dynamite-collision-west-valley-city-utah-11-11-2026/event/1E00652ADF2CCC23?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-09-25"
+  },
+  {
+    "date": "2026-11-11",
     "artist": "Fox Stevenson & Mystery Skulls",
     "venue": "the urban lounge",
     "city": "slc",
@@ -4142,6 +4118,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/hk2kn7rcifee3fdbqhkhop6d7m",
     "date_created": "2026-06-24"
+  },
+  {
+    "date": "2026-11-11",
+    "artist": "Lioneer",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/valvgvmtybap7gwqclcrrgou4y",
+    "date_created": "2026-09-25"
   },
   {
     "date": "2026-11-11",
@@ -4390,6 +4374,14 @@
     "city": "slc",
     "url": "https://www.ticketmaster.com/rock-fight-nickelback-vs-creed-salt-lake-city-utah-11-14-2026/event/1E006530B25D7C07",
     "date_created": "2026-09-22"
+  },
+  {
+    "date": "2026-11-14",
+    "artist": "Sweet Tangerine",
+    "venue": "velour live music gallery",
+    "city": "provo",
+    "url": "https://www.24tix.com/events/ikktp6enhnhzld6sd4dguk4vwi",
+    "date_created": "2026-09-25"
   },
   {
     "date": "2026-11-14",
@@ -5760,6 +5752,14 @@
     "date_created": "2025-12-21"
   },
   {
+    "date": "2026-12-20",
+    "artist": "Oingo Boingo Former Members",
+    "venue": "liquid joes",
+    "city": "slc",
+    "url": "https://liquidjoes.ticketsauce.com/e/oingo-boingo-former-members-dec20",
+    "date_created": "2026-09-25"
+  },
+  {
     "date": "2026-12-22",
     "artist": "A Magical Cirque Christmas",
     "venue": "eccles theater",
@@ -5921,11 +5921,27 @@
   },
   {
     "date": "2027-01-30",
+    "artist": "GRABBITZ",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10556/grabbitz",
+    "date_created": "2026-09-25"
+  },
+  {
+    "date": "2027-01-30",
     "artist": "Paul Wall",
     "venue": "the complex",
     "city": "slc",
     "url": "https://www.axs.com/events/1425506/paul-wall-tickets",
     "date_created": "2026-06-04"
+  },
+  {
+    "date": "2027-01-30",
+    "artist": "Rise Up Select Presents: Atmosphere - The Winter Carnival Tour 2027",
+    "venue": "the depot",
+    "city": "slc",
+    "url": "https://www.ticketmaster.com/rise-up-select-presents-atmosphere-the-salt-lake-city-utah-01-30-2027/event/1E006537CF070C9C",
+    "date_created": "2026-09-25"
   },
   {
     "date": "2027-01-30",
@@ -6878,5 +6894,21 @@
     "city": "slc",
     "url": "https://tixr.com/e/192356",
     "date_created": "2026-09-21"
+  },
+  {
+    "date": "2027-09-24",
+    "artist": "American Aquarium",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10432/americanaquarium",
+    "date_created": "2026-09-25"
+  },
+  {
+    "date": "2027-09-24",
+    "artist": "Fort Desolation Fest",
+    "venue": "other rooms",
+    "city": "slc?",
+    "url": "https://fortdesolation.com/",
+    "date_created": "2026-09-25"
   }
 ]
