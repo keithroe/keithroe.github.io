@@ -1,125 +1,5 @@
 [
   {
-    "date": "2026-09-25",
-    "artist": "ARLO PARKS",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/vmnzzkgl6ffoxgea7ekhku2cxq",
-    "date_created": "2026-03-06"
-  },
-  {
-    "date": "2026-09-25",
-    "artist": "ATLiens",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1524003/atliens-tickets",
-    "date_created": "2026-09-05"
-  },
-  {
-    "date": "2026-09-25",
-    "artist": "ATLiens - DESTRUCTION OF A UFO TOUR",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-3010.htm",
-    "date_created": "2026-07-21"
-  },
-  {
-    "date": "2026-09-25",
-    "artist": "Bowling for Soup",
-    "venue": "the union",
-    "city": "slc",
-    "url": "https://theunioneventcenter.com/upcomingevents/bowlingforsoup",
-    "date_created": "2026-04-30"
-  },
-  {
-    "date": "2026-09-25",
-    "artist": "ELDER",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/z57uftbzmfgt3lbgefpm7cwliu",
-    "date_created": "2026-05-13"
-  },
-  {
-    "date": "2026-09-25",
-    "artist": "Iguana Death Cult",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/opaeun7tzrgnbpy35gnvq3fokm",
-    "date_created": "2026-06-22"
-  },
-  {
-    "date": "2026-09-25",
-    "artist": "Lake Day",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://liquidjoes.ticketsauce.com/e/lake-day",
-    "date_created": "2026-07-21"
-  },
-  {
-    "date": "2026-09-25",
-    "artist": "Local Kin",
-    "venue": "velour live music gallery",
-    "city": "provo",
-    "url": "https://www.24tix.com/events/owrc7wvpvjconjuwcdo37behv4",
-    "date_created": "2026-09-15"
-  },
-  {
-    "date": "2026-09-25",
-    "artist": "Lock; The DJ – FETISH NITE",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/lock-the-dj-fetish-nite/",
-    "date_created": "2026-09-04"
-  },
-  {
-    "date": "2026-09-25",
-    "artist": "OVERDRIVE feat. MEFJUS with DAXTA",
-    "venue": "vip event center",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/n33skhauybbbrcalrh55eaqbha",
-    "date_created": "2026-08-12"
-  },
-  {
-    "date": "2026-09-25",
-    "artist": "Phora",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/199939",
-    "date_created": "2026-07-25"
-  },
-  {
-    "date": "2026-09-25",
-    "artist": "Sensoria",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/zzrppfw5z5g4pfpfb6yjbr435u",
-    "date_created": "2026-09-09"
-  },
-  {
-    "date": "2026-09-25",
-    "artist": "Stonefed",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/stonefed1507.html",
-    "date_created": "2026-08-19"
-  },
-  {
-    "date": "2026-09-25",
-    "artist": "The Bends",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/rcn3crdnb5bmzgkifl45vwu66e",
-    "date_created": "2026-04-16"
-  },
-  {
-    "date": "2026-09-25",
-    "artist": "ivri: The Theory of You Tour",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/146883",
-    "date_created": "2025-09-26"
-  },
-  {
     "date": "2026-09-26",
     "artist": "$uicideboy$ present Grey Day Tour 2026 w. Shoreline Mafia & more",
     "venue": "utah first",
@@ -6910,5 +6790,13 @@
     "city": "slc?",
     "url": "https://fortdesolation.com/",
     "date_created": "2026-09-25"
+  },
+  {
+    "date": "2027-09-25",
+    "artist": "Phora",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/199939",
+    "date_created": "2026-09-26"
   }
 ]
