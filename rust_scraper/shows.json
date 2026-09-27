@@ -1,165 +1,5 @@
 [
   {
-    "date": "2026-09-26",
-    "artist": "$uicideboy$ present Grey Day Tour 2026 w. Shoreline Mafia & more",
-    "venue": "utah first",
-    "city": "west valley",
-    "url": "https://www.ticketmaster.com/uicideboy-present-grey-day-tour-2026-west-valley-city-utah-09-26-2026/event/1E00647BDE36F59B",
-    "date_created": "2026-04-02"
-  },
-  {
-    "date": "2026-09-26",
-    "artist": "A Dolly Parton Celebration",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/hrtyv7ssuzf7zfcsb5hb4e7pwu",
-    "date_created": "2026-08-29"
-  },
-  {
-    "date": "2026-09-26",
-    "artist": "Aces High 6th Anniversary! Deathblow, Acid Hologram, & The Monarchs",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/aces-high-6th-anniversary-deathblow-acid-hologram-the-monarchs/",
-    "date_created": "2026-09-04"
-  },
-  {
-    "date": "2026-09-26",
-    "artist": "Cardinal Bloom",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/cardinal-bloom-salt-lake-city-utah-09-26-2026/event/1E0064C3AC3CB1B8",
-    "date_created": "2026-06-09"
-  },
-  {
-    "date": "2026-09-26",
-    "artist": "Crash 'N Bash Benefit show",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://liquidjoes.ticketsauce.com/e/krypled",
-    "date_created": "2026-09-12"
-  },
-  {
-    "date": "2026-09-26",
-    "artist": "DJ Leemont Tribute Concert",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://liquidjoes.ticketsauce.com/e/dj-leemont-tribute-concert",
-    "date_created": "2025-09-27"
-  },
-  {
-    "date": "2026-09-26",
-    "artist": "Elefante en Concierto – Tour 30 aniversario",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/154502",
-    "date_created": "2025-09-27"
-  },
-  {
-    "date": "2026-09-26",
-    "artist": "Hail The Sun",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1501344/hail-the-sun-tickets",
-    "date_created": "2026-06-26"
-  },
-  {
-    "date": "2026-09-26",
-    "artist": "High Wasted! At Blue Gene's",
-    "venue": "blue gene's",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/mwowojwqlbhprki2m4ddy6r25y",
-    "date_created": "2026-09-09"
-  },
-  {
-    "date": "2026-09-26",
-    "artist": "Hivemind",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/hivemind1508.html",
-    "date_created": "2026-08-19"
-  },
-  {
-    "date": "2026-09-26",
-    "artist": "K-Ute Presents: Samia",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/138363",
-    "date_created": "2025-09-27"
-  },
-  {
-    "date": "2026-09-26",
-    "artist": "KRCL Presents Cardinal Bloom",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/krcl-presents-cardinal-bloom-salt-lake-city-utah-09-26-2026/event/1E0064C3AC3CB1B8",
-    "date_created": "2026-06-11"
-  },
-  {
-    "date": "2026-09-26",
-    "artist": "My Favorite Murder",
-    "venue": "eccles theater",
-    "city": "slc",
-    "url": "https://www.live-at-the-eccles.com/events/my-favorite-murder",
-    "date_created": "2025-09-27"
-  },
-  {
-    "date": "2026-09-26",
-    "artist": "NYMSC",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/nymsc-3/",
-    "date_created": "2026-09-05"
-  },
-  {
-    "date": "2026-09-26",
-    "artist": "Rum Jungle",
-    "venue": "velour live music gallery",
-    "city": "provo",
-    "url": "https://www.24tix.com/events/ovyz5bz6urdf7emtvadyi5vlgy",
-    "date_created": "2026-05-10"
-  },
-  {
-    "date": "2026-09-26",
-    "artist": "SPAZ",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/bt5z34jbfrg5lmauiau3tlkdbi",
-    "date_created": "2026-09-18"
-  },
-  {
-    "date": "2026-09-26",
-    "artist": "Sweeping Promises",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/hzvp7cswzva5jkdtl5rnsltre4",
-    "date_created": "2026-05-13"
-  },
-  {
-    "date": "2026-09-26",
-    "artist": "VEGAS MCGRAW Tribute to Tim Mcgraws Greatest Hits",
-    "venue": "leatherheads sports bar",
-    "city": "draper",
-    "url": "https://www.24tix.com/events/tk2qijiwivb25coebunygqxqbe",
-    "date_created": "2026-06-22"
-  },
-  {
-    "date": "2026-09-26",
-    "artist": "Wind Walkers",
-    "venue": "metro music hall - 21+",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/gghp53v6qbexzkoelbkgjsjfly",
-    "date_created": "2026-06-10"
-  },
-  {
-    "date": "2026-09-26",
-    "artist": "ivri",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/e7bjxtjsynfdzneay7lzssmrxy",
-    "date_created": "2026-06-22"
-  },
-  {
     "date": "2026-09-27",
     "artist": "Aurorawave",
     "venue": "soundwell",
@@ -865,6 +705,14 @@
   },
   {
     "date": "2026-10-03",
+    "artist": "May She Reign & Scrappy Beak",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/may-she-reign-scrappy-beak/",
+    "date_created": "2026-09-27"
+  },
+  {
+    "date": "2026-10-03",
     "artist": "Michigander",
     "venue": "kilby court",
     "city": "slc",
@@ -1513,6 +1361,14 @@
   },
   {
     "date": "2026-10-09",
+    "artist": "The Sweet Kill, Brandon Callahan, & DJ Gabriel",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/the-sweet-kill-brandon-callahan-dj-gabriel/",
+    "date_created": "2026-09-27"
+  },
+  {
+    "date": "2026-10-09",
     "artist": "Twiztid",
     "venue": "the complex",
     "city": "slc",
@@ -1534,6 +1390,14 @@
     "city": "midvale",
     "url": "https://www.24tix.com/events/jjbe2bov3fanrlqu4x56k3pglu",
     "date_created": "2026-09-18"
+  },
+  {
+    "date": "2026-10-10",
+    "artist": "Anchor Tattoo 20th Anniversary - Slamhog, Liminal Sun, Mowth, Gracemaker, & Oxcross",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/anchor-tattoo-20th-anniversary-slamhog-liminal-sun-mowth-gracemaker-oxcross/",
+    "date_created": "2026-09-27"
   },
   {
     "date": "2026-10-10",
@@ -1929,6 +1793,14 @@
   },
   {
     "date": "2026-10-14",
+    "artist": "JJX, TACT, & Filth Lords",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/jjx-tact-filth-lords/",
+    "date_created": "2026-09-27"
+  },
+  {
+    "date": "2026-10-14",
     "artist": "Jim Henson's Labyrinth In Concert",
     "venue": "eccles theater",
     "city": "slc",
@@ -2070,6 +1942,14 @@
     "city": "slc",
     "url": "https://aceshighsaloon.com/event/the-well-pink-fuzz/",
     "date_created": "2026-08-02"
+  },
+  {
+    "date": "2026-10-15",
+    "artist": "The Well, Pink Fuzz, & FIIG",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/the-well-pink-fuzz/",
+    "date_created": "2026-09-27"
   },
   {
     "date": "2026-10-15",
@@ -2241,6 +2121,14 @@
   },
   {
     "date": "2026-10-17",
+    "artist": "Paint n' Sip with Kayla",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/paint-n-sip-with-kayla/",
+    "date_created": "2026-09-27"
+  },
+  {
+    "date": "2026-10-17",
     "artist": "REZN",
     "venue": "the dlc at quarters",
     "city": "slc",
@@ -2310,6 +2198,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/4kegnv626feeflxysmjdtb7z64",
     "date_created": "2026-07-19"
+  },
+  {
+    "date": "2026-10-17",
+    "artist": "Wey, Infamous Stiffs, Hi-Fi Murder, & Boneless Ones",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/wey-infamous-stiffs-hi-fi-murder-boneless-ones/",
+    "date_created": "2026-09-27"
   },
   {
     "date": "2026-10-18",
@@ -2457,6 +2353,14 @@
   },
   {
     "date": "2026-10-20",
+    "artist": "Scattered Guts, Necrowolf, & TBD",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/scattered-guts-necrowolf-tbd/",
+    "date_created": "2026-09-27"
+  },
+  {
+    "date": "2026-10-20",
     "artist": "Taste of Chaos",
     "venue": "the complex",
     "city": "slc",
@@ -2574,6 +2478,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/6wwfgs6earbijkvzbwey4ttxqi",
     "date_created": "2026-08-17"
+  },
+  {
+    "date": "2026-10-22",
+    "artist": "Ealdor Bealu, Pinewalker, & Moon Wizard",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/ealdor-bealu-pinewalker-moon-wizard-2/",
+    "date_created": "2026-09-27"
   },
   {
     "date": "2026-10-22",
@@ -2822,6 +2734,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/196036",
     "date_created": "2026-06-27"
+  },
+  {
+    "date": "2026-10-24",
+    "artist": "RISE UP REVIVAL",
+    "venue": "leatherheads sports bar",
+    "city": "draper",
+    "url": "https://www.24tix.com/events/jbdm4hpqkrgrjip52atqjzxbzq",
+    "date_created": "2026-09-27"
   },
   {
     "date": "2026-10-24",
@@ -6798,5 +6718,13 @@
     "city": "slc",
     "url": "https://tixr.com/e/199939",
     "date_created": "2026-09-26"
+  },
+  {
+    "date": "2027-09-26",
+    "artist": "Elefante en Concierto – Tour 30 aniversario",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/154502",
+    "date_created": "2026-09-27"
   }
 ]
