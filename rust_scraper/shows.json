@@ -1,101 +1,5 @@
 [
   {
-    "date": "2026-09-27",
-    "artist": "Aurorawave",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/150502",
-    "date_created": "2025-09-28"
-  },
-  {
-    "date": "2026-09-27",
-    "artist": "Blair Gun (San Diego)",
-    "venue": "3hive record lounge",
-    "city": "provo",
-    "url": "https://www.24tix.com/events/y4qs53poineydd4oug67mqhh4m",
-    "date_created": "2026-09-15"
-  },
-  {
-    "date": "2026-09-27",
-    "artist": "Canna Fan Fest",
-    "venue": "granary live",
-    "city": "slc",
-    "url": "https://tixr.com/e/150768",
-    "date_created": "2025-09-28"
-  },
-  {
-    "date": "2026-09-27",
-    "artist": "Deer Tick",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/2ogryzrfxbavnb2b266gauj254",
-    "date_created": "2026-03-11"
-  },
-  {
-    "date": "2026-09-27",
-    "artist": "Emarosa presents: High Horse Heaven Tour",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10389/emarosa",
-    "date_created": "2026-04-21"
-  },
-  {
-    "date": "2026-09-27",
-    "artist": "Ghostbusters in Concert",
-    "venue": "eccles theater",
-    "city": "slc",
-    "url": "https://www.live-at-the-eccles.com/events/ghostbusters-in-concert",
-    "date_created": "2026-04-02"
-  },
-  {
-    "date": "2026-09-27",
-    "artist": "Jon Q Public",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/c2huqh5p3rhdngl7oe2dmyeeuu",
-    "date_created": "2026-08-16"
-  },
-  {
-    "date": "2026-09-27",
-    "artist": "Karaoke",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/vwdxvfsupbdg7dowmsnzrggmme",
-    "date_created": "2026-09-18"
-  },
-  {
-    "date": "2026-09-27",
-    "artist": "Lauren Sanderson",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/t2c56xabrbai5g2fnjlung5jfy",
-    "date_created": "2026-06-04"
-  },
-  {
-    "date": "2026-09-27",
-    "artist": "Limelight - An Evening With Gloss Haus",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/limelight-an-evening-with-gloss-haus-salt-lake-city-utah-09-27-2026/event/1E006521DEB0DF01",
-    "date_created": "2026-09-04"
-  },
-  {
-    "date": "2026-09-27",
-    "artist": "Poké Rave",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://liquidjoes.ticketsauce.com/e/pokerave",
-    "date_created": "2026-09-25"
-  },
-  {
-    "date": "2026-09-27",
-    "artist": "YHWH NAILGUN",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/abjtjllzvbgtjnxr7xsbkoqwwa",
-    "date_created": "2026-06-22"
-  },
-  {
     "date": "2026-09-28",
     "artist": "Deth Rali",
     "venue": "international bar",
@@ -1553,6 +1457,14 @@
   },
   {
     "date": "2026-10-11",
+    "artist": "Dog Party, The Sex Dolls, & Lukas Field",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/dog-party-the-sex-dolls-lukas-field/",
+    "date_created": "2026-09-28"
+  },
+  {
+    "date": "2026-10-11",
     "artist": "FABIO FRIZZI (performing the FRIZZI2FULCI)",
     "venue": "the urban lounge",
     "city": "slc",
@@ -1870,6 +1782,14 @@
     "city": "provo",
     "url": "https://www.24tix.com/events/2usowyhmmnhd3jdae4w7l24icq",
     "date_created": "2026-09-25"
+  },
+  {
+    "date": "2026-10-15",
+    "artist": "Bentelou",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/rgt26102.html",
+    "date_created": "2026-09-28"
   },
   {
     "date": "2026-10-15",
@@ -6017,6 +5937,14 @@
   },
   {
     "date": "2027-03-05",
+    "artist": "JACK KAYS",
+    "venue": "metro music hall - all ages",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/djvcd4pcijayroopv4cbug7f6e",
+    "date_created": "2026-09-28"
+  },
+  {
+    "date": "2027-03-05",
     "artist": "Valley - Do You Need to Be Entertained Tour",
     "venue": "the depot",
     "city": "slc",
@@ -6726,5 +6654,13 @@
     "city": "slc",
     "url": "https://tixr.com/e/154502",
     "date_created": "2026-09-27"
+  },
+  {
+    "date": "2027-09-27",
+    "artist": "Emarosa presents: High Horse Heaven Tour",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10389/emarosa",
+    "date_created": "2026-09-28"
   }
 ]
