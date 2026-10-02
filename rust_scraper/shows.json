@@ -1,133 +1,5 @@
 [
   {
-    "date": "2026-10-01",
-    "artist": "Alghoul",
-    "venue": "metro music hall - 21+",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/odozsxzpw5catp7j6idtwheumi",
-    "date_created": "2026-09-11"
-  },
-  {
-    "date": "2026-10-01",
-    "artist": "Anna Graves",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1488965/anna-graves-tickets?skin=stateroom",
-    "date_created": "2026-06-13"
-  },
-  {
-    "date": "2026-10-01",
-    "artist": "Cavetown",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1397021/cavetown-tickets",
-    "date_created": "2026-04-14"
-  },
-  {
-    "date": "2026-10-01",
-    "artist": "Empire of the Sun - Ask That God: Afterlife North American Tour",
-    "venue": "utah first",
-    "city": "west valley",
-    "url": "https://www.ticketmaster.com/empire-of-the-sun-ask-that-west-valley-city-utah-10-01-2026/event/1E006466C582D26F",
-    "date_created": "2026-03-13"
-  },
-  {
-    "date": "2026-10-01",
-    "artist": "Evening Elephants",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/u5xlttgvmzhzfm37ll6spdoswa",
-    "date_created": "2026-06-04"
-  },
-  {
-    "date": "2026-10-01",
-    "artist": "Hoppy (Single Release Show)",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/bxcbf7oy3rcblprcsupo6mdxou",
-    "date_created": "2026-09-04"
-  },
-  {
-    "date": "2026-10-01",
-    "artist": "Mad Chick Magnets",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/z6aygvqs4vf7npa3vbezsptema",
-    "date_created": "2026-08-26"
-  },
-  {
-    "date": "2026-10-01",
-    "artist": "Mind Enterprises",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1471957/mind-enterprises-tickets",
-    "date_created": "2026-06-04"
-  },
-  {
-    "date": "2026-10-01",
-    "artist": "Nyahmidi",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/reggae-thursday1514.html",
-    "date_created": "2026-09-25"
-  },
-  {
-    "date": "2026-10-01",
-    "artist": "Phillip Phillips",
-    "venue": "the commonwealth room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1493718/phillip-phillips-tickets?skin=stateroom",
-    "date_created": "2026-06-24"
-  },
-  {
-    "date": "2026-10-01",
-    "artist": "Reggae Thursday",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/reggae-thursday1514.html",
-    "date_created": "2026-09-11"
-  },
-  {
-    "date": "2026-10-01",
-    "artist": "The Apathetics, Me, Grimlock, & Atypical Heroes",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/the-apathetics-me-grimlock-atypical-heroes/",
-    "date_created": "2026-07-13"
-  },
-  {
-    "date": "2026-10-01",
-    "artist": "The Great Silence",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/jc4g3dsg35e4jhdbk2fviewtfu",
-    "date_created": "2026-06-26"
-  },
-  {
-    "date": "2026-10-01",
-    "artist": "The War On Drugs",
-    "venue": "the gallivan center",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/yx4dj4yokvfc7mndjim4pgz4fq",
-    "date_created": "2026-04-10"
-  },
-  {
-    "date": "2026-10-01",
-    "artist": "dnbOS: HARD RESET feat. SIMULA",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/198326",
-    "date_created": "2026-07-14"
-  },
-  {
-    "date": "2026-10-01",
-    "artist": "dnbOS: HARD RESET feat. SIMULA (360º)",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/198326",
-    "date_created": "2026-09-30"
-  },
-  {
     "date": "2026-10-02",
     "artist": "ADÉLA: The Red Bottoms Tour",
     "venue": "the depot",
@@ -1145,6 +1017,14 @@
   },
   {
     "date": "2026-10-10",
+    "artist": "Latto VIP Upgrades (Event Ticket Not Included)",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/latto-vip-upgrades-event-ticket-not-west-valley-city-utah-10-10-2026/event/1E0064F6C52BE03B?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-02"
+  },
+  {
+    "date": "2026-10-10",
     "artist": "PURE NRG",
     "venue": "international bar",
     "city": "slc",
@@ -1785,6 +1665,14 @@
   },
   {
     "date": "2026-10-17",
+    "artist": "GRAVEYARD SHIFT – A COSTUME PARTY",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10555/graveyardshift",
+    "date_created": "2026-10-02"
+  },
+  {
+    "date": "2026-10-17",
     "artist": "GUTFELD! LIVE",
     "venue": "maverik center",
     "city": "west valley",
@@ -1958,6 +1846,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/wso42e6k6vhbrbtiajernkqwwy",
     "date_created": "2026-08-14"
+  },
+  {
+    "date": "2026-10-18",
+    "artist": "Hayden Everett & Kate Stephenson",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/wso42e6k6vhbrbtiajernkqwwy",
+    "date_created": "2026-10-02"
   },
   {
     "date": "2026-10-18",
@@ -2366,6 +2262,14 @@
     "city": "slc",
     "url": "https://theunioneventcenter.com/upcomingevents/skillet",
     "date_created": "2026-06-24"
+  },
+  {
+    "date": "2026-10-23",
+    "artist": "Stoke 101",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1640202/stoke-101-tickets",
+    "date_created": "2026-10-02"
   },
   {
     "date": "2026-10-23",
@@ -2993,6 +2897,14 @@
   },
   {
     "date": "2026-10-31",
+    "artist": "ICONEEK!",
+    "venue": "the depot",
+    "city": "slc",
+    "url": "https://www.ticketmaster.com/iconeek-salt-lake-city-utah-10-31-2026/event/1E00653EB2F19F64",
+    "date_created": "2026-10-02"
+  },
+  {
+    "date": "2026-10-31",
     "artist": "Icon For Hire: Scripted 15 Year Anniversary Tour",
     "venue": "soundwell",
     "city": "slc",
@@ -3022,6 +2934,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1598798/pixie-the-partygrass-boys-tickets?skin=stateroom",
     "date_created": "2026-09-09"
+  },
+  {
+    "date": "2026-10-31",
+    "artist": "R&B Season After Dark",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/209475",
+    "date_created": "2026-10-02"
   },
   {
     "date": "2026-10-31",
@@ -3806,6 +3726,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1423193/gwar-tickets",
     "date_created": "2026-04-30"
+  },
+  {
+    "date": "2026-11-13",
+    "artist": "Gimme Gimme Disco (18+)",
+    "venue": "the depot",
+    "city": "slc",
+    "url": "https://www.ticketmaster.com/gimme-gimme-disco-18-salt-lake-city-utah-11-13-2026/event/1E00653DFA595BF8",
+    "date_created": "2026-10-02"
   },
   {
     "date": "2026-11-13",
@@ -4640,6 +4568,14 @@
     "date_created": "2026-08-07"
   },
   {
+    "date": "2026-11-29",
+    "artist": "Salt Lake City Stars vs. San Diego Clippers",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/salt-lake-city-stars-vs-san-west-valley-city-utah-11-29-2026/event/1E006538E68820C0?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-02"
+  },
+  {
     "date": "2026-11-30",
     "artist": "A Mat and Savanna Christmas",
     "venue": "eccles theater",
@@ -4710,6 +4646,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/2w34djiyxjd25aqtzzmaoam6zy",
     "date_created": "2026-09-18"
+  },
+  {
+    "date": "2026-12-01",
+    "artist": "Salt Lake City Stars vs. San Diego Clippers",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/salt-lake-city-stars-vs-san-west-valley-city-utah-12-01-2026/event/1E006538E68A20C7?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-02"
   },
   {
     "date": "2026-12-01",
@@ -5009,6 +4953,14 @@
   },
   {
     "date": "2026-12-08",
+    "artist": "Salt Lake City Stars vs. Santa Cruz Warriors",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/salt-lake-city-stars-vs-santa-west-valley-city-utah-12-08-2026/event/1E006538E68E20D1?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-02"
+  },
+  {
+    "date": "2026-12-08",
     "artist": "The Wooten Brothers",
     "venue": "the state room",
     "city": "slc",
@@ -5054,6 +5006,14 @@
     "city": "west valley",
     "url": "https://www.ticketmaster.com/lindsey-stirling-the-snow-waltz-tour-west-valley-city-utah-12-09-2025/event/1E00630FA6542F56",
     "date_created": "2026-02-28"
+  },
+  {
+    "date": "2026-12-09",
+    "artist": "Salt Lake City Stars vs. Santa Cruz Warriors",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/salt-lake-city-stars-vs-santa-west-valley-city-utah-12-09-2026/event/1E006538E69020D7?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-02"
   },
   {
     "date": "2026-12-09",
@@ -5385,7 +5345,7 @@
   },
   {
     "date": "2026-12-30",
-    "artist": "ISOXO: SLC NYE 12/30",
+    "artist": "ISOxo: SLC NYE 12/30",
     "venue": "the complex",
     "city": "slc",
     "url": "https://www.axs.com/events/1629384/isoxo-slc-nye-1230-tickets",
@@ -5393,7 +5353,7 @@
   },
   {
     "date": "2026-12-31",
-    "artist": "JOSH BAKER: SLC NYE 12/31",
+    "artist": "Josh Baker: SLC NYE 12/31",
     "venue": "the complex",
     "city": "slc",
     "url": "https://www.axs.com/events/1631731/josh-baker-slc-nye-1231-tickets",
@@ -5409,7 +5369,7 @@
   },
   {
     "date": "2027-01-01",
-    "artist": "KLANGKUENSTLER: SLC NYE 1/1",
+    "artist": "Klangkuenstler: SLC NYE 1/1",
     "venue": "the complex",
     "city": "slc",
     "url": "https://www.axs.com/events/1631742/klangkuenstler-slc-nye-11-tickets",
@@ -5544,6 +5504,22 @@
     "date_created": "2026-01-19"
   },
   {
+    "date": "2027-01-16",
+    "artist": "Hurry Up & Wait",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/25oroarn55chpkggatq5oi5pka",
+    "date_created": "2026-10-02"
+  },
+  {
+    "date": "2027-01-16",
+    "artist": "Salt Lake City Stars vs. Coachella Valley Lakers",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/salt-lake-city-stars-vs-coachella-west-valley-city-utah-01-16-2027/event/1E006538E69220DC?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-02"
+  },
+  {
     "date": "2027-01-18",
     "artist": "Seb Lowe",
     "venue": "kilby court",
@@ -5552,12 +5528,28 @@
     "date_created": "2026-09-22"
   },
   {
+    "date": "2027-01-19",
+    "artist": "Salt Lake City Stars vs. San Diego Clippers",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/salt-lake-city-stars-vs-san-west-valley-city-utah-01-19-2027/event/1E006538E69420E7?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-02"
+  },
+  {
     "date": "2027-01-22",
     "artist": "Steve Poltz",
     "venue": "the state room",
     "city": "slc",
     "url": "https://www.axs.com/events/1613787/steve-poltz-tickets?skin=stateroom",
     "date_created": "2026-09-23"
+  },
+  {
+    "date": "2027-01-23",
+    "artist": "Salt Lake City Stars vs. Valley Suns",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/salt-lake-city-stars-vs-valley-west-valley-city-utah-01-23-2027/event/1E006538E69620F9?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-02"
   },
   {
     "date": "2027-01-23",
@@ -5582,6 +5574,22 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/m4zsffuyx5b5pjhmd2br3o5kki",
     "date_created": "2026-07-28"
+  },
+  {
+    "date": "2027-01-27",
+    "artist": "Salt Lake City Stars vs. Sioux Falls Skyforce",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/salt-lake-city-stars-vs-sioux-west-valley-city-utah-01-27-2027/event/1E006538E6982105?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-02"
+  },
+  {
+    "date": "2027-01-29",
+    "artist": "Salt Lake City Stars vs. Sioux Falls Skyforce",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/salt-lake-city-stars-vs-sioux-west-valley-city-utah-01-29-2027/event/1E006538E69A210E?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-02"
   },
   {
     "date": "2027-01-30",
@@ -5649,6 +5657,14 @@
   },
   {
     "date": "2027-01-31",
+    "artist": "Salt Lake City Stars vs. Memphis Hustle",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/salt-lake-city-stars-vs-memphis-west-valley-city-utah-01-31-2027/event/1E006538E69C2124?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-02"
+  },
+  {
+    "date": "2027-01-31",
     "artist": "Surf Mesa",
     "venue": "soundwell",
     "city": "slc",
@@ -5662,6 +5678,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1600218/bad-suns-tickets",
     "date_created": "2026-09-18"
+  },
+  {
+    "date": "2027-02-02",
+    "artist": "Salt Lake City Stars vs. Memphis Hustle",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/salt-lake-city-stars-vs-memphis-west-valley-city-utah-02-02-2027/event/1E006538E69E212E?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-02"
   },
   {
     "date": "2027-02-03",
@@ -5718,6 +5742,14 @@
     "city": "slc",
     "url": "https://liquidjoes.ticketsauce.com/e/sangre-hirviendo",
     "date_created": "2026-02-08"
+  },
+  {
+    "date": "2027-02-08",
+    "artist": "Salt Lake City Stars vs. Texas Legends",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/salt-lake-city-stars-vs-texas-west-valley-city-utah-02-08-2027/event/1E006538E6A02135?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-02"
   },
   {
     "date": "2027-02-09",
@@ -5806,6 +5838,14 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10274/j-worra",
     "date_created": "2026-02-16"
+  },
+  {
+    "date": "2027-02-16",
+    "artist": "Salt Lake City Stars vs. Stockton Kings",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/salt-lake-city-stars-vs-stockton-west-valley-city-utah-02-16-2027/event/1E006538E6A2213F?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-02"
   },
   {
     "date": "2027-02-17",
@@ -5904,12 +5944,28 @@
     "date_created": "2026-09-30"
   },
   {
+    "date": "2027-02-26",
+    "artist": "Salt Lake City Stars vs. iowa wolves",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/salt-lake-city-stars-vs-iowa-west-valley-city-utah-02-26-2027/event/1E006538E6A42148?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-02"
+  },
+  {
     "date": "2027-02-27",
     "artist": "Peter Antoniou: Brain Teaser",
     "venue": "the depot",
     "city": "slc",
     "url": "https://www.ticketmaster.com/peter-antoniou-brain-teaser-salt-lake-city-utah-02-27-2027/event/1E006536B732B93A",
     "date_created": "2026-09-29"
+  },
+  {
+    "date": "2027-02-27",
+    "artist": "Salt Lake City Stars vs. iowa Wolves",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/salt-lake-city-stars-vs-iowa-west-valley-city-utah-02-27-2027/event/1E006538E6A6214C?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-02"
   },
   {
     "date": "2027-02-28",
@@ -5936,6 +5992,14 @@
     "date_created": "2026-09-29"
   },
   {
+    "date": "2027-03-01",
+    "artist": "Salt Lake City Stars vs. Mexico City Capitanes",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/salt-lake-city-stars-vs-mexico-west-valley-city-utah-03-01-2027/event/1E006538E6A8214F?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-02"
+  },
+  {
     "date": "2027-03-02",
     "artist": "G. Love & Special Sauce (Night 1)",
     "venue": "the state room",
@@ -5958,6 +6022,14 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10218/szn4",
     "date_created": "2026-03-04"
+  },
+  {
+    "date": "2027-03-03",
+    "artist": "Salt Lake City Stars vs. Mexico City Capitanes",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/salt-lake-city-stars-vs-mexico-west-valley-city-utah-03-03-2027/event/1E006538E6AA2151?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-02"
   },
   {
     "date": "2027-03-04",
@@ -6032,12 +6104,36 @@
     "date_created": "2026-03-07"
   },
   {
+    "date": "2027-03-08",
+    "artist": "Salt Lake City Stars vs. Valley Suns",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/salt-lake-city-stars-vs-valley-west-valley-city-utah-03-08-2027/event/1E006538E6AB2168?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-02"
+  },
+  {
+    "date": "2027-03-09",
+    "artist": "Chelsea Cutler",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1625668/chelsea-cutler-tickets",
+    "date_created": "2026-10-02"
+  },
+  {
     "date": "2027-03-09",
     "artist": "NERVOSA",
     "venue": "the urban lounge",
     "city": "slc",
     "url": "https://www.24tix.com/events/52egis6dfrgcllq25emjzlcbea",
     "date_created": "2026-07-23"
+  },
+  {
+    "date": "2027-03-09",
+    "artist": "Salt Lake City Stars vs. Coachella Valley Lakers",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/salt-lake-city-stars-vs-coachella-west-valley-city-utah-03-09-2027/event/1E006538E6AD216F?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-02"
   },
   {
     "date": "2027-03-10",
@@ -6310,6 +6406,14 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10277/call-me-karizma",
     "date_created": "2026-04-28"
+  },
+  {
+    "date": "2027-04-27",
+    "artist": "Carly Rae Jepsen",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1638954/carly-rae-jepsen-tickets",
+    "date_created": "2026-10-02"
   },
   {
     "date": "2027-04-28",
@@ -6798,5 +6902,13 @@
     "city": "slc",
     "url": "https://tixr.com/e/189414",
     "date_created": "2026-10-01"
+  },
+  {
+    "date": "2027-10-01",
+    "artist": "dnbOS: HARD RESET feat. SIMULA (360º)",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/198326",
+    "date_created": "2026-10-02"
   }
 ]
