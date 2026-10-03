@@ -1,125 +1,5 @@
 [
   {
-    "date": "2026-10-02",
-    "artist": "ADÉLA: The Red Bottoms Tour",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/adela-the-red-bottoms-tour-salt-lake-city-utah-10-02-2026/event/1E0064B595EE7570",
-    "date_created": "2026-05-26"
-  },
-  {
-    "date": "2026-10-02",
-    "artist": "BERT KREISCHER: PERMISSION TO PARTY",
-    "venue": "maverik center",
-    "city": "west valley",
-    "url": "https://www.ticketmaster.com/bert-kreischer-permission-to-party-west-valley-city-utah-10-02-2025/event/1E006263D8CA2654",
-    "date_created": "2026-02-28"
-  },
-  {
-    "date": "2026-10-02",
-    "artist": "Bird Watcher Album Release Show",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/xtjao26btverrhpzxe7krkgwm4",
-    "date_created": "2026-09-03"
-  },
-  {
-    "date": "2026-10-02",
-    "artist": "Blood For Blood",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/6h7zgxe5hngtnb3urut3pyno34",
-    "date_created": "2026-08-26"
-  },
-  {
-    "date": "2026-10-02",
-    "artist": "Breakaway Utah 2026 Official After Party ft. TYNAN",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10499",
-    "date_created": "2026-08-26"
-  },
-  {
-    "date": "2026-10-02",
-    "artist": "Carin Leon",
-    "venue": "delta center",
-    "city": "slc",
-    "url": "https://www.deltacenter.com/events/carin-leon/",
-    "date_created": "2026-02-08"
-  },
-  {
-    "date": "2026-10-02",
-    "artist": "Chasing Abbey",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/boqewgxfpvbfhfljlwsj5pae3i",
-    "date_created": "2026-03-13"
-  },
-  {
-    "date": "2026-10-02",
-    "artist": "Dying Fetus & Sanguisugabogg",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1416464/dying-fetus-sanguisugabogg-tickets",
-    "date_created": "2026-04-30"
-  },
-  {
-    "date": "2026-10-02",
-    "artist": "Metal Night",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://liquidjoes.ticketsauce.com/e/metal-night-8",
-    "date_created": "2026-09-12"
-  },
-  {
-    "date": "2026-10-02",
-    "artist": "Mobius.Wave",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/mobius.wave1516.html",
-    "date_created": "2026-09-11"
-  },
-  {
-    "date": "2026-10-02",
-    "artist": "Sectyde",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/r34wvdplergexjx4fc4kyfo6ii",
-    "date_created": "2026-08-14"
-  },
-  {
-    "date": "2026-10-02",
-    "artist": "Soulfly, Nailbomb, & Incite",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/soulfly-nailbomb-incite/",
-    "date_created": "2026-07-14"
-  },
-  {
-    "date": "2026-10-02",
-    "artist": "Spike Hellis",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/a3mpko43czbibmustfyle4kiya",
-    "date_created": "2026-08-05"
-  },
-  {
-    "date": "2026-10-02",
-    "artist": "Tricky",
-    "venue": "the commonwealth room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1437221/tricky-tickets?skin=stateroom",
-    "date_created": "2026-05-13"
-  },
-  {
-    "date": "2026-10-02",
-    "artist": "Wolves of Glendale",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1542465/wolves-of-glendale-tickets?skin=stateroom",
-    "date_created": "2026-08-05"
-  },
-  {
     "date": "2026-10-03",
     "artist": "AURHE \"Album Release\"",
     "venue": "velour live music gallery",
@@ -825,6 +705,14 @@
   },
   {
     "date": "2026-10-09",
+    "artist": "Dead Feedback",
+    "venue": "liquid joes",
+    "city": "slc",
+    "url": "https://liquidjoes.ticketsauce.com/e/dead-feedback-2",
+    "date_created": "2026-10-03"
+  },
+  {
+    "date": "2026-10-09",
     "artist": "Edgehill",
     "venue": "kilby court",
     "city": "slc",
@@ -1489,6 +1377,14 @@
   },
   {
     "date": "2026-10-15",
+    "artist": "Madra Mor EP Release Show",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/qc6ad3smgjfbtj7b53ettxnkwi",
+    "date_created": "2026-10-03"
+  },
+  {
+    "date": "2026-10-15",
     "artist": "One Heart Orchestra",
     "venue": "hog wallow",
     "city": "cottonwood",
@@ -1638,6 +1534,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/cv42bwfszfc5dce6zfevl5zsi4",
     "date_created": "2026-09-03"
+  },
+  {
+    "date": "2026-10-16",
+    "artist": "The Keening – Album Release Listening Party",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/the-keening-album-release-listening-party/",
+    "date_created": "2026-10-03"
   },
   {
     "date": "2026-10-16",
@@ -2006,6 +1910,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/145084",
     "date_created": "2025-10-21"
+  },
+  {
+    "date": "2026-10-21",
+    "artist": "Ethyl Cat",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/dz7hoeaez5fshhkkajeoq7tppm",
+    "date_created": "2026-10-03"
   },
   {
     "date": "2026-10-21",
@@ -2817,6 +2729,14 @@
   },
   {
     "date": "2026-10-30",
+    "artist": "The Acid Blues Band, Dirty Hands, & Porq",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/the-acid-blues-band-dirty-hands-porq/",
+    "date_created": "2026-10-03"
+  },
+  {
+    "date": "2026-10-30",
     "artist": "The Discographers",
     "venue": "the state room",
     "city": "slc",
@@ -2830,6 +2750,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/fvwmbpzwlrh6no3pdh4wzt5oqq",
     "date_created": "2026-04-10"
+  },
+  {
+    "date": "2026-10-30",
+    "artist": "Wine Lips",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/nteftsmurbhfhpzp4647oqlbuq",
+    "date_created": "2026-10-03"
   },
   {
     "date": "2026-10-30",
@@ -5184,6 +5112,14 @@
     "date_created": "2026-09-24"
   },
   {
+    "date": "2026-12-14",
+    "artist": "Mother Soki",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/pyr4ua7nubdsnk3dhd7etcps3a",
+    "date_created": "2026-10-03"
+  },
+  {
     "date": "2026-12-15",
     "artist": "Lindsey Stirling – The Snow Waltz Tour",
     "venue": "maverik center",
@@ -6480,6 +6416,14 @@
     "date_created": "2026-09-23"
   },
   {
+    "date": "2027-05-06",
+    "artist": "Palaye Royale",
+    "venue": "the depot",
+    "city": "slc",
+    "url": "https://www.ticketmaster.com/palaye-royale-salt-lake-city-utah-05-06-2027/event/1E00653ED837E4CF",
+    "date_created": "2026-10-03"
+  },
+  {
     "date": "2027-05-07",
     "artist": "Terrian – Mad Big World Tour",
     "venue": "kilby court",
@@ -6910,5 +6854,13 @@
     "city": "slc",
     "url": "https://tixr.com/e/198326",
     "date_created": "2026-10-02"
+  },
+  {
+    "date": "2027-10-02",
+    "artist": "Breakaway Utah 2026 Official After Party ft. TYNAN",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10499",
+    "date_created": "2026-10-03"
   }
 ]
