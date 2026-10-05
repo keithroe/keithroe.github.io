@@ -1,133 +1,5 @@
 [
   {
-    "date": "2026-10-04",
-    "artist": "ARCHERS",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/194317",
-    "date_created": "2026-06-11"
-  },
-  {
-    "date": "2026-10-04",
-    "artist": "BUZZ KULL & KONTRAVOID",
-    "venue": "metro music hall - 21+",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/wqvdp25vpnhfloeymsu7tgjsym",
-    "date_created": "2026-07-10"
-  },
-  {
-    "date": "2026-10-04",
-    "artist": "Earl Sweatshirt & MIKE",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1362206/earl-sweatshirt-mike-tickets",
-    "date_created": "2026-09-05"
-  },
-  {
-    "date": "2026-10-04",
-    "artist": "Earl Sweatshirt & MIKE - New Date",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2888.htm",
-    "date_created": "2026-07-10"
-  },
-  {
-    "date": "2026-10-04",
-    "artist": "HIRS Collective",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/hirs-collective/",
-    "date_created": "2026-06-24"
-  },
-  {
-    "date": "2026-10-04",
-    "artist": "HIRS Collective & Feral!Cat?Red!",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/hirs-collective/",
-    "date_created": "2026-09-15"
-  },
-  {
-    "date": "2026-10-04",
-    "artist": "HIRS Collective, Feral!Cat?Red!, & PS Destroy This",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/hirs-collective/",
-    "date_created": "2026-09-22"
-  },
-  {
-    "date": "2026-10-04",
-    "artist": "Hairball",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1497638/hairball-tickets",
-    "date_created": "2026-06-24"
-  },
-  {
-    "date": "2026-10-04",
-    "artist": "Jesus Christ Taxi Driver",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/dqejc5nrn5bf3m46ep5nfgvmt4",
-    "date_created": "2026-08-26"
-  },
-  {
-    "date": "2026-10-04",
-    "artist": "Julien-K & NITE - The Neon Chronicles II Tour",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/gfko3pkxynhqvm5gqgb4v6cuty",
-    "date_created": "2026-06-11"
-  },
-  {
-    "date": "2026-10-04",
-    "artist": "On High Day 2 with Rebelution",
-    "venue": "granary live",
-    "city": "slc",
-    "url": "https://tixr.com/e/126796",
-    "date_created": "2025-10-05"
-  },
-  {
-    "date": "2026-10-04",
-    "artist": "Parrotfish",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/n2dfv35qbvg7peg4yu4ue5mcqa",
-    "date_created": "2026-07-15"
-  },
-  {
-    "date": "2026-10-04",
-    "artist": "Psychostick",
-    "venue": "the pearl on main",
-    "city": "midvale",
-    "url": "https://www.24tix.com/events/i6ikayzcnnchxideow5ww7ys3q",
-    "date_created": "2026-06-22"
-  },
-  {
-    "date": "2026-10-04",
-    "artist": "Rachel Bochner | The “Sorry If It’s Selfish” Tour",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/44enpxbyangd5kr44tqkwz7obi",
-    "date_created": "2026-06-26"
-  },
-  {
-    "date": "2026-10-04",
-    "artist": "SOLD OUT: Fleshwater",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/145105",
-    "date_created": "2025-10-05"
-  },
-  {
-    "date": "2026-10-04",
-    "artist": "Tinlicker North America 2026",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/tinlicker-north-america-2026-salt-lake-city-utah-10-04-2026/event/1E006489A8F09B03",
-    "date_created": "2026-04-27"
-  },
-  {
     "date": "2026-10-05",
     "artist": "JPEGMAFIA",
     "venue": "the complex",
@@ -1022,6 +894,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/y3osuzw4fjfkxgwmojd7z6gsge",
     "date_created": "2026-06-04"
+  },
+  {
+    "date": "2026-10-13",
+    "artist": "Jairito y La Onda with The Lingo and Musor",
+    "venue": "SEE EVENT LISTING",
+    "city": "slc",
+    "url": "https://www.hyphaproductions.com/events/jairito-y-la-onda-with-the-lingo-and-musor",
+    "date_created": "2026-10-05"
   },
   {
     "date": "2026-10-13",
@@ -6288,6 +6168,14 @@
     "date_created": "2026-05-10"
   },
   {
+    "date": "2027-05-11",
+    "artist": "KEO",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/lbr2srvso5dldk5kin3douomve",
+    "date_created": "2026-10-05"
+  },
+  {
     "date": "2027-05-15",
     "artist": "Kilby Block Party 2026",
     "venue": "utah state fairpark",
@@ -6726,5 +6614,13 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10401/bumpinuglies",
     "date_created": "2026-10-04"
+  },
+  {
+    "date": "2027-10-04",
+    "artist": "ARCHERS",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/194317",
+    "date_created": "2026-10-05"
   }
 ]
