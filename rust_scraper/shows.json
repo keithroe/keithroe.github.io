@@ -1,248 +1,8 @@
 [
   {
-    "date": "2026-10-07",
-    "artist": "Automatic",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/igpmqdyo4fbrnffiuiu4sziqqu",
-    "date_created": "2026-06-26"
-  },
-  {
-    "date": "2026-10-07",
-    "artist": "Big Thief",
-    "venue": "ogden amphitheater",
-    "city": "ogden",
-    "url": "https://www.24tix.com/events/xr2qh7obnbcxjoqasszsexovha",
-    "date_created": "2026-04-02"
-  },
-  {
-    "date": "2026-10-07",
-    "artist": "Carbon Leaf",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1438006/carbon-leaf-tickets?skin=stateroom",
-    "date_created": "2026-05-06"
-  },
-  {
-    "date": "2026-10-07",
-    "artist": "Ethan Regan",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1468100/ethan-regan-tickets",
-    "date_created": "2026-06-04"
-  },
-  {
-    "date": "2026-10-07",
-    "artist": "Fightmaster",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/4vz46hzybnbh3fcojtrtrmx6ja",
-    "date_created": "2026-06-26"
-  },
-  {
-    "date": "2026-10-07",
-    "artist": "Justin Howl",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/justin-howl1518.html",
-    "date_created": "2026-09-11"
-  },
-  {
-    "date": "2026-10-07",
-    "artist": "Loathe: A Stranger to You",
-    "venue": "the union",
-    "city": "slc",
-    "url": "https://theunioneventcenter.com/upcomingevents/loathe",
-    "date_created": "2026-04-28"
-  },
-  {
-    "date": "2026-10-07",
-    "artist": "MILITARIE GUN",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/b3la6itr65ao5gwgmaxhlekabu",
-    "date_created": "2026-06-10"
-  },
-  {
-    "date": "2026-10-07",
-    "artist": "Staind: Break The Cycle 25th Anniversary Tour",
-    "venue": "utah first",
-    "city": "west valley",
-    "url": "https://www.ticketmaster.com/staind-break-the-cycle-25th-anniversary-west-valley-city-utah-10-07-2026/event/1E00643CC7C0953F",
-    "date_created": "2026-02-05"
-  },
-  {
-    "date": "2026-10-07",
-    "artist": "Tate McRae",
-    "venue": "delta center",
-    "city": "slc",
-    "url": "https://www.deltacenter.com/events/tate-mcrae/",
-    "date_created": "2025-10-09"
-  },
-  {
-    "date": "2026-10-07",
-    "artist": "The Soakers",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/gbw3vdg7uvdcpal4krjhnjpr2u",
-    "date_created": "2026-09-24"
-  },
-  {
-    "date": "2026-10-07",
-    "artist": "ZOLITA – THE HELL’S BELLES TOUR",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/193514",
-    "date_created": "2026-06-22"
-  },
-  {
-    "date": "2026-10-08",
-    "artist": "Arch Enemy & The Black Dahlia Murder",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1451559/arch-enemy-the-black-dahlia-murder-tickets",
-    "date_created": "2026-05-20"
-  },
-  {
-    "date": "2026-10-08",
-    "artist": "Benson Boone",
-    "venue": "delta center",
-    "city": "slc",
-    "url": "https://www.deltacenter.com/events/benson-boone/",
-    "date_created": "2025-10-09"
-  },
-  {
-    "date": "2026-10-08",
-    "artist": "Fly by Midnight – The Fastest Time Of Our Lives: A North American Tour",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/142287",
-    "date_created": "2025-10-09"
-  },
-  {
-    "date": "2026-10-08",
-    "artist": "Front Row Locomotive",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/front-row-locomotive1519.html",
-    "date_created": "2026-09-11"
-  },
-  {
-    "date": "2026-10-08",
-    "artist": "Garth Brooks – Blame It All On My Roots Arena Tour",
-    "venue": "delta center",
-    "city": "slc",
-    "url": "https://www.deltacenter.com/events/garth-brooks-blame-it-all-on-my-roots-arena-tour-3-450/",
-    "date_created": "2026-09-23"
-  },
-  {
-    "date": "2026-10-08",
-    "artist": "Holywatr: Deo Gratias Tour",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/194320",
-    "date_created": "2026-06-22"
-  },
-  {
-    "date": "2026-10-08",
-    "artist": "Hot Flash Heat Wave",
-    "venue": "the pearl on main",
-    "city": "midvale",
-    "url": "https://www.24tix.com/events/gf26sux2rfer3nd4gd6mdkat7y",
-    "date_created": "2026-06-11"
-  },
-  {
-    "date": "2026-10-08",
-    "artist": "Judah & the Lion",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/judah-the-lion-salt-lake-city-utah-10-08-2026/event/1E0064CA188B8D98",
-    "date_created": "2026-06-13"
-  },
-  {
-    "date": "2026-10-08",
-    "artist": "Juice",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/4thpxofztndi5oe72a4v3trffi",
-    "date_created": "2026-07-14"
-  },
-  {
-    "date": "2026-10-08",
-    "artist": "Kal-el, Goya, & Black Moon Cult",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/kal-el-goya-volume/",
-    "date_created": "2026-09-05"
-  },
-  {
-    "date": "2026-10-08",
-    "artist": "Kal-el, Goya, & Volume",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/kal-el-goya-volume/",
-    "date_created": "2026-06-13"
-  },
-  {
-    "date": "2026-10-08",
-    "artist": "Kimi",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/hmji7kn3irc6vivhl7stdeqe34",
-    "date_created": "2026-07-10"
-  },
-  {
-    "date": "2026-10-08",
-    "artist": "MVTANT",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/uztymlux35h2jiin532ssfhirm",
-    "date_created": "2026-09-09"
-  },
-  {
-    "date": "2026-10-08",
-    "artist": "Michelle Branch",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1520001/michelle-branch-tickets",
-    "date_created": "2026-07-17"
-  },
-  {
-    "date": "2026-10-08",
-    "artist": "Robert Plant with Saving Grace & Suzi Dian",
-    "venue": "eccles theater",
-    "city": "slc",
-    "url": "https://www.live-at-the-eccles.com/events/saving-grace",
-    "date_created": "2026-06-10"
-  },
-  {
-    "date": "2026-10-08",
-    "artist": "Sleeping With Sirens: An Ending In Itself Tour",
-    "venue": "the union",
-    "city": "slc",
-    "url": "https://theunioneventcenter.com/upcomingevents/sleepingwithsirens",
-    "date_created": "2026-06-22"
-  },
-  {
-    "date": "2026-10-08",
-    "artist": "The Masse Marine",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/22sgmz2pfzc3lngwufgnroc6sa",
-    "date_created": "2026-09-24"
-  },
-  {
-    "date": "2026-10-08",
-    "artist": "Thomas Day",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/46rfilb7gjgntntszqnixurr44",
-    "date_created": "2026-08-19"
-  },
-  {
     "date": "2026-10-09",
     "artist": "Aaron Lee Tasjan",
-    "venue": "the state room",
+    "venue": "the commonwealth room",
     "city": "slc",
     "url": "https://www.axs.com/events/1405355/aaron-lee-tasjan-tickets?skin=stateroom",
     "date_created": "2026-04-16"
@@ -334,6 +94,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/momj4nf6krcy5h2tjxwawrcklm",
     "date_created": "2026-08-26"
+  },
+  {
+    "date": "2026-10-09",
+    "artist": "SOLD OUT: HEY, NOTHING – THE HOUND TOUR",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/194170",
+    "date_created": "2026-10-08"
   },
   {
     "date": "2026-10-09",
@@ -1577,6 +1345,14 @@
   },
   {
     "date": "2026-10-21",
+    "artist": "SOLD OUT: Raynes and David Wimbish & The Collection",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/191652",
+    "date_created": "2026-10-08"
+  },
+  {
+    "date": "2026-10-21",
     "artist": "Sarah DeGraw",
     "venue": "hog wallow",
     "city": "cottonwood",
@@ -2494,6 +2270,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/dd46divybbfghh6vl3fnqtmesy",
     "date_created": "2026-06-22"
+  },
+  {
+    "date": "2026-11-01",
+    "artist": "Borderlands and The State Room Presents: ANALOG | Salt Lake City with Aaron Gillespie of UNDEROATH + The Almost",
+    "venue": "the state room",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1644729/analog-tickets?skin=stateroom",
+    "date_created": "2026-10-09"
   },
   {
     "date": "2026-11-01",
@@ -3681,6 +3465,14 @@
   },
   {
     "date": "2026-11-18",
+    "artist": "RiFF RAFF",
+    "venue": "metro music hall - 21+",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/2mfv7axh5bbohoqrpdp7xg3j7e",
+    "date_created": "2026-10-09"
+  },
+  {
+    "date": "2026-11-18",
     "artist": "The Brothers Comatose",
     "venue": "the commonwealth room",
     "city": "slc",
@@ -4361,6 +4153,14 @@
   },
   {
     "date": "2026-12-03",
+    "artist": "Every Single Time",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/hy5n2pjsazawja72nmktt7eqhq",
+    "date_created": "2026-10-08"
+  },
+  {
+    "date": "2026-12-03",
     "artist": "Exhumed, Jarhead Fertilizer, Savage Master, & Molder",
     "venue": "aces high",
     "city": "slc",
@@ -4526,6 +4326,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/yu2gebbv7nd43it4oqcagf2xau",
     "date_created": "2026-06-22"
+  },
+  {
+    "date": "2026-12-05",
+    "artist": "The Keening, Solastalgia, & Last",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/the-keening-solastalgia-last/",
+    "date_created": "2026-10-08"
   },
   {
     "date": "2026-12-05",
@@ -4936,6 +4744,14 @@
     "date_created": "2025-12-19"
   },
   {
+    "date": "2026-12-18",
+    "artist": "Patterson Hood",
+    "venue": "the state room",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1644703/patterson-hood-tickets?skin=stateroom",
+    "date_created": "2026-10-08"
+  },
+  {
     "date": "2026-12-19",
     "artist": "Not Friendmas Eve",
     "venue": "the urban lounge",
@@ -5062,6 +4878,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/158907",
     "date_created": "2026-01-01"
+  },
+  {
+    "date": "2027-01-01",
+    "artist": "Golden Ticket 2027",
+    "venue": "various locations in downtown slc",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/kd5w7j7xvne2nfbnq36mixpiey",
+    "date_created": "2026-10-08"
   },
   {
     "date": "2027-01-01",
@@ -5328,6 +5152,14 @@
     "date_created": "2026-10-02"
   },
   {
+    "date": "2027-01-29",
+    "artist": "TesseracT",
+    "venue": "the depot",
+    "city": "slc",
+    "url": "https://www.ticketmaster.com/tesseract-salt-lake-city-utah-01-29-2027/event/1E006542700629AA",
+    "date_created": "2026-10-08"
+  },
+  {
     "date": "2027-01-30",
     "artist": "Angry Samoans",
     "venue": "aces high",
@@ -5430,6 +5262,14 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10541/satsang",
     "date_created": "2026-09-05"
+  },
+  {
+    "date": "2027-02-03",
+    "artist": "Surf Hat",
+    "venue": "metro music hall - all ages",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/vfxlzzwebfbsbjlmbh3i3a34ne",
+    "date_created": "2026-10-09"
   },
   {
     "date": "2027-02-04",
@@ -5913,6 +5753,14 @@
   },
   {
     "date": "2027-03-10",
+    "artist": "The Price is Right Live",
+    "venue": "eccles theater",
+    "city": "slc",
+    "url": "https://www.live-at-the-eccles.com/events/priceisrightlive",
+    "date_created": "2026-10-08"
+  },
+  {
+    "date": "2027-03-10",
     "artist": "redveil",
     "venue": "soundwell",
     "city": "slc",
@@ -6352,6 +6200,14 @@
     "date_created": "2026-10-07"
   },
   {
+    "date": "2027-05-20",
+    "artist": "Jon Pardi: Gamblin’ Man Tour 2026",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/jon-pardi-gamblin-man-tour-2026-west-valley-city-utah-05-20-2027/event/1E0064F081725388?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-08"
+  },
+  {
     "date": "2027-05-21",
     "artist": "Hazlett",
     "venue": "the complex",
@@ -6782,5 +6638,21 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10448",
     "date_created": "2026-10-07"
+  },
+  {
+    "date": "2027-10-07",
+    "artist": "ZOLITA – THE HELL’S BELLES TOUR",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/193514",
+    "date_created": "2026-10-08"
+  },
+  {
+    "date": "2027-10-08",
+    "artist": "Holywatr: Deo Gratias Tour",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/194320",
+    "date_created": "2026-10-09"
   }
 ]
