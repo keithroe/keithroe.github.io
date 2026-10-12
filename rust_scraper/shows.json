@@ -1,85 +1,5 @@
 [
   {
-    "date": "2026-10-11",
-    "artist": "Benson Boone",
-    "venue": "delta center",
-    "city": "slc",
-    "url": "https://www.deltacenter.com/events/benson-boone-3/",
-    "date_created": "2025-10-16"
-  },
-  {
-    "date": "2026-10-11",
-    "artist": "Castle Rat",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1471601/castle-rat-tickets",
-    "date_created": "2026-06-04"
-  },
-  {
-    "date": "2026-10-11",
-    "artist": "Dog Party, The Sex Dolls, & Lukas Field",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/dog-party-the-sex-dolls-lukas-field/",
-    "date_created": "2026-09-28"
-  },
-  {
-    "date": "2026-10-11",
-    "artist": "FABIO FRIZZI (performing the FRIZZI2FULCI)",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/4ynsuee6rbhijpeawxzrhrjbiy",
-    "date_created": "2026-07-02"
-  },
-  {
-    "date": "2026-10-11",
-    "artist": "Garth Brooks – Blame It All On My Roots Arena Tour",
-    "venue": "delta center",
-    "city": "slc",
-    "url": "https://www.deltacenter.com/events/garth-brooks-blame-it-all-on-my-roots-arena-tour-3/",
-    "date_created": "2026-09-18"
-  },
-  {
-    "date": "2026-10-11",
-    "artist": "Jenna Raine",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/191665",
-    "date_created": "2026-06-04"
-  },
-  {
-    "date": "2026-10-11",
-    "artist": "Pertinence",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/okqugqfujrc2rchji5kezkofhu",
-    "date_created": "2026-05-06"
-  },
-  {
-    "date": "2026-10-11",
-    "artist": "Pink Talking Fish",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1500376/pink-talking-fish-tickets?skin=stateroom",
-    "date_created": "2026-06-24"
-  },
-  {
-    "date": "2026-10-11",
-    "artist": "The Holdup",
-    "venue": "metro music hall - 21+",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/rpxe4dbkxnb2hi4wlctvhxmd2i",
-    "date_created": "2026-06-11"
-  },
-  {
-    "date": "2026-10-11",
-    "artist": "cul.de.sac",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/izpibttyfnc5fcko4tg5uwg4vu",
-    "date_created": "2026-08-29"
-  },
-  {
     "date": "2026-10-12",
     "artist": "Hovvdy",
     "venue": "metro music hall - all ages",
@@ -5608,6 +5528,14 @@
     "date_created": "2026-07-02"
   },
   {
+    "date": "2027-03-27",
+    "artist": "Hans Zimmer",
+    "venue": "delta center",
+    "city": "slc",
+    "url": "https://www.deltacenter.com/events/hans-zimmer/",
+    "date_created": "2026-10-12"
+  },
+  {
     "date": "2027-03-28",
     "artist": "Kash’d Out with Beach Fly",
     "venue": "soundwell",
@@ -6390,5 +6318,13 @@
     "city": "slc",
     "url": "https://tixr.com/e/201144",
     "date_created": "2026-10-11"
+  },
+  {
+    "date": "2027-10-11",
+    "artist": "Jenna Raine",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/191665",
+    "date_created": "2026-10-12"
   }
 ]
