@@ -1,77 +1,5 @@
 [
   {
-    "date": "2026-10-12",
-    "artist": "Hovvdy",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/umriu3oamnhnjca5vw3mnukx3a",
-    "date_created": "2026-05-17"
-  },
-  {
-    "date": "2026-10-12",
-    "artist": "MOMMICKED (AZ Touring)",
-    "venue": "velour live music gallery",
-    "city": "provo",
-    "url": "https://www.24tix.com/events/fmzib255yvaidlkbdowd7qw3qu",
-    "date_created": "2026-09-15"
-  },
-  {
-    "date": "2026-10-12",
-    "artist": "Movements - HAPPIER NOW USA TOUR",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1438305/movements-happier-now-usa-tour-tickets",
-    "date_created": "2026-05-13"
-  },
-  {
-    "date": "2026-10-12",
-    "artist": "NEW DATE: Die Spitz",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/177936",
-    "date_created": "2026-08-14"
-  },
-  {
-    "date": "2026-10-12",
-    "artist": "Shrugboat",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/wawuu6mkxrduff2n3iumd5cifi",
-    "date_created": "2026-09-03"
-  },
-  {
-    "date": "2026-10-12",
-    "artist": "Steel Pulse - Reggae Against Racism Tour",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/steel-pulse-reggae-against-racism-tour-salt-lake-city-utah-10-12-2026/event/1E0064E8B1D97B89",
-    "date_created": "2026-07-15"
-  },
-  {
-    "date": "2026-10-12",
-    "artist": "Sweet Gloom",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/orrijs3vvvforh4oa3sn7zevdq",
-    "date_created": "2026-08-01"
-  },
-  {
-    "date": "2026-10-12",
-    "artist": "Telescreens - Why The Lights Flicker North American Tour",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/bfjxp2bhbbgwzkn4m3rufjeoxm",
-    "date_created": "2026-06-22"
-  },
-  {
-    "date": "2026-10-12",
-    "artist": "gnash",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1342098/gnash-tickets",
-    "date_created": "2026-02-28"
-  },
-  {
     "date": "2026-10-13",
     "artist": "Bebe Stockwell",
     "venue": "kilby court",
@@ -86,6 +14,22 @@
     "city": "midvale",
     "url": "https://www.24tix.com/events/basoermdljdjvkfyfqkoquf2va",
     "date_created": "2026-03-26"
+  },
+  {
+    "date": "2026-10-13",
+    "artist": "DOOM LOUNGE",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/pcsynwfdmfcwbbh5cuxn6xgw6m",
+    "date_created": "2026-10-13"
+  },
+  {
+    "date": "2026-10-13",
+    "artist": "Dance Noir",
+    "venue": "liquid joes",
+    "city": "slc",
+    "url": "https://liquidjoes.ticketsauce.com/e/dance-noir-24",
+    "date_created": "2026-10-13"
   },
   {
     "date": "2026-10-13",
@@ -209,6 +153,14 @@
   },
   {
     "date": "2026-10-14",
+    "artist": "Lab Animals",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/wklt2da2j5ddfaunady4mvjy6y",
+    "date_created": "2026-10-13"
+  },
+  {
+    "date": "2026-10-14",
     "artist": "Mike Oregano",
     "venue": "hog wallow",
     "city": "cottonwood",
@@ -278,6 +230,14 @@
     "city": "cottonwood",
     "url": "https://thehogwallow.com/music/live/rgt26102.html",
     "date_created": "2026-09-28"
+  },
+  {
+    "date": "2026-10-15",
+    "artist": "Bonkers3",
+    "venue": "liquid joes",
+    "city": "slc",
+    "url": "https://liquidjoes.ticketsauce.com/e/bonkers3",
+    "date_created": "2026-10-13"
   },
   {
     "date": "2026-10-15",
@@ -473,6 +433,14 @@
   },
   {
     "date": "2026-10-16",
+    "artist": "Sounds By Ethan",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/4x34d3v525ecrkxvvduwn2yov4",
+    "date_created": "2026-10-13"
+  },
+  {
+    "date": "2026-10-16",
     "artist": "Sueco",
     "venue": "the complex",
     "city": "slc",
@@ -550,6 +518,14 @@
     "city": "slc",
     "url": "https://www.thecomplexslc.com/event-2957.htm",
     "date_created": "2026-07-21"
+  },
+  {
+    "date": "2026-10-17",
+    "artist": "I Know The DJ",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/xkysh7ojxnge7lled5obvd2iuy",
+    "date_created": "2026-10-13"
   },
   {
     "date": "2026-10-17",
@@ -1449,6 +1425,14 @@
   },
   {
     "date": "2026-10-27",
+    "artist": "The Rocky Horror Picture Show",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/lo2ornm4nncuneouuqa37nqipy",
+    "date_created": "2026-10-13"
+  },
+  {
+    "date": "2026-10-27",
     "artist": "The Toxhards",
     "venue": "kilby court",
     "city": "slc",
@@ -1542,6 +1526,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/tv5a7murhjhf7mxdsp6apikh44",
     "date_created": "2026-10-10"
+  },
+  {
+    "date": "2026-10-29",
+    "artist": "Kirk Dath & The Bruisers",
+    "venue": "the urban lounge",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/ciwwtezambhtnda4bypiy2wazi",
+    "date_created": "2026-10-13"
   },
   {
     "date": "2026-10-29",
@@ -2518,6 +2510,14 @@
     "city": "slc",
     "url": "https://www.ticketmaster.com/on-cinema-the-certified-five-bags-salt-lake-city-utah-11-10-2026/event/1E0064DDB09290EE",
     "date_created": "2026-07-10"
+  },
+  {
+    "date": "2026-11-10",
+    "artist": "Roman Candle",
+    "venue": "the pearl on main",
+    "city": "midvale",
+    "url": "https://www.24tix.com/events/dgtq3lddefdvllu6apqu5mvowe",
+    "date_created": "2026-10-13"
   },
   {
     "date": "2026-11-10",
@@ -4608,6 +4608,14 @@
     "date_created": "2026-09-18"
   },
   {
+    "date": "2027-01-09",
+    "artist": "KTHKNG",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/pyakkmsrfrfe3bh54eqvar2ify",
+    "date_created": "2026-10-13"
+  },
+  {
     "date": "2027-01-10",
     "artist": "Championship Men’s Free Skate / Awards",
     "venue": "maverik center",
@@ -5569,6 +5577,14 @@
   },
   {
     "date": "2027-04-03",
+    "artist": "Thomas Dollbaum",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/qhji7qutvbhdtpq4othhr43mq4",
+    "date_created": "2026-10-13"
+  },
+  {
+    "date": "2027-04-03",
     "artist": "moe. (Night 1)",
     "venue": "the commonwealth room",
     "city": "slc",
@@ -6326,5 +6342,13 @@
     "city": "slc",
     "url": "https://tixr.com/e/191665",
     "date_created": "2026-10-12"
+  },
+  {
+    "date": "2027-10-12",
+    "artist": "NEW DATE: Die Spitz",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/177936",
+    "date_created": "2026-10-13"
   }
 ]
