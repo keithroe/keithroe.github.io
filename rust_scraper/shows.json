@@ -1,109 +1,5 @@
 [
   {
-    "date": "2026-10-14",
-    "artist": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
-    "venue": "delta center",
-    "city": "slc",
-    "url": "https://www.deltacenter.com/events/disney-worlds-collide-concert-tour/",
-    "date_created": "2026-03-20"
-  },
-  {
-    "date": "2026-10-14",
-    "artist": "Gary Clark Jr.",
-    "venue": "eccles theater",
-    "city": "slc",
-    "url": "https://www.live-at-the-eccles.com/events/gary-clark-jr",
-    "date_created": "2026-06-04"
-  },
-  {
-    "date": "2026-10-14",
-    "artist": "JJX, TACT, & Filth Lords",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/jjx-tact-filth-lords/",
-    "date_created": "2026-09-27"
-  },
-  {
-    "date": "2026-10-14",
-    "artist": "Jim Henson's Labyrinth In Concert",
-    "venue": "eccles theater",
-    "city": "slc",
-    "url": "https://artstickets.utah.edu/events/labyrinth-in-concert/",
-    "date_created": "2026-03-17"
-  },
-  {
-    "date": "2026-10-14",
-    "artist": "Lab Animals",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/wklt2da2j5ddfaunady4mvjy6y",
-    "date_created": "2026-10-13"
-  },
-  {
-    "date": "2026-10-14",
-    "artist": "Mike Oregano",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/mike-oregano1523.html",
-    "date_created": "2026-09-11"
-  },
-  {
-    "date": "2026-10-14",
-    "artist": "SAWYER HILL",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/pzbllla2fjhhpn7md6o4vi65tq",
-    "date_created": "2026-06-09"
-  },
-  {
-    "date": "2026-10-14",
-    "artist": "The Saint Cecilia",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/xm2oyijlsvdizcyx2apy5okouu",
-    "date_created": "2026-06-10"
-  },
-  {
-    "date": "2026-10-14",
-    "artist": "Theo Katzman",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1438073/theo-katzman-tickets?skin=stateroom",
-    "date_created": "2026-05-13"
-  },
-  {
-    "date": "2026-10-14",
-    "artist": "Tiny Hitman Tour 2026 feat. Bear Ghost",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/191776",
-    "date_created": "2026-06-04"
-  },
-  {
-    "date": "2026-10-14",
-    "artist": "Uptown Sasquatch",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/5qt4lvhksnacxpbfu7nwnn6bfa",
-    "date_created": "2026-08-01"
-  },
-  {
-    "date": "2026-10-14",
-    "artist": "Yelawolf & Highly Suspect - The War Within Tour",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1518853/yelawolf-highly-suspect-the-war-within-tour-tickets",
-    "date_created": "2026-07-15"
-  },
-  {
-    "date": "2026-10-14",
-    "artist": "Yelawolf - The War Within Tour",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1518853/yelawolf-the-war-within-tour-tickets",
-    "date_created": "2026-10-14"
-  },
-  {
     "date": "2026-10-15",
     "artist": "BLACK CELEBRATION (Goth Bands + DJ Set)",
     "venue": "velour live music gallery",
@@ -1166,6 +1062,14 @@
     "city": "slc",
     "url": "https://aceshighsaloon.com/event/wicked-temple-death-persona-oscillascura-the-mutiny/",
     "date_created": "2026-09-25"
+  },
+  {
+    "date": "2026-10-24",
+    "artist": "Y2K Halloween Rave",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1511138/y2k-halloween-rave-tickets",
+    "date_created": "2026-10-15"
   },
   {
     "date": "2026-10-25",
@@ -2585,6 +2489,14 @@
   },
   {
     "date": "2026-11-13",
+    "artist": "CARDINAL BLOOM",
+    "venue": "velour live music gallery",
+    "city": "provo",
+    "url": "https://www.24tix.com/events/b2bc5rpea5fifhptagovmmp7m4",
+    "date_created": "2026-10-15"
+  },
+  {
+    "date": "2026-11-13",
     "artist": "Dead Boys",
     "venue": "aces high",
     "city": "slc",
@@ -3936,6 +3848,14 @@
     "date_created": "2026-08-18"
   },
   {
+    "date": "2026-12-07",
+    "artist": "Mexican Hockey",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/mtnmjp6hgfedzdz5ywzsoogbya",
+    "date_created": "2026-10-15"
+  },
+  {
     "date": "2026-12-08",
     "artist": "Night Lovell",
     "venue": "the complex",
@@ -4206,6 +4126,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/pyr4ua7nubdsnk3dhd7etcps3a",
     "date_created": "2026-10-03"
+  },
+  {
+    "date": "2026-12-15",
+    "artist": "Anna Beck",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/uasdzklsqbdkvgxebapzyvivei",
+    "date_created": "2026-10-15"
   },
   {
     "date": "2026-12-15",
@@ -4696,6 +4624,22 @@
     "date_created": "2026-09-23"
   },
   {
+    "date": "2027-01-22",
+    "artist": "Whitey Morgan & the 78's",
+    "venue": "the commonwealth room",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1660155/whitey-morgan-the-78s-tickets?skin=stateroom",
+    "date_created": "2026-10-15"
+  },
+  {
+    "date": "2027-01-23",
+    "artist": "CYCLOPS (360º)",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10582/cyclops",
+    "date_created": "2026-10-15"
+  },
+  {
     "date": "2027-01-23",
     "artist": "Salt Lake City Stars vs. Valley Suns",
     "venue": "maverik center",
@@ -4726,6 +4670,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/m4zsffuyx5b5pjhmd2br3o5kki",
     "date_created": "2026-07-28"
+  },
+  {
+    "date": "2027-01-26",
+    "artist": "Lotus",
+    "venue": "the commonwealth room",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1650486/lotus-tickets?skin=stateroom",
+    "date_created": "2026-10-15"
   },
   {
     "date": "2027-01-27",
@@ -4958,6 +4910,14 @@
     "city": "west valley",
     "url": "https://www.ticketmaster.com/salt-lake-city-stars-vs-texas-west-valley-city-utah-02-08-2027/event/1E006538E6A02135?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
     "date_created": "2026-10-02"
+  },
+  {
+    "date": "2027-02-08",
+    "artist": "Winona Fighter",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/a4fuixydhffjdcsyxlrnrtdr3i",
+    "date_created": "2026-10-15"
   },
   {
     "date": "2027-02-09",
@@ -5497,6 +5457,14 @@
   },
   {
     "date": "2027-03-20",
+    "artist": "Kash’d Out – The Mirage Tour",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10580/kashdout",
+    "date_created": "2026-10-15"
+  },
+  {
+    "date": "2027-03-20",
     "artist": "Wheeler Walker Jr.",
     "venue": "the complex",
     "city": "slc",
@@ -5566,6 +5534,14 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10324/billie-marten",
     "date_created": "2026-03-30"
+  },
+  {
+    "date": "2027-03-29",
+    "artist": "Greta Van Fleet",
+    "venue": "delta center",
+    "city": "slc",
+    "url": "https://www.deltacenter.com/events/greta-van-fleet/",
+    "date_created": "2026-10-15"
   },
   {
     "date": "2027-03-29",
@@ -6390,5 +6366,13 @@
     "city": "slc",
     "url": "https://tixr.com/e/177936",
     "date_created": "2026-10-13"
+  },
+  {
+    "date": "2027-10-14",
+    "artist": "Tiny Hitman Tour 2026 feat. Bear Ghost",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/191776",
+    "date_created": "2026-10-15"
   }
 ]
