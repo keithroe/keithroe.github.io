@@ -1,149 +1,5 @@
 [
   {
-    "date": "2026-10-15",
-    "artist": "BLACK CELEBRATION (Goth Bands + DJ Set)",
-    "venue": "velour live music gallery",
-    "city": "provo",
-    "url": "https://www.24tix.com/events/2usowyhmmnhd3jdae4w7l24icq",
-    "date_created": "2026-09-25"
-  },
-  {
-    "date": "2026-10-15",
-    "artist": "Bentelou",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/rgt26102.html",
-    "date_created": "2026-09-28"
-  },
-  {
-    "date": "2026-10-15",
-    "artist": "Bonkers3",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://liquidjoes.ticketsauce.com/e/bonkers3",
-    "date_created": "2026-10-13"
-  },
-  {
-    "date": "2026-10-15",
-    "artist": "Julien Baker",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/ug2mkq5tgjgujlagtsjekxbbhy",
-    "date_created": "2026-09-11"
-  },
-  {
-    "date": "2026-10-15",
-    "artist": "Justin Nozuka",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/ph7kagyq3vavzbk2sux7l2w4bm",
-    "date_created": "2026-05-28"
-  },
-  {
-    "date": "2026-10-15",
-    "artist": "Kacey Musgraves",
-    "venue": "delta center",
-    "city": "slc",
-    "url": "https://www.deltacenter.com/events/kacey-musgraves/",
-    "date_created": "2026-04-30"
-  },
-  {
-    "date": "2026-10-15",
-    "artist": "Kyle Hume It’s a Zoo Out There",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10374/kyle-hume",
-    "date_created": "2026-03-26"
-  },
-  {
-    "date": "2026-10-15",
-    "artist": "Madra Mor EP Release Show",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/qc6ad3smgjfbtj7b53ettxnkwi",
-    "date_created": "2026-10-03"
-  },
-  {
-    "date": "2026-10-15",
-    "artist": "One Heart Orchestra",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/rgt26102.html",
-    "date_created": "2026-09-30"
-  },
-  {
-    "date": "2026-10-15",
-    "artist": "Reggae Thursday",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/rgt26102.html",
-    "date_created": "2026-09-11"
-  },
-  {
-    "date": "2026-10-15",
-    "artist": "SOLD OUT: Kyle Hume It’s a Zoo Out There",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10374/kyle-hume",
-    "date_created": "2026-09-03"
-  },
-  {
-    "date": "2026-10-15",
-    "artist": "THE ARMY, THE NAVY: THE FAKE BRAVE TOUR 2026",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/xcolium5drgjfgs4zkkua6iwoe",
-    "date_created": "2026-06-22"
-  },
-  {
-    "date": "2026-10-15",
-    "artist": "The Milk Carton Kids",
-    "venue": "the commonwealth room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1415076/the-milk-carton-kids-tickets?skin=stateroom",
-    "date_created": "2026-04-27"
-  },
-  {
-    "date": "2026-10-15",
-    "artist": "The Well & Pink Fuzz",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/the-well-pink-fuzz/",
-    "date_created": "2026-08-02"
-  },
-  {
-    "date": "2026-10-15",
-    "artist": "The Well, Pink Fuzz, & FIIG",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/the-well-pink-fuzz/",
-    "date_created": "2026-09-27"
-  },
-  {
-    "date": "2026-10-15",
-    "artist": "The Wrecks - Finally : OUTSIDE Tour",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/the-wrecks-finally-outside-tour-salt-lake-city-utah-10-15-2026/event/1E0064D19EE58657",
-    "date_created": "2026-06-26"
-  },
-  {
-    "date": "2026-10-15",
-    "artist": "The Wrecks: Finally Outside",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/the-wrecks-finally-outside-salt-lake-city-utah-10-15-2026/event/1E0064D19EE58657",
-    "date_created": "2026-06-24"
-  },
-  {
-    "date": "2026-10-15",
-    "artist": "Twinborn",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/pdwxzzkwf5bi5ohn7h2oqx3txy",
-    "date_created": "2026-10-06"
-  },
-  {
     "date": "2026-10-16",
     "artist": "BINGO LOCO",
     "venue": "the union",
@@ -3377,6 +3233,14 @@
   },
   {
     "date": "2026-11-28",
+    "artist": "Gloss Haus",
+    "venue": "the urban lounge",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/rek3rhkzqbejhntnuhadeecfd4",
+    "date_created": "2026-10-16"
+  },
+  {
+    "date": "2026-11-28",
     "artist": "Jimmy Failla",
     "venue": "the complex",
     "city": "slc",
@@ -3798,6 +3662,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/eh72dyutyraerfinvp3ty4nkf4",
     "date_created": "2026-07-17"
+  },
+  {
+    "date": "2026-12-06",
+    "artist": "Fat, Evil Children",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/hnmngxeeufekbbe2esq4xdmjd4",
+    "date_created": "2026-10-16"
   },
   {
     "date": "2026-12-06",
@@ -4849,6 +4721,14 @@
   },
   {
     "date": "2027-02-05",
+    "artist": "Red NOT Chili Peppers",
+    "venue": "the depot",
+    "city": "slc",
+    "url": "https://www.ticketmaster.com/red-not-chili-peppers-salt-lake-city-utah-02-05-2027/event/1E006549EAB2DE28",
+    "date_created": "2026-10-16"
+  },
+  {
+    "date": "2027-02-05",
     "artist": "Taylor Tomlinson",
     "venue": "eccles theater",
     "city": "slc",
@@ -5560,6 +5440,14 @@
     "date_created": "2026-10-14"
   },
   {
+    "date": "2027-03-31",
+    "artist": "Def Leppard and Goo Goo Dolls",
+    "venue": "delta center",
+    "city": "slc",
+    "url": "https://www.deltacenter.com/events/def-leppard-and-goo-goo-dolls/",
+    "date_created": "2026-10-16"
+  },
+  {
     "date": "2027-04-02",
     "artist": "From Ashes to New - Reflections Tour 2027",
     "venue": "the depot",
@@ -5670,6 +5558,14 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10452/dadrocknight",
     "date_created": "2026-07-02"
+  },
+  {
+    "date": "2027-04-23",
+    "artist": "Salt Lake City Tattoo Expo 2027",
+    "venue": "salt palace convention center, exhibit hall e",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/fsljxapicndotjw5s2qnbm2f24",
+    "date_created": "2026-10-16"
   },
   {
     "date": "2027-04-24",
@@ -5862,6 +5758,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1644732/the-arcadian-wild-tickets?skin=stateroom",
     "date_created": "2026-10-07"
+  },
+  {
+    "date": "2027-05-20",
+    "artist": "Jon Pardi: Gamblin’ Man Tour",
+    "venue": "maverik center",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/jon-pardi-gamblin-man-tour-2026-west-valley-city-utah-05-20-2027/event/1E0064F081725388?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "date_created": "2026-10-16"
   },
   {
     "date": "2027-05-20",
@@ -6374,5 +6278,21 @@
     "city": "slc",
     "url": "https://tixr.com/e/191776",
     "date_created": "2026-10-15"
+  },
+  {
+    "date": "2027-10-15",
+    "artist": "Julien Baker",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/ug2mkq5tgjgujlagtsjekxbbhy",
+    "date_created": "2026-10-16"
+  },
+  {
+    "date": "2027-10-15",
+    "artist": "SOLD OUT: Kyle Hume It’s a Zoo Out There",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10374/kyle-hume",
+    "date_created": "2026-10-16"
   }
 ]
