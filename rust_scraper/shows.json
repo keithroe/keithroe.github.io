@@ -1,117 +1,5 @@
 [
   {
-    "date": "2026-10-21",
-    "artist": "Ethyl Cat",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/dz7hoeaez5fshhkkajeoq7tppm",
-    "date_created": "2026-10-03"
-  },
-  {
-    "date": "2026-10-21",
-    "artist": "HAVOK",
-    "venue": "metro music hall - 21+",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/tbr4aiheenamdj5rigp54raalu",
-    "date_created": "2026-08-20"
-  },
-  {
-    "date": "2026-10-21",
-    "artist": "Knox",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/knox-salt-lake-city-utah-10-21-2026/event/1E0064E7BF428B01",
-    "date_created": "2026-07-14"
-  },
-  {
-    "date": "2026-10-21",
-    "artist": "Lenny Pearce",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1484088/lenny-pearce-tickets",
-    "date_created": "2026-06-13"
-  },
-  {
-    "date": "2026-10-21",
-    "artist": "Magenta Wave",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/bhpsg5mlozd45die32o7fwkl5u",
-    "date_created": "2026-06-04"
-  },
-  {
-    "date": "2026-10-21",
-    "artist": "Max Diaz",
-    "venue": "the pearl on main",
-    "city": "midvale",
-    "url": "https://www.24tix.com/events/57chqnmprjey5jvqltwwbrh5ee",
-    "date_created": "2026-07-17"
-  },
-  {
-    "date": "2026-10-21",
-    "artist": "Phoebe Bridgers",
-    "venue": "delta center",
-    "city": "slc",
-    "url": "https://www.deltacenter.com/events/phoebe-bridgers/",
-    "date_created": "2026-06-06"
-  },
-  {
-    "date": "2026-10-21",
-    "artist": "Phoebe Bridgers | SOLD OUT",
-    "venue": "delta center",
-    "city": "slc",
-    "url": "https://www.deltacenter.com/events/phoebe-bridgers/",
-    "date_created": "2026-06-22"
-  },
-  {
-    "date": "2026-10-21",
-    "artist": "Raynes and David Wimbish & The Collection",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/191652",
-    "date_created": "2026-05-28"
-  },
-  {
-    "date": "2026-10-21",
-    "artist": "SOLD OUT: Raynes and David Wimbish & The Collection",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/191652",
-    "date_created": "2026-10-08"
-  },
-  {
-    "date": "2026-10-21",
-    "artist": "Sarah DeGraw",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/sarah-degraw1526.html",
-    "date_created": "2026-09-15"
-  },
-  {
-    "date": "2026-10-21",
-    "artist": "Slow Pulp",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1442844/slow-pulp-tickets",
-    "date_created": "2026-05-13"
-  },
-  {
-    "date": "2026-10-21",
-    "artist": "Spirits",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/etyvxdzxyzdyjcbaed3rzg7edy",
-    "date_created": "2026-08-14"
-  },
-  {
-    "date": "2026-10-21",
-    "artist": "The Committee",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/6wwfgs6earbijkvzbwey4ttxqi",
-    "date_created": "2026-08-17"
-  },
-  {
     "date": "2026-10-22",
     "artist": "Bonkers",
     "venue": "liquid joes",
@@ -1665,6 +1553,14 @@
   },
   {
     "date": "2026-11-07",
+    "artist": "The SPAZMATICS",
+    "venue": "leatherheads sports bar",
+    "city": "draper",
+    "url": "https://www.24tix.com/events/v2jvskyrp5e4blrkrkfyl6q474",
+    "date_created": "2026-10-22"
+  },
+  {
+    "date": "2026-11-07",
     "artist": "The Swinging Lights",
     "venue": "hog wallow",
     "city": "cottonwood",
@@ -2782,6 +2678,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1438505/saosin-20-years-of-self-titled-tickets",
     "date_created": "2026-05-13"
+  },
+  {
+    "date": "2026-11-21",
+    "artist": "SLC Celebration Of Electronic Music",
+    "venue": "the urban lounge",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/xfznxlyzi5eo3ghtfudqlbs7yy",
+    "date_created": "2026-10-22"
   },
   {
     "date": "2026-11-21",
@@ -4105,6 +4009,14 @@
   },
   {
     "date": "2027-01-01",
+    "artist": "HATCHBACK",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/egfp53o2qnfvnidntaoahwmr44",
+    "date_created": "2026-10-22"
+  },
+  {
+    "date": "2027-01-01",
     "artist": "Klangkuenstler: SLC NYE 1/1",
     "venue": "the complex",
     "city": "slc",
@@ -4126,6 +4038,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1632095/kettama-slc-nye-12-tickets",
     "date_created": "2026-09-30"
+  },
+  {
+    "date": "2027-01-05",
+    "artist": "JD no AP",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/mdsj34hnevfy7g32awvobwnmay",
+    "date_created": "2026-10-22"
   },
   {
     "date": "2027-01-07",
@@ -4230,6 +4150,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/161106",
     "date_created": "2026-01-11"
+  },
+  {
+    "date": "2027-01-11",
+    "artist": "Kamden Freeman",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/yylxrjeufjcmxdzzq5smjdzhp4",
+    "date_created": "2026-10-22"
   },
   {
     "date": "2027-01-12",
@@ -4713,11 +4641,27 @@
   },
   {
     "date": "2027-02-10",
+    "artist": "Mouse Powell",
+    "venue": "the urban lounge",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/wh2wewuqwjbcnltt3mt2grdkei",
+    "date_created": "2026-10-22"
+  },
+  {
+    "date": "2027-02-10",
     "artist": "Riley!",
     "venue": "kilby court",
     "city": "slc",
     "url": "https://www.24tix.com/events/a2xpcsc74zbpnaowr4i7p2776a",
     "date_created": "2026-10-21"
+  },
+  {
+    "date": "2027-02-12",
+    "artist": "Jimmy O. Yang",
+    "venue": "eccles theater",
+    "city": "slc",
+    "url": "https://www.live-at-the-eccles.com/events/jimmy-o-yang",
+    "date_created": "2026-10-22"
   },
   {
     "date": "2027-02-12",
@@ -4830,6 +4774,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1376493/public-image-ltd-pil-tickets",
     "date_created": "2026-09-05"
+  },
+  {
+    "date": "2027-02-18",
+    "artist": "Camp Bloom Tour",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/qmvmz2tbqjarxf2fdzw5wohhxi",
+    "date_created": "2026-10-22"
   },
   {
     "date": "2027-02-19",
@@ -5552,6 +5504,14 @@
     "date_created": "2026-07-02"
   },
   {
+    "date": "2027-04-20",
+    "artist": "Clap Your Hands Say Yeah",
+    "venue": "the urban lounge",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/qhxiieuwwrhkhpp7wc5dhs535e",
+    "date_created": "2026-10-22"
+  },
+  {
     "date": "2027-04-22",
     "artist": "Nickelback",
     "venue": "delta center",
@@ -5678,6 +5638,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/162974",
     "date_created": "2026-05-03"
+  },
+  {
+    "date": "2027-05-05",
+    "artist": "Calvin Harris",
+    "venue": "delta center",
+    "city": "slc",
+    "url": "https://www.deltacenter.com/events/calvin-harris/",
+    "date_created": "2026-10-22"
   },
   {
     "date": "2027-05-06",
@@ -6350,5 +6318,13 @@
     "city": "slc",
     "url": "https://liquidjoes.ticketsauce.com/e/skitz-kraven",
     "date_created": "2026-10-18"
+  },
+  {
+    "date": "2027-10-21",
+    "artist": "SOLD OUT: Raynes and David Wimbish & The Collection",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/191652",
+    "date_created": "2026-10-22"
   }
 ]
