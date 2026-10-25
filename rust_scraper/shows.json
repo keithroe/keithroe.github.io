@@ -1,165 +1,5 @@
 [
   {
-    "date": "2026-10-24",
-    "artist": "#IMOMSOHARD",
-    "venue": "eccles theater",
-    "city": "slc",
-    "url": "https://www.live-at-the-eccles.com/events/imomsohard",
-    "date_created": "2026-03-03"
-  },
-  {
-    "date": "2026-10-24",
-    "artist": "Body Double",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/bnovyemysnfq3fh2qfafuejwri",
-    "date_created": "2026-10-14"
-  },
-  {
-    "date": "2026-10-24",
-    "artist": "CRIMEWAVE",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/zr6yqp6yzneopmea4jf4pxjjai",
-    "date_created": "2026-08-07"
-  },
-  {
-    "date": "2026-10-24",
-    "artist": "Catch Your Breath - Not Broken Enough Tour",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/catch-your-breath-not-broken-enough-salt-lake-city-utah-10-24-2026/event/1E0064B6A1767B0C",
-    "date_created": "2026-05-28"
-  },
-  {
-    "date": "2026-10-24",
-    "artist": "Despiona / Mummy",
-    "venue": "the pearl on main",
-    "city": "midvale",
-    "url": "https://www.24tix.com/events/rbhi6pfm6vaohetetu7fjva6i4",
-    "date_created": "2026-08-22"
-  },
-  {
-    "date": "2026-10-24",
-    "artist": "Gavn!",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/curz67bxnvc5lje3vm6tm23vlu",
-    "date_created": "2026-06-24"
-  },
-  {
-    "date": "2026-10-24",
-    "artist": "Haunt The 80's",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/bjkl7zxiizcivhadddxryxykim",
-    "date_created": "2026-10-20"
-  },
-  {
-    "date": "2026-10-24",
-    "artist": "High Wasted: Horror Story",
-    "venue": "blue gene's",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/pgnzcuknmveudm62xdpm2szbbe",
-    "date_created": "2026-10-01"
-  },
-  {
-    "date": "2026-10-24",
-    "artist": "Kirk Dath & the Bruisers",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/kirk-dath-band1529.html",
-    "date_created": "2026-10-17"
-  },
-  {
-    "date": "2026-10-24",
-    "artist": "Kirk Dath Band",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/kirk-dath-band1529.html",
-    "date_created": "2026-09-15"
-  },
-  {
-    "date": "2026-10-24",
-    "artist": "Lil Tracy",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1511138/lil-tracy-tickets",
-    "date_created": "2026-09-05"
-  },
-  {
-    "date": "2026-10-24",
-    "artist": "Lil Tracy #Bruh #Rave",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-3000.htm",
-    "date_created": "2026-07-10"
-  },
-  {
-    "date": "2026-10-24",
-    "artist": "Medium Build Presents The King of Having Fun on Tour",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/196036",
-    "date_created": "2026-06-27"
-  },
-  {
-    "date": "2026-10-24",
-    "artist": "RISE UP REVIVAL",
-    "venue": "leatherheads sports bar",
-    "city": "draper",
-    "url": "https://www.24tix.com/events/jbdm4hpqkrgrjip52atqjzxbzq",
-    "date_created": "2026-09-27"
-  },
-  {
-    "date": "2026-10-24",
-    "artist": "Red Shahan",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1537675/red-shahan-tickets?skin=stateroom",
-    "date_created": "2026-07-25"
-  },
-  {
-    "date": "2026-10-24",
-    "artist": "SOLD OUT: Medium Build Presents The King of Having Fun on Tour",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/196036",
-    "date_created": "2026-10-20"
-  },
-  {
-    "date": "2026-10-24",
-    "artist": "The Crooked Rugs",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/zaz7i4bqhjdm5czrkoymw64hcq",
-    "date_created": "2026-09-05"
-  },
-  {
-    "date": "2026-10-24",
-    "artist": "The Plastic Cherries",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/tctbovof3zg3vakdfysslq5hje",
-    "date_created": "2026-09-11"
-  },
-  {
-    "date": "2026-10-24",
-    "artist": "Wicked Temple, Death Persona, Oscillascura, & The Mutiny",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/wicked-temple-death-persona-oscillascura-the-mutiny/",
-    "date_created": "2026-09-25"
-  },
-  {
-    "date": "2026-10-24",
-    "artist": "Y2K Halloween Rave",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1511138/y2k-halloween-rave-tickets",
-    "date_created": "2026-10-15"
-  },
-  {
     "date": "2026-10-25",
     "artist": "BurnDown",
     "venue": "soundwell",
@@ -606,6 +446,14 @@
     "city": "slc",
     "url": "https://aceshighsaloon.com/event/the-acid-blues-band-dirty-hands-porq/",
     "date_created": "2026-10-03"
+  },
+  {
+    "date": "2026-10-30",
+    "artist": "The Acid Blues Band, Dirty Hands, & Winoes",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/the-acid-blues-band-dirty-hands-porq/",
+    "date_created": "2026-10-25"
   },
   {
     "date": "2026-10-30",
@@ -2014,6 +1862,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/cy3vxmuafvborovcsvfejxi6em",
     "date_created": "2026-08-14"
+  },
+  {
+    "date": "2026-11-16",
+    "artist": "Funeral Witchery, Alghoul, & Mormon Tabernacle Fire",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/funeral-witchery-alghoul-mormon-tabernacle-fire/",
+    "date_created": "2026-10-25"
   },
   {
     "date": "2026-11-16",
@@ -3878,6 +3734,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/mdsj34hnevfy7g32awvobwnmay",
     "date_created": "2026-10-22"
+  },
+  {
+    "date": "2027-01-06",
+    "artist": "Conjurer, Armed For Apocalypse, & RILE",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/conjurer-armed-for-apocalypse-rile/",
+    "date_created": "2026-10-25"
   },
   {
     "date": "2027-01-07",
@@ -6190,5 +6054,13 @@
     "city": "slc",
     "url": "https://tixr.com/e/191652",
     "date_created": "2026-10-22"
+  },
+  {
+    "date": "2027-10-24",
+    "artist": "SOLD OUT: Medium Build Presents The King of Having Fun on Tour",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/196036",
+    "date_created": "2026-10-25"
   }
 ]
