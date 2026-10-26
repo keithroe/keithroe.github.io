@@ -1,93 +1,5 @@
 [
   {
-    "date": "2026-10-25",
-    "artist": "BurnDown",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10490/burndown",
-    "date_created": "2026-08-20"
-  },
-  {
-    "date": "2026-10-25",
-    "artist": "ButtTootKing: Lydia B Kollins, Suzie Toot, and Kori King",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-2953.htm",
-    "date_created": "2026-06-22"
-  },
-  {
-    "date": "2026-10-25",
-    "artist": "ButtTootKing: Lydia Kollins, Suzie Toot, Kori King",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1442925/butttootking-lydia-kollins-suzie-toot-kori-king-tickets",
-    "date_created": "2026-09-05"
-  },
-  {
-    "date": "2026-10-25",
-    "artist": "Dweezil Zappa",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1468126/dweezil-zappa-tickets",
-    "date_created": "2026-06-04"
-  },
-  {
-    "date": "2026-10-25",
-    "artist": "FORBIDDEN - Chaos By Design - US Tour 2026",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/p75kivv2lrhf5ggvlqwbncmr54",
-    "date_created": "2026-07-23"
-  },
-  {
-    "date": "2026-10-25",
-    "artist": "Karaoke",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/j44crkxbsrbvdga63f33qupag4",
-    "date_created": "2026-10-20"
-  },
-  {
-    "date": "2026-10-25",
-    "artist": "Maroon 5",
-    "venue": "delta center",
-    "city": "slc",
-    "url": "https://www.deltacenter.com/events/maroon-5/",
-    "date_created": "2025-10-27"
-  },
-  {
-    "date": "2026-10-25",
-    "artist": "The Paradox",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/fnutvk352bgvlha4jbxykm3amm",
-    "date_created": "2026-06-24"
-  },
-  {
-    "date": "2026-10-25",
-    "artist": "Visceral Cults, Mormon Tabernacle Fire, & Crepusculum",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/visceral-cults-mormon-tabernacle-fire-crepusculum/",
-    "date_created": "2026-09-08"
-  },
-  {
-    "date": "2026-10-25",
-    "artist": "bunii",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/kv7dtigiwbecjklujzb7si4tu4",
-    "date_created": "2026-08-21"
-  },
-  {
-    "date": "2026-10-25",
-    "artist": "sunn O)))",
-    "venue": "SEE EVENT LISTING",
-    "city": "slc",
-    "url": "https://www.hyphaproductions.com/events/sunn-o",
-    "date_created": "2026-07-17"
-  },
-  {
     "date": "2026-10-26",
     "artist": "Dinosaur Jr.",
     "venue": "the complex",
@@ -6062,5 +5974,13 @@
     "city": "slc",
     "url": "https://tixr.com/e/196036",
     "date_created": "2026-10-25"
+  },
+  {
+    "date": "2027-10-25",
+    "artist": "BurnDown",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10490/burndown",
+    "date_created": "2026-10-26"
   }
 ]
