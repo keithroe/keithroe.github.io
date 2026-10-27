@@ -1,53 +1,5 @@
 [
   {
-    "date": "2026-10-26",
-    "artist": "Dinosaur Jr.",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1505904/dinosaur-jr-tickets",
-    "date_created": "2026-07-02"
-  },
-  {
-    "date": "2026-10-26",
-    "artist": "Dummy",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/iqrfg6vzznfcngccrbeuni6poe",
-    "date_created": "2026-08-14"
-  },
-  {
-    "date": "2026-10-26",
-    "artist": "Jonah Marais",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/145905",
-    "date_created": "2025-10-27"
-  },
-  {
-    "date": "2026-10-26",
-    "artist": "KING OF DRAG",
-    "venue": "metro music hall - 21+",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/gkjhyr477vhullqg4w5sybreay",
-    "date_created": "2026-08-12"
-  },
-  {
-    "date": "2026-10-26",
-    "artist": "New Constellations: It Comes In Waves Tour",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/197611",
-    "date_created": "2026-07-10"
-  },
-  {
-    "date": "2026-10-26",
-    "artist": "Post Sex Nachos",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/htuuxz4byff4lmleadipvcbhs4",
-    "date_created": "2026-05-13"
-  },
-  {
     "date": "2026-10-27",
     "artist": "Geese - Getting Killed Again Tour",
     "venue": "the complex",
@@ -4857,6 +4809,14 @@
   },
   {
     "date": "2027-03-16",
+    "artist": "HAKEN",
+    "venue": "the commonwealth room",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1650894/haken-tickets?skin=stateroom",
+    "date_created": "2026-10-27"
+  },
+  {
+    "date": "2027-03-16",
     "artist": "Sunfish",
     "venue": "soundwell",
     "city": "slc",
@@ -4918,6 +4878,14 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10284/sultan-shepard",
     "date_created": "2026-03-22"
+  },
+  {
+    "date": "2027-03-23",
+    "artist": "Dogpark",
+    "venue": "metro music hall - all ages",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/s65qrfqghzajxhmc6t3q773oju",
+    "date_created": "2026-10-27"
   },
   {
     "date": "2027-03-24",
@@ -5080,6 +5048,14 @@
     "date_created": "2026-04-06"
   },
   {
+    "date": "2027-04-06",
+    "artist": "Oscar Lindsey - Sunshine Tour",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/rjd2g5nhdbbjjfrjskkr4jspde",
+    "date_created": "2026-10-27"
+  },
+  {
     "date": "2027-04-08",
     "artist": "Jack & Jack",
     "venue": "kilby court",
@@ -5104,6 +5080,14 @@
     "date_created": "2026-09-23"
   },
   {
+    "date": "2027-04-10",
+    "artist": "Destroy Boys presents",
+    "venue": "metro music hall - all ages",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/zrs2aebxyrditp44jowd75py5y",
+    "date_created": "2026-10-27"
+  },
+  {
     "date": "2027-04-11",
     "artist": "Viva La DIVA - Spring Season Pass",
     "venue": "metro music hall",
@@ -5118,6 +5102,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/169902",
     "date_created": "2026-04-12"
+  },
+  {
+    "date": "2027-04-12",
+    "artist": "Gus Dapperton",
+    "venue": "metro music hall - all ages",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/u6odtoj6mvf73bwkvlyfaoninu",
+    "date_created": "2026-10-27"
   },
   {
     "date": "2027-04-13",
@@ -5166,6 +5158,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/fsljxapicndotjw5s2qnbm2f24",
     "date_created": "2026-10-16"
+  },
+  {
+    "date": "2027-04-24",
+    "artist": "BUNT.",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1672976/bunt-tickets",
+    "date_created": "2026-10-27"
   },
   {
     "date": "2027-04-24",
@@ -5444,7 +5444,7 @@
     "artist": "A Perfect Circle",
     "venue": "maverik center",
     "city": "west valley",
-    "url": "https://www.ticketmaster.com/a-perfect-circle-west-valley-city-utah-05-28-2027/event/1E0065318FC84DAC?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
+    "url": "https://www.ticketmaster.com/a-perfect-circle-with-special-guest-west-valley-city-utah-05-28-2027/event/1E0065318FC84DAC?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
     "date_created": "2026-09-30"
   },
   {
@@ -5982,5 +5982,13 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10490/burndown",
     "date_created": "2026-10-26"
+  },
+  {
+    "date": "2027-10-26",
+    "artist": "New Constellations: It Comes In Waves Tour",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/197611",
+    "date_created": "2026-10-27"
   }
 ]
