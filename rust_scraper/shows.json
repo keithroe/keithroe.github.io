@@ -1,53 +1,5 @@
 [
   {
-    "date": "2026-10-27",
-    "artist": "Geese - Getting Killed Again Tour",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1412218/geese-getting-killed-again-tour-tickets",
-    "date_created": "2026-04-27"
-  },
-  {
-    "date": "2026-10-27",
-    "artist": "PAIN OF TRUTH",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/tcvw46wc5fgo7peczru3tgbfsq",
-    "date_created": "2026-08-07"
-  },
-  {
-    "date": "2026-10-27",
-    "artist": "Pigeons Playing Ping Pong",
-    "venue": "the commonwealth room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1475900/pigeons-playing-ping-pong-tickets?skin=stateroom",
-    "date_created": "2026-06-10"
-  },
-  {
-    "date": "2026-10-27",
-    "artist": "The Rocky Horror Picture Show",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/lo2ornm4nncuneouuqa37nqipy",
-    "date_created": "2026-10-13"
-  },
-  {
-    "date": "2026-10-27",
-    "artist": "The Toxhards",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/46aiytbkpvh2rcyoczxwexalom",
-    "date_created": "2026-05-26"
-  },
-  {
-    "date": "2026-10-27",
-    "artist": "Waterparks",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10480/waterparks",
-    "date_created": "2026-08-14"
-  },
-  {
     "date": "2026-10-28",
     "artist": "Earl on Earth",
     "venue": "hog wallow",
@@ -697,6 +649,14 @@
   },
   {
     "date": "2026-11-04",
+    "artist": "Billy Rogan",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/billy-rogan1558.html",
+    "date_created": "2026-10-28"
+  },
+  {
+    "date": "2026-11-04",
     "artist": "Every Single Time",
     "venue": "international bar",
     "city": "slc",
@@ -838,6 +798,14 @@
     "city": "provo",
     "url": "https://www.24tix.com/events/hm37cslxsrgybmrs7zlbcnoqtu",
     "date_created": "2026-10-06"
+  },
+  {
+    "date": "2026-11-05",
+    "artist": "The Salt",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/reggae-thursday1544.html",
+    "date_created": "2026-10-28"
   },
   {
     "date": "2026-11-05",
@@ -1270,6 +1238,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/dp6x3r5oibd5de7ogtoetuqgta",
     "date_created": "2026-08-26"
+  },
+  {
+    "date": "2026-11-11",
+    "artist": "Giant Skunk",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/caarpuekdbaqhljctgzox2xjqa",
+    "date_created": "2026-10-28"
   },
   {
     "date": "2026-11-11",
@@ -1929,6 +1905,22 @@
   },
   {
     "date": "2026-11-19",
+    "artist": "Localized",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/74sa2jofnrge7o2ykuuwn4ly3u",
+    "date_created": "2026-10-28"
+  },
+  {
+    "date": "2026-11-19",
+    "artist": "Master Kennedy",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/rgt26112.html",
+    "date_created": "2026-10-28"
+  },
+  {
+    "date": "2026-11-19",
     "artist": "Postmodern Jukebox",
     "venue": "eccles theater",
     "city": "slc",
@@ -2473,6 +2465,14 @@
   },
   {
     "date": "2026-11-28",
+    "artist": "Halo Retro Disco",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/kgndnyxtebhytgkqqdaclzmeka",
+    "date_created": "2026-10-28"
+  },
+  {
+    "date": "2026-11-28",
     "artist": "Jimmy Failla",
     "venue": "the complex",
     "city": "slc",
@@ -2974,6 +2974,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/157122",
     "date_created": "2025-12-07"
+  },
+  {
+    "date": "2026-12-06",
+    "artist": "Stevie Stone- Goat Talk Tour",
+    "venue": "liquid joes",
+    "city": "slc",
+    "url": "https://tickets.holdmyticket.com/tickets/468167?utm_source=ahdaseerecords&utm_medium=website&utm_cam",
+    "date_created": "2026-10-28"
   },
   {
     "date": "2026-12-06",
@@ -3545,6 +3553,14 @@
   },
   {
     "date": "2026-12-31",
+    "artist": "Sappho's New Year's Ball",
+    "venue": "metro music hall - all ages",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/7qjj6rimuzbjrju6pixapcrgcm",
+    "date_created": "2026-10-28"
+  },
+  {
+    "date": "2026-12-31",
     "artist": "The Motet",
     "venue": "soundwell",
     "city": "slc",
@@ -3870,6 +3886,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/xxn5grgurrap5d6wl4inbvu2sm",
     "date_created": "2026-10-07"
+  },
+  {
+    "date": "2027-01-22",
+    "artist": "Greensky Bluegrass",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1678564/greensky-bluegrass-tickets",
+    "date_created": "2026-10-28"
   },
   {
     "date": "2027-01-22",
@@ -4753,6 +4777,14 @@
   },
   {
     "date": "2027-03-12",
+    "artist": "Call It Off",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/y4gnvboxhzgm7kbxjxfmixbkqu",
+    "date_created": "2026-10-28"
+  },
+  {
+    "date": "2027-03-12",
     "artist": "Rayland Baxter",
     "venue": "the commonwealth room",
     "city": "slc",
@@ -4801,6 +4833,14 @@
   },
   {
     "date": "2027-03-14",
+    "artist": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
+    "venue": "the depot",
+    "city": "slc",
+    "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-salt-lake-city-utah-03-14-2027/event/1E006555ADC569C4",
+    "date_created": "2026-10-28"
+  },
+  {
+    "date": "2027-03-14",
     "artist": "Hans Williams",
     "venue": "metro music hall - all ages",
     "city": "slc",
@@ -4830,6 +4870,22 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1616982/braxton-keith-tickets",
     "date_created": "2026-09-22"
+  },
+  {
+    "date": "2027-03-17",
+    "artist": "Temper City: Self Aware Tour",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/oy4vquxqrzexfpewcp3v73qpv4",
+    "date_created": "2026-10-28"
+  },
+  {
+    "date": "2027-03-17",
+    "artist": "The Plot In You",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1674918/the-plot-in-you-tickets",
+    "date_created": "2026-10-28"
   },
   {
     "date": "2027-03-18",
@@ -5118,6 +5174,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1664462/alex-sampson-tickets",
     "date_created": "2026-10-20"
+  },
+  {
+    "date": "2027-04-13",
+    "artist": "brakence",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1674590/brakence-tickets",
+    "date_created": "2026-10-28"
   },
   {
     "date": "2027-04-17",
@@ -5640,12 +5704,28 @@
     "date_created": "2026-08-08"
   },
   {
+    "date": "2027-08-13",
+    "artist": "Donny Osmond (Night 1)",
+    "venue": "eccles theater",
+    "city": "slc",
+    "url": "https://live-at-the-eccles.com/events/donny-osmond",
+    "date_created": "2026-10-28"
+  },
+  {
     "date": "2027-08-14",
     "artist": "ALT LAKE CITY",
     "venue": "the urban lounge",
     "city": "slc",
     "url": "https://www.24tix.com/events/apiolpdbwjbsvfdog6ladyy7ca",
     "date_created": "2026-08-15"
+  },
+  {
+    "date": "2027-08-14",
+    "artist": "Donny Osmond (Night 2)",
+    "venue": "eccles theater",
+    "city": "slc",
+    "url": "https://live-at-the-eccles.com/events/donny-osmond",
+    "date_created": "2026-10-28"
   },
   {
     "date": "2027-08-14",
@@ -5990,5 +6070,13 @@
     "city": "slc",
     "url": "https://tixr.com/e/197611",
     "date_created": "2026-10-27"
+  },
+  {
+    "date": "2027-10-27",
+    "artist": "Waterparks",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10480/waterparks",
+    "date_created": "2026-10-28"
   }
 ]
