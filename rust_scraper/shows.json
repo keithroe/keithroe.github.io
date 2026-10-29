@@ -1,69 +1,5 @@
 [
   {
-    "date": "2026-10-28",
-    "artist": "Earl on Earth",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/earl-on-earth1530.html",
-    "date_created": "2026-09-21"
-  },
-  {
-    "date": "2026-10-28",
-    "artist": "GILLA BAND",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/6vycdpxa5zcsfhfa2wz57bsrnm",
-    "date_created": "2026-05-28"
-  },
-  {
-    "date": "2026-10-28",
-    "artist": "George Clanton",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/george-clanton-salt-lake-city-utah-10-28-2026/event/1E00651CD15BD7B9",
-    "date_created": "2026-08-07"
-  },
-  {
-    "date": "2026-10-28",
-    "artist": "Leonid & Friends",
-    "venue": "eccles theater",
-    "city": "slc",
-    "url": "https://www.live-at-the-eccles.com/events/leonid-friends",
-    "date_created": "2026-02-28"
-  },
-  {
-    "date": "2026-10-28",
-    "artist": "Maz & Greesy Grace",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/6cptx6qwazeehlp3dyazlb6nye",
-    "date_created": "2026-09-18"
-  },
-  {
-    "date": "2026-10-28",
-    "artist": "Movie Night",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/movie-night-2/",
-    "date_created": "2026-09-25"
-  },
-  {
-    "date": "2026-10-28",
-    "artist": "SHAWN JAMES",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/wjzwhdzmobdvpisctsfry7jmw4",
-    "date_created": "2026-06-24"
-  },
-  {
-    "date": "2026-10-28",
-    "artist": "Sophie Hunter - STEREOSCOPE The Tour",
-    "venue": "the pearl on main",
-    "city": "midvale",
-    "url": "https://www.24tix.com/events/2luxawpsdjhsnigrokcmuz6kiy",
-    "date_created": "2026-06-26"
-  },
-  {
     "date": "2026-10-29",
     "artist": "Country Ramble",
     "venue": "hog wallow",
@@ -1729,6 +1665,14 @@
   },
   {
     "date": "2026-11-16",
+    "artist": "Room",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/o62apagrurahdcarxald4n7pye",
+    "date_created": "2026-10-29"
+  },
+  {
+    "date": "2026-11-16",
     "artist": "Vansire",
     "venue": "metro music hall - all ages",
     "city": "slc",
@@ -2006,6 +1950,14 @@
     "city": "west valley",
     "url": "https://www.ticketmaster.com/an-evening-with-john-legend-get-west-valley-city-utah-11-20-2025/event/1E006271AAA92183",
     "date_created": "2026-02-28"
+  },
+  {
+    "date": "2026-11-20",
+    "artist": "Johnnie Kapua, Cal Cook, Saade and Special Guest",
+    "venue": "the garden place at this is the place",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/7hai2aw5zzezdnnixspo3auqn4",
+    "date_created": "2026-10-29"
   },
   {
     "date": "2026-11-20",
@@ -3553,8 +3505,16 @@
   },
   {
     "date": "2026-12-31",
+    "artist": "New Year’s Eve Festival 2027",
+    "venue": "delta center",
+    "city": "slc",
+    "url": "https://www.deltacenter.com/events/new-years-eve-festival-2027/",
+    "date_created": "2026-10-29"
+  },
+  {
+    "date": "2026-12-31",
     "artist": "Sappho's New Year's Ball",
-    "venue": "metro music hall - all ages",
+    "venue": "metro music hall - 21+",
     "city": "slc",
     "url": "https://www.24tix.com/events/7qjj6rimuzbjrju6pixapcrgcm",
     "date_created": "2026-10-28"
@@ -3758,6 +3718,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/i5myqk6defggtgngntewsqgep4",
     "date_created": "2026-10-06"
+  },
+  {
+    "date": "2027-01-14",
+    "artist": "Burial Site",
+    "venue": "the urban lounge",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/w6t6vd325re65jcdejsekt6vw4",
+    "date_created": "2026-10-29"
   },
   {
     "date": "2027-01-14",
@@ -4433,6 +4401,14 @@
   },
   {
     "date": "2027-02-20",
+    "artist": "CODEFENDANTS + Jakob Nowell and THE CASTLE",
+    "venue": "the urban lounge",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/us2wofztuzg3vjnwok7zrqifiq",
+    "date_created": "2026-10-29"
+  },
+  {
+    "date": "2027-02-20",
     "artist": "L.A.B",
     "venue": "soundwell",
     "city": "slc",
@@ -4486,6 +4462,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1637072/sungazer-tickets?skin=stateroom",
     "date_created": "2026-09-30"
+  },
+  {
+    "date": "2027-02-25",
+    "artist": "BIG D & THE KIDS TABLE",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/sfsemnwws5dmbjxhviesqsb6ze",
+    "date_created": "2026-10-29"
   },
   {
     "date": "2027-02-26",
@@ -4662,6 +4646,14 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10289/fia",
     "date_created": "2026-03-07"
+  },
+  {
+    "date": "2027-03-06",
+    "artist": "Penelope Road",
+    "venue": "metro music hall - all ages",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/japkdfe2indg5koqs2lxtnmk3q",
+    "date_created": "2026-10-29"
   },
   {
     "date": "2027-03-06",
@@ -5422,6 +5414,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/meekpq6hyfau7ozxlao6chvhxu",
     "date_created": "2026-05-17"
+  },
+  {
+    "date": "2027-05-16",
+    "artist": "DIIV",
+    "venue": "metro music hall - 21+",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/csrosi4lcfbxnaps4vvbkzjq6m",
+    "date_created": "2026-10-29"
   },
   {
     "date": "2027-05-16",
