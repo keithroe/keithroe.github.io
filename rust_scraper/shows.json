@@ -1,117 +1,5 @@
 [
   {
-    "date": "2026-10-29",
-    "artist": "Country Ramble",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/country-ramble1531.html",
-    "date_created": "2026-09-21"
-  },
-  {
-    "date": "2026-10-29",
-    "artist": "Hauntology",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/tv5a7murhjhf7mxdsp6apikh44",
-    "date_created": "2026-10-10"
-  },
-  {
-    "date": "2026-10-29",
-    "artist": "Kirk Dath & The Bruisers",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/ciwwtezambhtnda4bypiy2wazi",
-    "date_created": "2026-10-13"
-  },
-  {
-    "date": "2026-10-29",
-    "artist": "LAST Album Release - With Gracemaker & Rothko Chapel",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/last-album-release-with-gracemaker-rothko-chapel/",
-    "date_created": "2026-09-06"
-  },
-  {
-    "date": "2026-10-29",
-    "artist": "LAST Album Release – With Gracemaker & Rothko Chapel",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/last-album-release-with-gracemaker-rothko-chapel/",
-    "date_created": "2026-09-05"
-  },
-  {
-    "date": "2026-10-29",
-    "artist": "LAUNDRY DAY: The Time of Your Life Tour",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/154262",
-    "date_created": "2025-10-30"
-  },
-  {
-    "date": "2026-10-29",
-    "artist": "Low Light Halloween Market",
-    "venue": "the commonwealth room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1567434/low-light-market-tickets?skin=stateroom",
-    "date_created": "2026-08-14"
-  },
-  {
-    "date": "2026-10-29",
-    "artist": "Savannah Dexter",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://skeletix.com/4763-savannah-dexter-damage-control-tour-liqu/",
-    "date_created": "2026-08-14"
-  },
-  {
-    "date": "2026-10-29",
-    "artist": "Sunfish Halloween",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10564/sunfishhalloween",
-    "date_created": "2026-09-25"
-  },
-  {
-    "date": "2026-10-29",
-    "artist": "Taylor Bickett",
-    "venue": "the pearl on main",
-    "city": "midvale",
-    "url": "https://www.24tix.com/events/6q5w6wqgvfc2paqqas6gkp7tvm",
-    "date_created": "2026-05-10"
-  },
-  {
-    "date": "2026-10-29",
-    "artist": "The 3rd Annual Monster Bash",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/7scv6yisxrd3xgmjvyzeoxem2m",
-    "date_created": "2026-09-29"
-  },
-  {
-    "date": "2026-10-29",
-    "artist": "The Smashing Pumpkins",
-    "venue": "delta center",
-    "city": "slc",
-    "url": "https://www.deltacenter.com/events/smashing-pumpkins/",
-    "date_created": "2026-05-20"
-  },
-  {
-    "date": "2026-10-29",
-    "artist": "Zack Fox",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1502854/zack-fox-tickets",
-    "date_created": "2026-06-26"
-  },
-  {
-    "date": "2026-10-29",
-    "artist": "she's green",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/jwynpayaufd4pbiviggkfhcb2a",
-    "date_created": "2026-07-15"
-  },
-  {
     "date": "2026-10-30",
     "artist": "BLITZKID",
     "venue": "the pearl on main",
@@ -721,6 +609,14 @@
   },
   {
     "date": "2026-11-05",
+    "artist": "Sliding",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/reggae-thursday1544.html",
+    "date_created": "2026-10-30"
+  },
+  {
+    "date": "2026-11-05",
     "artist": "Sparta",
     "venue": "the urban lounge",
     "city": "slc",
@@ -758,6 +654,14 @@
     "city": "slc",
     "url": "https://www.live-at-the-eccles.com/events/alex-boye",
     "date_created": "2026-09-04"
+  },
+  {
+    "date": "2026-11-06",
+    "artist": "Beach Fossils (DJ Set)",
+    "venue": "blue gene's",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/accjh37ncjbwfl2cojfp4smtay",
+    "date_created": "2026-10-30"
   },
   {
     "date": "2026-11-06",
@@ -6078,5 +5982,13 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10480/waterparks",
     "date_created": "2026-10-28"
+  },
+  {
+    "date": "2027-10-29",
+    "artist": "Sunfish Halloween",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10564/sunfishhalloween",
+    "date_created": "2026-10-30"
   }
 ]
