@@ -1,85 +1,5 @@
 [
   {
-    "date": "2026-11-02",
-    "artist": "Ax and the Hatchetmen: The Late Checkout Tour 2026",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/yaftyaqnvfdwrc3uanh7clnf2m",
-    "date_created": "2026-05-20"
-  },
-  {
-    "date": "2026-11-02",
-    "artist": "Chaparelle",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/863076/chaparelle-tickets?skin=stateroom",
-    "date_created": "2026-04-28"
-  },
-  {
-    "date": "2026-11-02",
-    "artist": "Chelo – El Adios de Una Grande",
-    "venue": "maverik center",
-    "city": "west valley",
-    "url": "https://www.ticketmaster.com/chelo-el-adios-de-una-grande-west-valley-city-utah-11-02-2025/event/1E006267A97A2706",
-    "date_created": "2026-02-28"
-  },
-  {
-    "date": "2026-11-02",
-    "artist": "Cormae",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/fng2snjsirbojja7hvwcnqqf24",
-    "date_created": "2026-08-25"
-  },
-  {
-    "date": "2026-11-02",
-    "artist": "Francis of Delirium",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/izsij2xacngsdho3xjikirvmcu",
-    "date_created": "2026-04-27"
-  },
-  {
-    "date": "2026-11-02",
-    "artist": "Joy Oladokun",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1536727/joy-oladokun-tickets",
-    "date_created": "2026-07-28"
-  },
-  {
-    "date": "2026-11-02",
-    "artist": "Knocked Loose & Denzel Curry",
-    "venue": "the union",
-    "city": "slc",
-    "url": "https://theunioneventcenter.com/upcomingevents/knocked-loose",
-    "date_created": "2026-05-29"
-  },
-  {
-    "date": "2026-11-02",
-    "artist": "RESCHEDULED | Chaparelle",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/863076/chaparelle-tickets?skin=stateroom",
-    "date_created": "2026-02-28"
-  },
-  {
-    "date": "2026-11-02",
-    "artist": "The Tallest Man On Earth",
-    "venue": "the commonwealth room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1461593/the-tallest-man-on-earth-tickets?skin=stateroom",
-    "date_created": "2026-05-28"
-  },
-  {
-    "date": "2026-11-02",
-    "artist": "The Wldlfe",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/195158",
-    "date_created": "2026-06-24"
-  },
-  {
     "date": "2026-11-03",
     "artist": "Drew Kaluna",
     "venue": "the urban lounge",
@@ -394,9 +314,9 @@
   {
     "date": "2026-11-06",
     "artist": "Rolling Together Revue: Donavon Frankenreiter + The Band Of Heathens",
-    "venue": "the complex",
+    "venue": "soundwell",
     "city": "slc",
-    "url": "https://www.thecomplexslc.com/event-3015.htm",
+    "url": "https://www.eventliveus.com/event/10591/donavonfrankenreiterthebandofheathens",
     "date_created": "2026-07-28"
   },
   {
@@ -950,6 +870,14 @@
     "city": "slc",
     "url": "https://aceshighsaloon.com/event/dead-boys/",
     "date_created": "2026-09-05"
+  },
+  {
+    "date": "2026-11-13",
+    "artist": "Don Omar",
+    "venue": "delta center",
+    "city": "slc",
+    "url": "https://www.deltacenter.com/events/don-omar/",
+    "date_created": "2026-11-03"
   },
   {
     "date": "2026-11-13",
@@ -2425,6 +2353,14 @@
   },
   {
     "date": "2026-12-05",
+    "artist": "Gizzmas: a King Gizzard & the Lizard Wizard tribute event",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/4hoehptw7verdbjri5gifbskf4",
+    "date_created": "2026-11-03"
+  },
+  {
+    "date": "2026-12-05",
     "artist": "Holo Holo Music Festival",
     "venue": "maverik center",
     "city": "west valley",
@@ -3030,6 +2966,14 @@
     "city": "slc",
     "url": "https://liquidjoes.ticketsauce.com/e/oingo-boingo-former-members-dec20",
     "date_created": "2026-09-25"
+  },
+  {
+    "date": "2026-12-21",
+    "artist": "Misdemeanor",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/gfwlwqyr5be27ckkkh5y2tbbdu",
+    "date_created": "2026-11-03"
   },
   {
     "date": "2026-12-22",
@@ -3976,6 +3920,14 @@
     "date_created": "2026-10-22"
   },
   {
+    "date": "2027-02-18",
+    "artist": "Jordan Jensen: The Wet Hug Tour",
+    "venue": "the depot",
+    "city": "slc",
+    "url": "https://www.ticketmaster.com/jordan-jensen-the-wet-hug-tour-salt-lake-city-utah-02-18-2027/event/1E00655DC9FC7E73",
+    "date_created": "2026-11-03"
+  },
+  {
     "date": "2027-02-19",
     "artist": "Aubory Bugg",
     "venue": "kilby court",
@@ -4721,6 +4673,14 @@
   },
   {
     "date": "2027-04-09",
+    "artist": "Boy Throb",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1681864/boy-throb-tickets",
+    "date_created": "2026-11-03"
+  },
+  {
+    "date": "2027-04-09",
     "artist": "Jarv x RDGLDGRN",
     "venue": "soundwell",
     "city": "slc",
@@ -4968,6 +4928,14 @@
     "date_created": "2026-10-03"
   },
   {
+    "date": "2027-05-06",
+    "artist": "Panchiko",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1680079/panchiko-tickets",
+    "date_created": "2026-11-03"
+  },
+  {
     "date": "2027-05-07",
     "artist": "CG5 Presents: The GAMER Tour",
     "venue": "the complex",
@@ -5182,6 +5150,14 @@
     "city": "slc",
     "url": "https://www.ticketmaster.com/the-airborne-toxic-event-salt-lake-city-utah-06-09-2027/event/1E0064A7A5C59E52",
     "date_created": "2026-07-28"
+  },
+  {
+    "date": "2027-06-11",
+    "artist": "Utah Blues Festival 2027",
+    "venue": "other rooms",
+    "city": "slc?",
+    "url": "https://www.utahbluesfest.org/#buy-tickets",
+    "date_created": "2026-11-03"
   },
   {
     "date": "2027-06-13",
@@ -5726,5 +5702,13 @@
     "city": "slc",
     "url": "https://tixr.com/e/209475",
     "date_created": "2026-11-01"
+  },
+  {
+    "date": "2027-11-02",
+    "artist": "The Wldlfe",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/195158",
+    "date_created": "2026-11-03"
   }
 ]
