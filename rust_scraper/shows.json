@@ -1,61 +1,5 @@
 [
   {
-    "date": "2026-11-04",
-    "artist": "Billy Rogan",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/billy-rogan1558.html",
-    "date_created": "2026-10-28"
-  },
-  {
-    "date": "2026-11-04",
-    "artist": "Every Single Time",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/hgl2zdri65g6lnc3lt5qws525i",
-    "date_created": "2026-09-15"
-  },
-  {
-    "date": "2026-11-04",
-    "artist": "Jen Howard",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/jen-howard/",
-    "date_created": "2026-09-05"
-  },
-  {
-    "date": "2026-11-04",
-    "artist": "LILYISTHATYOU",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/3ynt3wp4grbwtigh5rrxza7ghy",
-    "date_created": "2026-04-30"
-  },
-  {
-    "date": "2026-11-04",
-    "artist": "Soul Dye",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/hxxlhcdepbbr3euw3oqitzpcxq",
-    "date_created": "2026-10-07"
-  },
-  {
-    "date": "2026-11-04",
-    "artist": "Thee Sinseers",
-    "venue": "the commonwealth room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1441076/thee-sinseers-tickets?skin=stateroom",
-    "date_created": "2026-05-17"
-  },
-  {
-    "date": "2026-11-04",
-    "artist": "Two Runner",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1524019/two-runner-tickets?skin=stateroom",
-    "date_created": "2026-07-15"
-  },
-  {
     "date": "2026-11-05",
     "artist": "ALIX PEREZ: NORTH AMERICAN TOUR",
     "venue": "soundwell",
@@ -1014,6 +958,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/rhifl22xufgpdhaz5go3py2fva",
     "date_created": "2026-06-10"
+  },
+  {
+    "date": "2026-11-14",
+    "artist": "Old School Party",
+    "venue": "liquid joes",
+    "city": "slc",
+    "url": "https://liquidjoes.ticketsauce.com/e/old-school-party",
+    "date_created": "2026-11-05"
   },
   {
     "date": "2026-11-14",
@@ -3912,6 +3864,14 @@
     "date_created": "2026-02-16"
   },
   {
+    "date": "2027-02-15",
+    "artist": "Where's West?",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/sbkc2brntncalgsdp57d5hgk2y",
+    "date_created": "2026-11-05"
+  },
+  {
     "date": "2027-02-16",
     "artist": "BELLA POARCH",
     "venue": "kilby court",
@@ -4086,6 +4046,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1642508/layton-giordani-tickets",
     "date_created": "2026-10-07"
+  },
+  {
+    "date": "2027-02-26",
+    "artist": "Powerplant",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/e6cq6gjpfbettdvsxyvolmtzae",
+    "date_created": "2026-11-05"
   },
   {
     "date": "2027-02-26",
@@ -4553,6 +4521,14 @@
   },
   {
     "date": "2027-03-23",
+    "artist": "Akira Yamaoka",
+    "venue": "the depot",
+    "city": "slc",
+    "url": "https://www.ticketmaster.com/akira-yamaoka-salt-lake-city-utah-03-23-2027/event/1E006563BDD54698",
+    "date_created": "2026-11-05"
+  },
+  {
+    "date": "2027-03-23",
     "artist": "Dogpark",
     "venue": "metro music hall - all ages",
     "city": "slc",
@@ -4808,12 +4784,28 @@
     "date_created": "2026-10-28"
   },
   {
+    "date": "2027-04-14",
+    "artist": "The Chats US TOUR",
+    "venue": "the depot",
+    "city": "slc",
+    "url": "https://www.ticketmaster.com/the-chats-us-tour-salt-lake-city-utah-04-14-2027/event/1E00655C061FBD47",
+    "date_created": "2026-11-05"
+  },
+  {
     "date": "2027-04-17",
     "artist": "Jo Koy",
     "venue": "eccles theater",
     "city": "slc",
     "url": "/ https://www.live-at-the-eccles.com/events/jo-koy",
     "date_created": "2026-09-15"
+  },
+  {
+    "date": "2027-04-17",
+    "artist": "LSDREAM",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1686631/lsdream-tickets",
+    "date_created": "2026-11-05"
   },
   {
     "date": "2027-04-17",
@@ -4830,6 +4822,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/tkdh3ucvqbd77gpjsdfsr7squa",
     "date_created": "2026-11-04"
+  },
+  {
+    "date": "2027-04-18",
+    "artist": "Rec Hall",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/y5ikyfoyhngwhembt2huzyned4",
+    "date_created": "2026-11-05"
   },
   {
     "date": "2027-04-20",
@@ -4873,11 +4873,27 @@
   },
   {
     "date": "2027-04-24",
+    "artist": "TWRP",
+    "venue": "the urban lounge",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/srdjdeddtzcqpobr2ty5kmbgzm",
+    "date_created": "2026-11-05"
+  },
+  {
+    "date": "2027-04-24",
     "artist": "The Interrupters",
     "venue": "the union",
     "city": "slc",
     "url": "https://theunioneventcenter.com/upcomingevents/theinterrupters",
     "date_created": "2026-09-23"
+  },
+  {
+    "date": "2027-04-24",
+    "artist": "The Palms",
+    "venue": "the state room",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1688790/the-palms-tickets?skin=stateroom",
+    "date_created": "2026-11-05"
   },
   {
     "date": "2027-04-25",
@@ -5150,6 +5166,22 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1644932/john-splithoff-tickets?skin=stateroom",
     "date_created": "2026-10-14"
+  },
+  {
+    "date": "2027-05-24",
+    "artist": "Angus & Julia Stone",
+    "venue": "ogden amphitheater",
+    "city": "ogden",
+    "url": "https://www.24tix.com/events/f36uxuhbbvaz3jhajfrauknnsq",
+    "date_created": "2026-11-05"
+  },
+  {
+    "date": "2027-05-24",
+    "artist": "Ogden Twilight 2027 Season Ticket Packages",
+    "venue": "ogden amphitheater",
+    "city": "ogden",
+    "url": "https://www.24tix.com/events/aywhfsn7dbbqfdqbgezraf3d6y",
+    "date_created": "2026-11-05"
   },
   {
     "date": "2027-05-26",
