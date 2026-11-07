@@ -1,125 +1,5 @@
 [
   {
-    "date": "2026-11-06",
-    "artist": "Alex Boye",
-    "venue": "eccles theater",
-    "city": "slc",
-    "url": "https://www.live-at-the-eccles.com/events/alex-boye",
-    "date_created": "2026-09-04"
-  },
-  {
-    "date": "2026-11-06",
-    "artist": "Beach Fossils (DJ Set)",
-    "venue": "blue gene's",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/accjh37ncjbwfl2cojfp4smtay",
-    "date_created": "2026-10-30"
-  },
-  {
-    "date": "2026-11-06",
-    "artist": "Columbia Jones",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/columbia-jones1547.html",
-    "date_created": "2026-10-17"
-  },
-  {
-    "date": "2026-11-06",
-    "artist": "Donavon Frankenreiter X The Band of Heathens",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1537181/donavon-frankenreiter-x-the-band-of-heathens-tickets",
-    "date_created": "2026-09-05"
-  },
-  {
-    "date": "2026-11-06",
-    "artist": "Grover",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/wqws2jjcwfbfzmvja6utqyh54y",
-    "date_created": "2026-10-06"
-  },
-  {
-    "date": "2026-11-06",
-    "artist": "High Priest LV",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://liquidjoes.ticketsauce.com/e/high-priest-lv",
-    "date_created": "2026-10-21"
-  },
-  {
-    "date": "2026-11-06",
-    "artist": "Jessica Audiffred",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1497612/jessica-audiffred-tickets",
-    "date_created": "2026-06-24"
-  },
-  {
-    "date": "2026-11-06",
-    "artist": "MARIS",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/iqvsjhkhgnbgnhpasdovh5bvja",
-    "date_created": "2026-05-29"
-  },
-  {
-    "date": "2026-11-06",
-    "artist": "OFF THE RECORD",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/tdjdsdcctrhn7jlgrrbwumw3b4",
-    "date_created": "2026-11-04"
-  },
-  {
-    "date": "2026-11-06",
-    "artist": "Rolling Together Revue: Donavon Frankenreiter + The Band Of Heathens",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10591/donavonfrankenreiterthebandofheathens",
-    "date_created": "2026-07-28"
-  },
-  {
-    "date": "2026-11-06",
-    "artist": "Slothrust",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/uznxvctoi5dnbjzlm44oqahdxm",
-    "date_created": "2026-06-24"
-  },
-  {
-    "date": "2026-11-06",
-    "artist": "THE EMO NIGHT TOUR",
-    "venue": "metro music hall - 21+",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/o5sycvnkivgk7itwuiqktctgoq",
-    "date_created": "2026-09-18"
-  },
-  {
-    "date": "2026-11-06",
-    "artist": "The Happy Return",
-    "venue": "velour live music gallery",
-    "city": "provo",
-    "url": "https://www.24tix.com/events/hm37cslxsrgybmrs7zlbcnoqtu",
-    "date_created": "2026-10-07"
-  },
-  {
-    "date": "2026-11-06",
-    "artist": "Vincent Draper and The Culls",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1613173/vincent-draper-and-the-culls-tickets?skin=stateroom",
-    "date_created": "2026-09-18"
-  },
-  {
-    "date": "2026-11-06",
-    "artist": "Whales: Dangerous Waters Tour",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10453/whales",
-    "date_created": "2026-07-02"
-  },
-  {
     "date": "2026-11-07",
     "artist": "2slimey",
     "venue": "soundwell",
@@ -1497,6 +1377,14 @@
   },
   {
     "date": "2026-11-21",
+    "artist": "Up to Something, Frick, & This Place Sucks",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/up-to-something-frick-this-place-sucks/",
+    "date_created": "2026-11-07"
+  },
+  {
+    "date": "2026-11-21",
     "artist": "almost monday",
     "venue": "the complex",
     "city": "slc",
@@ -2073,6 +1961,14 @@
   },
   {
     "date": "2026-12-04",
+    "artist": "Among Wolves, Necrowolf, & Wart",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/among-wolves-necrowolf-wart/",
+    "date_created": "2026-11-07"
+  },
+  {
+    "date": "2026-12-04",
     "artist": "Bryan Andrews",
     "venue": "the commonwealth room",
     "city": "slc",
@@ -2353,6 +2249,14 @@
   },
   {
     "date": "2026-12-09",
+    "artist": "Ancient Entities, Debrider, & Simian",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/ancient-entities-debrider-simian/",
+    "date_created": "2026-11-07"
+  },
+  {
+    "date": "2026-12-09",
     "artist": "DragonForce: Inhuman Rampage 20th Anniversary",
     "venue": "the depot",
     "city": "slc",
@@ -2505,6 +2409,14 @@
   },
   {
     "date": "2026-12-12",
+    "artist": "12 Bands of Christmas",
+    "venue": "the urban lounge",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/7yhovd42ere7rn5zqkwbjgqjeq",
+    "date_created": "2026-11-07"
+  },
+  {
+    "date": "2026-12-12",
     "artist": "BINGO LOCO",
     "venue": "the union",
     "city": "slc",
@@ -2622,6 +2534,14 @@
     "city": "west valley",
     "url": "https://www.ticketmaster.com/lindsey-stirling-the-snow-waltz-tour-west-valley-city-utah-12-15-2026/event/1E006513AAA6B04D?utm_source=ubs_arenawebsite&utm_medium=organic_web&utm_campaign=ubs_events_calendar",
     "date_created": "2026-08-25"
+  },
+  {
+    "date": "2026-12-15",
+    "artist": "Velnias",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/velnias/",
+    "date_created": "2026-11-07"
   },
   {
     "date": "2026-12-16",
@@ -2742,6 +2662,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1655379/funky-bluesy-christmas-show-tickets?skin=stateroom",
     "date_created": "2026-10-14"
+  },
+  {
+    "date": "2026-12-19",
+    "artist": "Captain Daniels & The Sunnybrook Sailors, Real Villains, Feral!Cat?Red!, & Gout",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/captain-daniels-the-sunnybrook-sailors-real-villains-feralcatred-gout/",
+    "date_created": "2026-11-07"
   },
   {
     "date": "2026-12-19",
@@ -2968,6 +2896,14 @@
     "date_created": "2026-10-25"
   },
   {
+    "date": "2027-01-06",
+    "artist": "Conjurer, Armed For Apocalypse, RILE, & GOUT",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/conjurer-armed-for-apocalypse-rile/",
+    "date_created": "2026-11-07"
+  },
+  {
     "date": "2027-01-07",
     "artist": "Championship Pairs Short Program",
     "venue": "maverik center",
@@ -3064,6 +3000,14 @@
     "date_created": "2026-10-13"
   },
   {
+    "date": "2027-01-09",
+    "artist": "Madame Savage & The Unaffected",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/madame-savage-the-unaffected/",
+    "date_created": "2026-11-07"
+  },
+  {
     "date": "2027-01-10",
     "artist": "Championship Men’s Free Skate / Awards",
     "venue": "maverik center",
@@ -3126,6 +3070,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/w6t6vd325re65jcdejsekt6vw4",
     "date_created": "2026-10-29"
+  },
+  {
+    "date": "2027-01-14",
+    "artist": "Hell’s Belles & Joannzig",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/hells-belles-joannzig/",
+    "date_created": "2026-11-07"
   },
   {
     "date": "2027-01-14",
@@ -3713,6 +3665,14 @@
   },
   {
     "date": "2027-02-13",
+    "artist": "SOFTEST HARD B2B CAPOZZI",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10598/softesthardb2bcapozzi",
+    "date_created": "2026-11-07"
+  },
+  {
+    "date": "2027-02-13",
     "artist": "SOLD OUT: Khamari – To Dry a Tear: Part II",
     "venue": "soundwell",
     "city": "slc",
@@ -3968,6 +3928,14 @@
     "date_created": "2026-10-02"
   },
   {
+    "date": "2027-02-27",
+    "artist": "The Swinging Lights",
+    "venue": "the urban lounge",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/4z66zyot2jbm5gzxshtsezzrve",
+    "date_created": "2026-11-07"
+  },
+  {
     "date": "2027-02-28",
     "artist": "DENM",
     "venue": "soundwell",
@@ -4142,6 +4110,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/77rrmnyix5bbjhlpzd277lo3fu",
     "date_created": "2026-11-04"
+  },
+  {
+    "date": "2027-03-07",
+    "artist": "[DATE CHANGED] Lissie",
+    "venue": "the state room",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1575396/lissie-tickets?skin=stateroom",
+    "date_created": "2026-11-07"
   },
   {
     "date": "2027-03-08",
@@ -4518,6 +4494,14 @@
     "city": "slc",
     "url": "https://www.ticketmaster.com/four-year-strong-rise-or-die-salt-lake-city-utah-04-01-2027/event/1E00654EB8798575",
     "date_created": "2026-10-21"
+  },
+  {
+    "date": "2027-04-02",
+    "artist": "FEID",
+    "venue": "delta center",
+    "city": "slc",
+    "url": "https://www.deltacenter.com/events/feid/",
+    "date_created": "2026-11-07"
   },
   {
     "date": "2027-04-02",
@@ -4968,6 +4952,14 @@
     "date_created": "2026-10-31"
   },
   {
+    "date": "2027-05-12",
+    "artist": "Midnight Generation",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1690554/midnight-generation-tickets",
+    "date_created": "2026-11-07"
+  },
+  {
     "date": "2027-05-13",
     "artist": "Our Last Night",
     "venue": "the complex",
@@ -5408,6 +5400,14 @@
     "date_created": "2026-09-12"
   },
   {
+    "date": "2027-09-11",
+    "artist": "Kings of Leon",
+    "venue": "utah first",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/kings-of-leon-west-valley-city-utah-09-11-2027/event/1E006563EC6968C8",
+    "date_created": "2026-11-07"
+  },
+  {
     "date": "2027-09-12",
     "artist": "camoufly",
     "venue": "soundwell",
@@ -5726,5 +5726,21 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10523",
     "date_created": "2026-11-06"
+  },
+  {
+    "date": "2027-11-06",
+    "artist": "Rolling Together Revue: Donavon Frankenreiter + The Band Of Heathens",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10591/donavonfrankenreiterthebandofheathens",
+    "date_created": "2026-11-07"
+  },
+  {
+    "date": "2027-11-06",
+    "artist": "Whales: Dangerous Waters Tour",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10453/whales",
+    "date_created": "2026-11-07"
   }
 ]
