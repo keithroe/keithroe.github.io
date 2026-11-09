@@ -1,85 +1,5 @@
 [
   {
-    "date": "2026-11-08",
-    "artist": "20 Years of Nekrogoblikon with Special Guests Aborted",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/20-years-of-nekrogoblikon-with-special-salt-lake-city-utah-11-08-2026/event/1E0064C2B380E18B",
-    "date_created": "2026-06-10"
-  },
-  {
-    "date": "2026-11-08",
-    "artist": "2slimey",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10563/2slimey",
-    "date_created": "2026-10-01"
-  },
-  {
-    "date": "2026-11-08",
-    "artist": "8Turn",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1566087/8turn-tickets",
-    "date_created": "2026-09-05"
-  },
-  {
-    "date": "2026-11-08",
-    "artist": "Improvement Movement",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/qtzrobwcsbfjva4fsxhfn3fnzu",
-    "date_created": "2026-07-15"
-  },
-  {
-    "date": "2026-11-08",
-    "artist": "KARAOKE",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/hnauba5jpbfxvkq2ohccbpfsl4",
-    "date_created": "2026-11-04"
-  },
-  {
-    "date": "2026-11-08",
-    "artist": "Lissie",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1575396/lissie-tickets?skin=stateroom",
-    "date_created": "2026-08-20"
-  },
-  {
-    "date": "2026-11-08",
-    "artist": "Oso Oso",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/x3xffwyrqvhalhuic6h6d27o44",
-    "date_created": "2026-08-20"
-  },
-  {
-    "date": "2026-11-08",
-    "artist": "Pentatonix: Christmas in the City Tour",
-    "venue": "maverik center",
-    "city": "west valley",
-    "url": "https://www.ticketmaster.com/pentatonix-christmas-in-the-city-tour-west-valley-city-utah-11-08-2025/event/1E00630CBF693174",
-    "date_created": "2026-02-28"
-  },
-  {
-    "date": "2026-11-08",
-    "artist": "Sex Mex",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/dhfcrorejrbrno7n64hhkckr6m",
-    "date_created": "2026-07-30"
-  },
-  {
-    "date": "2026-11-08",
-    "artist": "Tank & The Bangas",
-    "venue": "the commonwealth room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1378792/tank-and-the-bangas-tickets?skin=stateroom",
-    "date_created": "2026-03-20"
-  },
-  {
     "date": "2026-11-09",
     "artist": "After",
     "venue": "metro music hall - all ages",
@@ -1918,6 +1838,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1602547/jstjr-tickets",
     "date_created": "2026-09-11"
+  },
+  {
+    "date": "2026-12-05",
+    "artist": "Jake Edwin \"Album Release\"",
+    "venue": "velour live music gallery",
+    "city": "provo",
+    "url": "https://www.24tix.com/events/h7r576hpo5aexhq67uac34xsaq",
+    "date_created": "2026-11-09"
   },
   {
     "date": "2026-12-05",
@@ -5598,5 +5526,13 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10561/hvdes",
     "date_created": "2026-11-08"
+  },
+  {
+    "date": "2027-11-08",
+    "artist": "2slimey",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10563/2slimey",
+    "date_created": "2026-11-09"
   }
 ]
