@@ -1,77 +1,5 @@
 [
   {
-    "date": "2026-11-12",
-    "artist": "DJ MYGUY",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/if7aclgfdfhyjj3arktbeazxei",
-    "date_created": "2026-11-11"
-  },
-  {
-    "date": "2026-11-12",
-    "artist": "Eivør",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/bsojnl5cdvcpnhnvdimzk4alai",
-    "date_created": "2026-04-30"
-  },
-  {
-    "date": "2026-11-12",
-    "artist": "Glass Generation",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/bdr5jzz7dvec3pw2bxewnwfiqa",
-    "date_created": "2026-10-10"
-  },
-  {
-    "date": "2026-11-12",
-    "artist": "Gully Boys",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/ft2j3mvx25cqvlhaljqv4luadq",
-    "date_created": "2026-07-10"
-  },
-  {
-    "date": "2026-11-12",
-    "artist": "Jonah Kagen Night 2",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1667300/jonah-kagen-tickets?skin=stateroom",
-    "date_created": "2026-10-20"
-  },
-  {
-    "date": "2026-11-12",
-    "artist": "Kabaka Pyramid",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10553/kabakapyramid",
-    "date_created": "2026-09-18"
-  },
-  {
-    "date": "2026-11-12",
-    "artist": "NINETIES LIVE!!!",
-    "venue": "velour live music gallery",
-    "city": "provo",
-    "url": "https://www.24tix.com/events/c33n4chnhbef7j4zi5dxnybde4",
-    "date_created": "2026-10-10"
-  },
-  {
-    "date": "2026-11-12",
-    "artist": "Six Foot Blonde",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/lwpbov3gsvbz5nwdxdokuoeplm",
-    "date_created": "2026-06-22"
-  },
-  {
-    "date": "2026-11-12",
-    "artist": "The Beach Party Tour Featuring Otis Julius",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://liquidjoes.ticketsauce.com/e/the-beach-party-tour-featuring-otis-julius",
-    "date_created": "2026-10-07"
-  },
-  {
     "date": "2026-11-13",
     "artist": "Bayonne - The ‘Filters’ Tour",
     "venue": "kilby court",
@@ -1208,6 +1136,14 @@
     "date_created": "2026-09-03"
   },
   {
+    "date": "2026-11-25",
+    "artist": "Valhalla",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/jtni5vvzqvd5xobcbrmqiish3y",
+    "date_created": "2026-11-13"
+  },
+  {
     "date": "2026-11-26",
     "artist": "Soundwell Friendsgiving with Nils Hoffmann",
     "venue": "soundwell",
@@ -1497,6 +1433,14 @@
   },
   {
     "date": "2026-12-01",
+    "artist": "Jon O Radio",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/jon-o-radio1563.html",
+    "date_created": "2026-11-13"
+  },
+  {
+    "date": "2026-12-01",
     "artist": "Ladrones",
     "venue": "the urban lounge",
     "city": "slc",
@@ -1518,6 +1462,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/154462",
     "date_created": "2025-12-02"
+  },
+  {
+    "date": "2026-12-02",
+    "artist": "Bryant Adair - Solo",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/bryant-adair-solo1560.html",
+    "date_created": "2026-11-13"
   },
   {
     "date": "2026-12-02",
@@ -1566,6 +1518,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/3fro4oivzfdchgw3clbgycxtuq",
     "date_created": "2026-08-19"
+  },
+  {
+    "date": "2026-12-03",
+    "artist": "CAMO",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/ged3dj4kunf2pia5l34pmnomou",
+    "date_created": "2026-11-13"
   },
   {
     "date": "2026-12-03",
@@ -1665,6 +1625,14 @@
   },
   {
     "date": "2026-12-04",
+    "artist": "Fat Paw",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/fat-paw1564.html",
+    "date_created": "2026-11-13"
+  },
+  {
+    "date": "2026-12-04",
     "artist": "Over Under",
     "venue": "metro music hall - all ages",
     "city": "slc",
@@ -1710,6 +1678,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/194974",
     "date_created": "2026-06-22"
+  },
+  {
+    "date": "2026-12-05",
+    "artist": "Aaron Golay and the Original Sin",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/aaron-golay-and-the-original-sin1565.html",
+    "date_created": "2026-11-13"
   },
   {
     "date": "2026-12-05",
@@ -2001,6 +1977,14 @@
   },
   {
     "date": "2026-12-09",
+    "artist": "Max Steele",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/max-steele1566.html",
+    "date_created": "2026-11-13"
+  },
+  {
+    "date": "2026-12-09",
     "artist": "Salt Lake City Stars vs. Santa Cruz Warriors",
     "venue": "maverik center",
     "city": "west valley",
@@ -2030,6 +2014,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1603067/3ballmty-tickets",
     "date_created": "2026-09-11"
+  },
+  {
+    "date": "2026-12-10",
+    "artist": "Bad Air Radio",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/bad-air-radio1567.html",
+    "date_created": "2026-11-13"
   },
   {
     "date": "2026-12-10",
@@ -2065,6 +2057,14 @@
   },
   {
     "date": "2026-12-10",
+    "artist": "Talk Show! The Musical",
+    "venue": "the urban lounge",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/opfkbbp3zjfhripjvuj5gitdwa",
+    "date_created": "2026-11-13"
+  },
+  {
+    "date": "2026-12-10",
     "artist": "The Kilans",
     "venue": "metro music hall - all ages",
     "city": "slc",
@@ -2094,6 +2094,14 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10536/ripe",
     "date_created": "2026-08-27"
+  },
+  {
+    "date": "2026-12-11",
+    "artist": "Stonefed",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/stonefed1568.html",
+    "date_created": "2026-11-13"
   },
   {
     "date": "2026-12-11",
@@ -2169,6 +2177,14 @@
   },
   {
     "date": "2026-12-12",
+    "artist": "Mobius.Wave",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/mobius.wave1569.html",
+    "date_created": "2026-11-13"
+  },
+  {
+    "date": "2026-12-12",
     "artist": "Prikfest 3 X-Mas Massacre",
     "venue": "aces high",
     "city": "slc",
@@ -2241,6 +2257,14 @@
   },
   {
     "date": "2026-12-15",
+    "artist": "Christmas Carols with Mitokandrea",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/christmas-carols-with-mitokandrea1570.html",
+    "date_created": "2026-11-13"
+  },
+  {
+    "date": "2026-12-15",
     "artist": "Lindsey Stirling – The Snow Waltz Tour",
     "venue": "maverik center",
     "city": "west valley",
@@ -2296,6 +2320,14 @@
     "date_created": "2026-09-23"
   },
   {
+    "date": "2026-12-16",
+    "artist": "TJ Gurn",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/tj-gurn1572.html",
+    "date_created": "2026-11-13"
+  },
+  {
     "date": "2026-12-17",
     "artist": "A Benefit Show for the Rape Recovery Center",
     "venue": "the dlc at quarters",
@@ -2310,6 +2342,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/qifznz7p6nf4pcewghrfbln2k4",
     "date_created": "2026-09-03"
+  },
+  {
+    "date": "2026-12-17",
+    "artist": "Reggae Thursday",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/rgt2612.html",
+    "date_created": "2026-11-13"
   },
   {
     "date": "2026-12-17",
@@ -2361,6 +2401,14 @@
   },
   {
     "date": "2026-12-18",
+    "artist": "Triggers & Slips",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/triggers-and-slips1573.html",
+    "date_created": "2026-11-13"
+  },
+  {
+    "date": "2026-12-18",
     "artist": "Unholy Cabaret",
     "venue": "metro music hall - 21+",
     "city": "slc",
@@ -2374,6 +2422,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1655379/funky-bluesy-christmas-show-tickets?skin=stateroom",
     "date_created": "2026-10-14"
+  },
+  {
+    "date": "2026-12-19",
+    "artist": "Badfeather",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/badfeather1574.html",
+    "date_created": "2026-11-13"
   },
   {
     "date": "2026-12-19",
@@ -2472,6 +2528,22 @@
     "date_created": "2026-10-07"
   },
   {
+    "date": "2026-12-23",
+    "artist": "Rick Gerber",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/rick-gerber1575.html",
+    "date_created": "2026-11-13"
+  },
+  {
+    "date": "2026-12-26",
+    "artist": "LionFish",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/lionfish1576.html",
+    "date_created": "2026-11-13"
+  },
+  {
     "date": "2026-12-26",
     "artist": "Mannheim Steamroller Christmas",
     "venue": "eccles theater",
@@ -2513,11 +2585,27 @@
   },
   {
     "date": "2026-12-30",
+    "artist": "Country Ramble",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/country-ramble2612.html",
+    "date_created": "2026-11-13"
+  },
+  {
+    "date": "2026-12-30",
     "artist": "ISOxo: SLC NYE 12/30",
     "venue": "the complex",
     "city": "slc",
     "url": "https://www.axs.com/events/1629384/isoxo-slc-nye-1230-tickets",
     "date_created": "2026-09-30"
+  },
+  {
+    "date": "2026-12-30",
+    "artist": "Mall Security",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/r5ncoxqpizc5rhubklvsr3exvy",
+    "date_created": "2026-11-13"
   },
   {
     "date": "2026-12-31",
@@ -4312,6 +4400,14 @@
     "date_created": "2026-10-27"
   },
   {
+    "date": "2027-03-23",
+    "artist": "Noga Erez",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1698153/noga-erez-tickets",
+    "date_created": "2026-11-13"
+  },
+  {
     "date": "2027-03-24",
     "artist": "Games We Play",
     "venue": "metro music hall - all ages",
@@ -5782,5 +5878,13 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10563/2slimey",
     "date_created": "2026-11-09"
+  },
+  {
+    "date": "2027-11-12",
+    "artist": "Kabaka Pyramid",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10553/kabakapyramid",
+    "date_created": "2026-11-13"
   }
 ]
