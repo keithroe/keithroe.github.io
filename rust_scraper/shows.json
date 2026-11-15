@@ -1,333 +1,5 @@
 [
   {
-    "date": "2026-11-13",
-    "artist": "Bayonne - The ‘Filters’ Tour",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/de5v564xbbctjbhdg3hnv24chq",
-    "date_created": "2026-04-16"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "Bobby Guard",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/k4nxaslxcze3vbptls32nqyv5i",
-    "date_created": "2026-10-07"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "Brandon Lake Ticket + Hotel Deals",
-    "venue": "maverik center",
-    "city": "west valley",
-    "url": "https://travel.ticketmaster.com/tm-event/1E00627FBBD7340C?_uid=ac74da7d-8f54-4d50-8b7e-dbdb135f1d70&utm_source=TPR_BrandonLake&utm_medium=TM_ADP_1113",
-    "date_created": "2026-02-28"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "Brandon Lake – King of Hearts Tour",
-    "venue": "maverik center",
-    "city": "west valley",
-    "url": "https://www.ticketmaster.com/brandon-lake-king-of-hearts-tour-west-valley-city-utah-11-13-2025/event/1E00627FBBD7340C",
-    "date_created": "2026-02-28"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "CARDINAL BLOOM",
-    "venue": "velour live music gallery",
-    "city": "provo",
-    "url": "https://www.24tix.com/events/b2bc5rpea5fifhptagovmmp7m4",
-    "date_created": "2026-10-15"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "Dead Boys",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/dead-boys/",
-    "date_created": "2026-07-07"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "Dead Boys & Powerbeer",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/dead-boys/",
-    "date_created": "2026-07-14"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "Dead Boys, Powerbeer, & The Adjusters",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/dead-boys/",
-    "date_created": "2026-09-05"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "Don Omar",
-    "venue": "delta center",
-    "city": "slc",
-    "url": "https://www.deltacenter.com/events/don-omar/",
-    "date_created": "2026-11-03"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "Frankie J",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://tixr.com/e/199964",
-    "date_created": "2026-07-25"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "Friday The 13th at Liquid Joes",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://liquidjoes.ticketsauce.com/e/friday-the-13th-at-liquid-joes",
-    "date_created": "2026-10-07"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "GWAR",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1423193/gwar-tickets",
-    "date_created": "2026-04-30"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "Gimme Gimme Disco (18+)",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/gimme-gimme-disco-18-salt-lake-city-utah-11-13-2026/event/1E00653DFA595BF8",
-    "date_created": "2026-10-02"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "Gordon Greenwood & the Hurt",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/gordon-greenwood-and-the-hurt1549.html",
-    "date_created": "2026-10-17"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "KILLER DWARFS",
-    "venue": "leatherheads sports bar",
-    "city": "draper",
-    "url": "https://www.24tix.com/events/sm5kenfokbf3pnpz2ilfcninhi",
-    "date_created": "2026-09-18"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "Kirk Dath and The Bruisers",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1641294/kirk-dath-and-the-bruiser-tickets?skin=stateroom",
-    "date_created": "2026-10-06"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "Lenny And Cyntax",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/ldufoozxb5g3rowyt2lrtv4yky",
-    "date_created": "2026-11-11"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "Lucy Bedroque",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1559144/lucy-bedroque-tickets",
-    "date_created": "2026-09-05"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "P.S. Destroy This, Molotovin, Rotten Boy, & Willoh",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/p-s-destroy-this-molotovin-rotten-boy-willoh/",
-    "date_created": "2026-11-01"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "POSTPONED – Don Omar",
-    "venue": "delta center",
-    "city": "slc",
-    "url": "https://www.deltacenter.com/events/don-omar/",
-    "date_created": "2026-11-11"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "Squirrel Flower",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/epl7cocdqvfolggqb2gnjn2vie",
-    "date_created": "2026-05-13"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "The Black Angels",
-    "venue": "metro music hall - 21+",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/nwjpt4gvgnedhi2x3oedhm3vrm",
-    "date_created": "2026-04-16"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "Trash Moon Hootenanny",
-    "venue": "the commonwealth room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1592113/trash-moon-hootenanny-tickets?skin=stateroom",
-    "date_created": "2026-09-03"
-  },
-  {
-    "date": "2026-11-13",
-    "artist": "Waterson",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/i5myqk6defggtgngntewsqgep4",
-    "date_created": "2026-09-18"
-  },
-  {
-    "date": "2026-11-14",
-    "artist": "4EV3R FEST 2026 featuring: 4she",
-    "venue": "the pearl on main",
-    "city": "midvale",
-    "url": "https://www.24tix.com/events/jjs6anztcjatlhwiio7c3pvfsy",
-    "date_created": "2026-08-26"
-  },
-  {
-    "date": "2026-11-14",
-    "artist": "Agriculture",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/xz6zcziq2zefvgzlqn72vzcaq4",
-    "date_created": "2026-07-02"
-  },
-  {
-    "date": "2026-11-14",
-    "artist": "Amtrac (Live Set)",
-    "venue": "soundwell",
-    "city": "slc",
-    "url": "https://www.eventliveus.com/event/10496/amtrac",
-    "date_created": "2026-08-20"
-  },
-  {
-    "date": "2026-11-14",
-    "artist": "BINGO LOCO",
-    "venue": "the union",
-    "city": "slc",
-    "url": "https://theunioneventcenter.com/upcomingevents/novemberbingo",
-    "date_created": "2026-09-11"
-  },
-  {
-    "date": "2026-11-14",
-    "artist": "Blood Star & Folk Hogan",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/blood-star-folk-hogan/",
-    "date_created": "2026-11-01"
-  },
-  {
-    "date": "2026-11-14",
-    "artist": "Dogs on Shady Lane + Slow Caves",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/sivg4z7iibhkhf4nkqbxudejdm",
-    "date_created": "2026-10-21"
-  },
-  {
-    "date": "2026-11-14",
-    "artist": "Julian Lage Quartet",
-    "venue": "the commonwealth room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1455609/julian-lage-quartet-tickets?skin=stateroom",
-    "date_created": "2026-05-28"
-  },
-  {
-    "date": "2026-11-14",
-    "artist": "Legends",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1579139/legends-tickets",
-    "date_created": "2026-09-05"
-  },
-  {
-    "date": "2026-11-14",
-    "artist": "MADDIE ZAHM",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/rhifl22xufgpdhaz5go3py2fva",
-    "date_created": "2026-06-10"
-  },
-  {
-    "date": "2026-11-14",
-    "artist": "Old School Party",
-    "venue": "liquid joes",
-    "city": "slc",
-    "url": "https://liquidjoes.ticketsauce.com/e/old-school-party",
-    "date_created": "2026-11-05"
-  },
-  {
-    "date": "2026-11-14",
-    "artist": "Petty Theft",
-    "venue": "the state room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1516744/petty-theft-tickets?skin=stateroom",
-    "date_created": "2026-07-15"
-  },
-  {
-    "date": "2026-11-14",
-    "artist": "Pretty Sick",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/6zuz7knsyvcepjr6v7k2heo5qm",
-    "date_created": "2026-08-14"
-  },
-  {
-    "date": "2026-11-14",
-    "artist": "ROCK FIGHT! Nickelback vs Creed",
-    "venue": "the depot",
-    "city": "slc",
-    "url": "https://www.ticketmaster.com/rock-fight-nickelback-vs-creed-salt-lake-city-utah-11-14-2026/event/1E006530B25D7C07",
-    "date_created": "2026-09-22"
-  },
-  {
-    "date": "2026-11-14",
-    "artist": "SOUNDS BY ETHAN",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/6a5zmkavzzfozbqvykvqsu5crm",
-    "date_created": "2026-11-11"
-  },
-  {
-    "date": "2026-11-14",
-    "artist": "Stonefed",
-    "venue": "hog wallow",
-    "city": "cottonwood",
-    "url": "https://thehogwallow.com/music/live/stonefed1550.html",
-    "date_created": "2026-10-17"
-  },
-  {
-    "date": "2026-11-14",
-    "artist": "Sweet Tangerine",
-    "venue": "velour live music gallery",
-    "city": "provo",
-    "url": "https://www.24tix.com/events/ikktp6enhnhzld6sd4dguk4vwi",
-    "date_created": "2026-09-25"
-  },
-  {
-    "date": "2026-11-14",
-    "artist": "Whethan (360 SHOW)",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1462884/whethan-360-show-tickets",
-    "date_created": "2026-05-28"
-  },
-  {
     "date": "2026-11-15",
     "artist": "Ben Rector",
     "venue": "delta center",
@@ -686,6 +358,14 @@
     "city": "slc",
     "url": "https://theunioneventcenter.com/upcomingevents/underoath",
     "date_created": "2026-06-10"
+  },
+  {
+    "date": "2026-11-20",
+    "artist": "Cal Cook, Johnnie Kapua, Saade, and Owen Uffens",
+    "venue": "the garden place at this is the place",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/7hai2aw5zzezdnnixspo3auqn4",
+    "date_created": "2026-11-15"
   },
   {
     "date": "2026-11-20",
@@ -1126,6 +806,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/canl56vvdbffbolzf72quoxs3i",
     "date_created": "2026-10-17"
+  },
+  {
+    "date": "2026-11-25",
+    "artist": "Roll The Bones and Dirt Cheap",
+    "venue": "liquid joes",
+    "city": "slc",
+    "url": "https://liquidjoes.ticketsauce.com/e/roll-the-bones-and-dirt-cheap",
+    "date_created": "2026-11-15"
   },
   {
     "date": "2026-11-25",
@@ -1625,6 +1313,14 @@
   },
   {
     "date": "2026-12-04",
+    "artist": "FERVOR PRESENTS: SILK COLLECTIVE",
+    "venue": "the urban lounge",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/kfnbzzwkfzawfmrqv7tyim33vu",
+    "date_created": "2026-11-15"
+  },
+  {
+    "date": "2026-12-04",
     "artist": "Fat Paw",
     "venue": "hog wallow",
     "city": "cottonwood",
@@ -2089,6 +1785,14 @@
   },
   {
     "date": "2026-12-11",
+    "artist": "Grupo Kolai",
+    "venue": "liquid joes",
+    "city": "slc",
+    "url": "https://liquidjoes.ticketsauce.com/e/groupo-kolai",
+    "date_created": "2026-11-15"
+  },
+  {
+    "date": "2026-12-11",
     "artist": "Ripe: Play The Game Fall Tour 2026",
     "venue": "soundwell",
     "city": "slc",
@@ -2102,6 +1806,14 @@
     "city": "cottonwood",
     "url": "https://thehogwallow.com/music/live/stonefed1568.html",
     "date_created": "2026-11-13"
+  },
+  {
+    "date": "2026-12-11",
+    "artist": "Talk Show! The Musical",
+    "venue": "the urban lounge",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/opfkbbp3zjfhripjvuj5gitdwa",
+    "date_created": "2026-11-15"
   },
   {
     "date": "2026-12-11",
@@ -2913,6 +2625,14 @@
   },
   {
     "date": "2027-01-14",
+    "artist": "Hell's Belles & Joannzig",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/hells-belles-joannzig/",
+    "date_created": "2026-11-15"
+  },
+  {
+    "date": "2027-01-14",
     "artist": "Hell’s Belles & Joannzig",
     "venue": "aces high",
     "city": "slc",
@@ -3222,6 +2942,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1655384/dogs-in-a-pile-tickets?skin=stateroom",
     "date_created": "2026-10-14"
+  },
+  {
+    "date": "2027-01-29",
+    "artist": "Dumb Nathan Fielder Rave",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1704346/dumb-nathan-fielder-rave-tickets",
+    "date_created": "2026-11-15"
   },
   {
     "date": "2027-01-29",
@@ -3750,6 +3478,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/170840",
     "date_created": "2026-02-21"
+  },
+  {
+    "date": "2027-02-20",
+    "artist": "Wyatt Lowe",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/4ycp3bdcs5bgpmtewdgn54wb3y",
+    "date_created": "2026-11-15"
   },
   {
     "date": "2027-02-21",
@@ -4569,6 +4305,14 @@
   },
   {
     "date": "2027-04-04",
+    "artist": "Jeffrey Martin",
+    "venue": "the urban lounge",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/7a47k47zzjgf3gl76wekblco7q",
+    "date_created": "2026-11-15"
+  },
+  {
+    "date": "2027-04-04",
     "artist": "Wild Pink",
     "venue": "kilby court",
     "city": "slc",
@@ -4928,6 +4672,14 @@
     "date_created": "2026-11-11"
   },
   {
+    "date": "2027-04-30",
+    "artist": "Sullivan King (4/30)",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1698285/sullivan-king-430-tickets",
+    "date_created": "2026-11-15"
+  },
+  {
     "date": "2027-05-01",
     "artist": "Mei Semones",
     "venue": "kilby court",
@@ -4950,6 +4702,14 @@
     "city": "slc",
     "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-salt-lake-city-utah-05-01-2027/event/1E006555DB7595DA",
     "date_created": "2026-11-06"
+  },
+  {
+    "date": "2027-05-01",
+    "artist": "Sullivan King (5/01)",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1698287/sullivan-king-501-tickets",
+    "date_created": "2026-11-15"
   },
   {
     "date": "2027-05-02",
@@ -5886,5 +5646,13 @@
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10553/kabakapyramid",
     "date_created": "2026-11-13"
+  },
+  {
+    "date": "2027-11-14",
+    "artist": "Amtrac (Live Set)",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10496/amtrac",
+    "date_created": "2026-11-15"
   }
 ]
