@@ -1,61 +1,5 @@
 [
   {
-    "date": "2026-11-15",
-    "artist": "Ben Rector",
-    "venue": "delta center",
-    "city": "slc",
-    "url": "https://www.deltacenter.com/events/ben-rector/",
-    "date_created": "2025-11-18"
-  },
-  {
-    "date": "2026-11-15",
-    "artist": "Dev Lemons",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/cjxczh67kzgfjntkr2ykrr43du",
-    "date_created": "2026-07-15"
-  },
-  {
-    "date": "2026-11-15",
-    "artist": "Nick Sefakis",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/iugfaq6bdjd4jicrmfayv4fm4a",
-    "date_created": "2026-09-11"
-  },
-  {
-    "date": "2026-11-15",
-    "artist": "SRSQ and MS. BOAN - A Sexy World Is Possible",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/g7yy33i4pzdcxjbuwuiwackqty",
-    "date_created": "2026-10-21"
-  },
-  {
-    "date": "2026-11-15",
-    "artist": "Singer-Songwriter Night",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/pmuhslm2wrd6tepjivlhrxa264",
-    "date_created": "2026-10-06"
-  },
-  {
-    "date": "2026-11-15",
-    "artist": "Surely Tempo",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/ksdvqdhoxjfmvl7nkzqjoand54",
-    "date_created": "2026-07-23"
-  },
-  {
-    "date": "2026-11-15",
-    "artist": "Thundercat",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1518422/thundercat-tickets",
-    "date_created": "2026-07-15"
-  },
-  {
     "date": "2026-11-16",
     "artist": "Calico",
     "venue": "kilby court",
@@ -945,6 +889,14 @@
   },
   {
     "date": "2026-11-28",
+    "artist": "Irony Man",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/irony-man-3/",
+    "date_created": "2026-11-16"
+  },
+  {
+    "date": "2026-11-28",
     "artist": "Jimmy Failla",
     "venue": "the complex",
     "city": "slc",
@@ -1745,6 +1697,14 @@
   },
   {
     "date": "2026-12-10",
+    "artist": "Rambunctious",
+    "venue": "hog wallow",
+    "city": "cottonwood",
+    "url": "https://thehogwallow.com/music/live/rambunctious1580.html",
+    "date_created": "2026-11-16"
+  },
+  {
+    "date": "2026-12-10",
     "artist": "Robber Robber",
     "venue": "international bar",
     "city": "slc",
@@ -1992,6 +1952,14 @@
     "date_created": "2026-11-07"
   },
   {
+    "date": "2026-12-15",
+    "artist": "Velnias, Room, & Burial Site",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/velnias/",
+    "date_created": "2026-11-16"
+  },
+  {
     "date": "2026-12-16",
     "artist": "Buffalo Traffic Jam",
     "venue": "the complex",
@@ -2209,6 +2177,14 @@
   },
   {
     "date": "2026-12-21",
+    "artist": "Aces Employee Appreciation (CLOSED)",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/aces-employee-appreciation-closed/",
+    "date_created": "2026-11-16"
+  },
+  {
+    "date": "2026-12-21",
     "artist": "Misdemeanor",
     "venue": "kilby court",
     "city": "slc",
@@ -2246,6 +2222,22 @@
     "city": "cottonwood",
     "url": "https://thehogwallow.com/music/live/rick-gerber1575.html",
     "date_created": "2026-11-13"
+  },
+  {
+    "date": "2026-12-24",
+    "artist": "Christmas Eve (OPEN)",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/christmas-eve-open/",
+    "date_created": "2026-11-16"
+  },
+  {
+    "date": "2026-12-25",
+    "artist": "Christmas Day (OPEN)",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/christmas-day-open/",
+    "date_created": "2026-11-16"
   },
   {
     "date": "2026-12-26",
@@ -2982,6 +2974,14 @@
     "city": "slc",
     "url": "https://aceshighsaloon.com/event/angry-samoans/",
     "date_created": "2026-09-21"
+  },
+  {
+    "date": "2027-01-30",
+    "artist": "Angry Samoans, Power Beer, & The X’d",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/angry-samoans/",
+    "date_created": "2026-11-16"
   },
   {
     "date": "2027-01-30",
