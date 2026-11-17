@@ -1,69 +1,5 @@
 [
   {
-    "date": "2026-11-16",
-    "artist": "Calico",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/cy3vxmuafvborovcsvfejxi6em",
-    "date_created": "2026-08-14"
-  },
-  {
-    "date": "2026-11-16",
-    "artist": "Funeral Witchery, Alghoul, & Mormon Tabernacle Fire",
-    "venue": "aces high",
-    "city": "slc",
-    "url": "https://aceshighsaloon.com/event/funeral-witchery-alghoul-mormon-tabernacle-fire/",
-    "date_created": "2026-10-25"
-  },
-  {
-    "date": "2026-11-16",
-    "artist": "Ivy Avenue",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/slzkn6lw6vcd3h3th73nfmqanm",
-    "date_created": "2026-10-07"
-  },
-  {
-    "date": "2026-11-16",
-    "artist": "Jill Whit",
-    "venue": "the commonwealth room",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1659844/jill-whit-tickets?skin=stateroom",
-    "date_created": "2026-10-14"
-  },
-  {
-    "date": "2026-11-16",
-    "artist": "Room",
-    "venue": "the dlc at quarters",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/o62apagrurahdcarxald4n7pye",
-    "date_created": "2026-10-29"
-  },
-  {
-    "date": "2026-11-16",
-    "artist": "Vansire",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/xozvi73t75aqlftk47ttv3uqki",
-    "date_created": "2026-07-28"
-  },
-  {
-    "date": "2026-11-16",
-    "artist": "Weathers",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/6nj56lw675gada4ozfbshgpkc4",
-    "date_created": "2026-10-06"
-  },
-  {
-    "date": "2026-11-16",
-    "artist": "glass egg, Jilll Whit, Josaleigh Pollett",
-    "venue": "SEE EVENT LISTING",
-    "city": "slc",
-    "url": "https://www.hyphaproductions.com/events/glass-egg-jilll-whit-josaleigh-pollett",
-    "date_created": "2026-10-24"
-  },
-  {
     "date": "2026-11-17",
     "artist": "Alex Cameron",
     "venue": "the urban lounge",
@@ -633,6 +569,14 @@
   },
   {
     "date": "2026-11-22",
+    "artist": "Karaoke",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/c3zinsc22bfjxnxt5p5ru4s7jm",
+    "date_created": "2026-11-17"
+  },
+  {
+    "date": "2026-11-22",
     "artist": "PRAYERS",
     "venue": "the urban lounge",
     "city": "slc",
@@ -686,6 +630,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1566312/clara-la-san-tickets",
     "date_created": "2026-09-05"
+  },
+  {
+    "date": "2026-11-24",
+    "artist": "DOOM LOUNGE",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/mdejkixpmjekrdjompfrrv3hry",
+    "date_created": "2026-11-17"
   },
   {
     "date": "2026-11-24",
@@ -782,6 +734,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/151990",
     "date_created": "2025-11-27"
+  },
+  {
+    "date": "2026-11-26",
+    "artist": "Thanksgiving Karaoke",
+    "venue": "international bar",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/bs6uyzqe3zaiphzudx3yeplf7i",
+    "date_created": "2026-11-17"
   },
   {
     "date": "2026-11-27",
@@ -1297,6 +1257,14 @@
   },
   {
     "date": "2026-12-04",
+    "artist": "SOLD OUT: YAELOKRE",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://tixr.com/e/194974",
+    "date_created": "2026-11-17"
+  },
+  {
+    "date": "2026-12-04",
     "artist": "Thoughts on Bowling",
     "venue": "kilby court",
     "city": "slc",
@@ -1785,6 +1753,14 @@
   },
   {
     "date": "2026-12-11",
+    "artist": "The Galaxxy Band - Christmas Cabaret",
+    "venue": "metro music hall - 21+",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/r4roratvdbcj3lkum4ebtykb64",
+    "date_created": "2026-11-17"
+  },
+  {
+    "date": "2026-12-11",
     "artist": "The Meteors",
     "venue": "aces high",
     "city": "slc",
@@ -2038,6 +2014,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/racngrlihfbvllnfuma6h3byv4",
     "date_created": "2026-11-04"
+  },
+  {
+    "date": "2026-12-17",
+    "artist": "The Galaxxy Band - Christmas Cabaret",
+    "venue": "metro music hall - 21+",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/racngrlihfbvllnfuma6h3byv4",
+    "date_created": "2026-11-17"
   },
   {
     "date": "2026-12-17",
@@ -2617,6 +2601,14 @@
   },
   {
     "date": "2027-01-14",
+    "artist": "CAYSN",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/ffbeqr6cejdebcpk35hm4x5cgy",
+    "date_created": "2026-11-17"
+  },
+  {
+    "date": "2027-01-14",
     "artist": "Hell's Belles & Joannzig",
     "venue": "aces high",
     "city": "slc",
@@ -3102,6 +3094,14 @@
     "city": "slc",
     "url": "https://my.arttix.org/overview/40097/",
     "date_created": "2026-06-24"
+  },
+  {
+    "date": "2027-02-04",
+    "artist": "KITT",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/7oq32csglncx3mcpv557bgikyy",
+    "date_created": "2026-11-17"
   },
   {
     "date": "2027-02-04",
@@ -3601,11 +3601,27 @@
   },
   {
     "date": "2027-02-27",
+    "artist": "Supersonic Oasis Tribute",
+    "venue": "the complex",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1700865/supersonic-oasis-tribute-tickets",
+    "date_created": "2026-11-17"
+  },
+  {
+    "date": "2027-02-27",
     "artist": "The Swinging Lights",
     "venue": "the urban lounge",
     "city": "slc",
     "url": "https://www.24tix.com/events/4z66zyot2jbm5gzxshtsezzrve",
     "date_created": "2026-11-07"
+  },
+  {
+    "date": "2027-02-28",
+    "artist": "Amira Elfeky: It Was Only A Dream Tour",
+    "venue": "metro music hall - all ages",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/ifmhxrdddrc33kkqyccb4ksrgy",
+    "date_created": "2026-11-17"
   },
   {
     "date": "2027-02-28",
@@ -3766,6 +3782,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/bulva4t3ojdd5dbjdvfw4iibpu",
     "date_created": "2026-09-09"
+  },
+  {
+    "date": "2027-03-06",
+    "artist": "Cursive",
+    "venue": "the urban lounge",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/ov23klp44zcnjno7tuszmxip2m",
+    "date_created": "2026-11-17"
   },
   {
     "date": "2027-03-06",
@@ -4041,6 +4065,14 @@
   },
   {
     "date": "2027-03-17",
+    "artist": "Rio Romeo",
+    "venue": "metro music hall - all ages",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/fpg7ipsnnzgv7cpccgy26ivdgm",
+    "date_created": "2026-11-17"
+  },
+  {
+    "date": "2027-03-17",
     "artist": "Temper City: Self Aware Tour",
     "venue": "kilby court",
     "city": "slc",
@@ -4110,6 +4142,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1477887/wheeler-walker-jr-tickets",
     "date_created": "2026-06-09"
+  },
+  {
+    "date": "2027-03-21",
+    "artist": "Johnnie Guilbert",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/z65mfnoevndddgd5jli2ozy6ze",
+    "date_created": "2026-11-17"
   },
   {
     "date": "2027-03-21",
@@ -4528,6 +4568,14 @@
     "date_created": "2026-10-21"
   },
   {
+    "date": "2027-04-22",
+    "artist": "VEAUX",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/sofmyrxycbewdetohlkfg4mtrm",
+    "date_created": "2026-11-17"
+  },
+  {
     "date": "2027-04-23",
     "artist": "Salt Lake City Tattoo Expo 2027",
     "venue": "salt palace convention center, exhibit hall e",
@@ -4784,12 +4832,28 @@
     "date_created": "2026-09-22"
   },
   {
+    "date": "2027-05-08",
+    "artist": "Kaitlin Butts",
+    "venue": "the state room",
+    "city": "slc",
+    "url": "https://www.axs.com/events/1702208/kaitlin-butts-tickets?skin=stateroom",
+    "date_created": "2026-11-17"
+  },
+  {
     "date": "2027-05-09",
     "artist": "Le Youth – who are you really? – Salt Lake City",
     "venue": "soundwell",
     "city": "slc",
     "url": "https://www.eventliveus.com/event/10299/le-youth-who-are-you-really-salt-lake-city",
     "date_created": "2026-05-10"
+  },
+  {
+    "date": "2027-05-09",
+    "artist": "TORI KELLY - GOD MUST REALLY LOVE ME WORLD TOUR",
+    "venue": "the depot",
+    "city": "slc",
+    "url": "https://www.ticketmaster.com/tori-kelly-god-must-really-love-salt-lake-city-utah-05-09-2027/event/1E00656CA4A9547F",
+    "date_created": "2026-11-17"
   },
   {
     "date": "2027-05-11",
@@ -4937,6 +5001,14 @@
   },
   {
     "date": "2027-05-24",
+    "artist": "Megadeth: Vaccination Of The Nations Tour",
+    "venue": "utah first",
+    "city": "west valley",
+    "url": "https://www.ticketmaster.com/megadeth-vaccination-of-the-nations-tour-west-valley-city-utah-05-24-2027/event/1E006569B5954513",
+    "date_created": "2026-11-17"
+  },
+  {
+    "date": "2027-05-24",
     "artist": "Ogden Twilight 2027 Season Ticket Packages",
     "venue": "ogden amphitheater",
     "city": "ogden",
@@ -5054,6 +5126,14 @@
     "city": "slc",
     "url": "https://tixr.com/e/191343",
     "date_created": "2026-06-14"
+  },
+  {
+    "date": "2027-06-14",
+    "artist": "Where Else Would I Go?",
+    "venue": "metro music hall - all ages",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/kzrmdwjbrvdxppa3fr7iuetdea",
+    "date_created": "2026-11-17"
   },
   {
     "date": "2027-06-15",
