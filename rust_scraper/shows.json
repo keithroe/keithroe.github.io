@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-11-22",
-    "artist": "Adelitas Way",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1548200/adelitas-way-tickets",
-    "date_created": "2026-09-05"
-  },
-  {
-    "date": "2026-11-22",
-    "artist": "Comeback Kid",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/ombyd4cvtzgtxf36bw2xpn2wdq",
-    "date_created": "2026-08-29"
-  },
-  {
-    "date": "2026-11-22",
-    "artist": "Karaoke",
-    "venue": "international bar",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/c3zinsc22bfjxnxt5p5ru4s7jm",
-    "date_created": "2026-11-17"
-  },
-  {
-    "date": "2026-11-22",
-    "artist": "PRAYERS",
-    "venue": "the urban lounge",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/mufdi5xivjcpflbxu42r27tbj4",
-    "date_created": "2026-08-07"
-  },
-  {
-    "date": "2026-11-22",
-    "artist": "Spanish Love Songs",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/zi674ntharfptc2rq46ednthky",
-    "date_created": "2026-09-11"
-  },
-  {
     "date": "2026-11-23",
     "artist": "2DEAD BOYZ x The Underachievers",
     "venue": "the complex",
@@ -2630,6 +2590,14 @@
     "city": "slc",
     "url": "https://aceshighsaloon.com/event/angry-samoans/",
     "date_created": "2026-09-21"
+  },
+  {
+    "date": "2027-01-30",
+    "artist": "Angry Samoans, Power Beer, & The X'd",
+    "venue": "aces high",
+    "city": "slc",
+    "url": "https://aceshighsaloon.com/event/angry-samoans/",
+    "date_created": "2026-11-23"
   },
   {
     "date": "2027-01-30",
