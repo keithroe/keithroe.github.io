@@ -1,37 +1,5 @@
 [
   {
-    "date": "2026-11-23",
-    "artist": "2DEAD BOYZ x The Underachievers",
-    "venue": "the complex",
-    "city": "slc",
-    "url": "https://www.axs.com/events/1608432/2dead-boyz-x-the-underachievers-tickets",
-    "date_created": "2026-09-18"
-  },
-  {
-    "date": "2026-11-23",
-    "artist": "Clarion",
-    "venue": "metro music hall - all ages",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/247t5b27z5cmvdskfuyswul5lm",
-    "date_created": "2026-07-15"
-  },
-  {
-    "date": "2026-11-23",
-    "artist": "Origami Button",
-    "venue": "the pearl on main",
-    "city": "midvale",
-    "url": "https://www.24tix.com/events/7bi6qni5irhbjgpob6eymybeni",
-    "date_created": "2026-08-27"
-  },
-  {
-    "date": "2026-11-23",
-    "artist": "SAP",
-    "venue": "kilby court",
-    "city": "slc",
-    "url": "https://www.24tix.com/events/ky7vaenpfbbajnvqglbkghslja",
-    "date_created": "2026-08-25"
-  },
-  {
     "date": "2026-11-24",
     "artist": "Clara La San",
     "venue": "the complex",
@@ -1545,6 +1513,14 @@
   },
   {
     "date": "2026-12-18",
+    "artist": "Neumonic",
+    "venue": "soundwell",
+    "city": "slc",
+    "url": "https://www.eventliveus.com/event/10632/neumonic",
+    "date_created": "2026-11-24"
+  },
+  {
+    "date": "2026-12-18",
     "artist": "Patterson Hood",
     "venue": "the state room",
     "city": "slc",
@@ -1574,6 +1550,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/ctbeafkzyzhdxoxg45jcy4ubeu",
     "date_created": "2026-10-20"
+  },
+  {
+    "date": "2026-12-19",
+    "artist": "4th Annual Holiday Show presented by Mirror Machine",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/atyk6lzpdvdurpdilfbkhzyi54",
+    "date_created": "2026-11-24"
   },
   {
     "date": "2026-12-19",
@@ -1668,7 +1652,7 @@
     "artist": "Worship: The Darkest Night",
     "venue": "church & state",
     "city": "slc",
-    "url": "https://www.24tix.com/events/yl6nmjuoj5el7l4s4uzxcb35ky",
+    "url": "https://www.24tix.com/events/jiwirbtwrvgz5pv7i2rwtxnqmu",
     "date_created": "2026-11-21"
   },
   {
@@ -1865,6 +1849,14 @@
   },
   {
     "date": "2026-12-31",
+    "artist": "New Year’s Eve Festival",
+    "venue": "delta center",
+    "city": "slc",
+    "url": "https://www.deltacenter.com/events/new-years-eve-festival-2027/",
+    "date_created": "2026-11-24"
+  },
+  {
+    "date": "2026-12-31",
     "artist": "New Year’s Eve Festival 2027",
     "venue": "delta center",
     "city": "slc",
@@ -1958,6 +1950,14 @@
     "city": "slc",
     "url": "https://aceshighsaloon.com/event/conjurer-armed-for-apocalypse-rile/",
     "date_created": "2026-11-07"
+  },
+  {
+    "date": "2027-01-06",
+    "artist": "MoonTour",
+    "venue": "kilby court",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/dasye2ce7zd43kcjcasqk3dt5i",
+    "date_created": "2026-11-24"
   },
   {
     "date": "2027-01-07",
@@ -2478,6 +2478,14 @@
     "city": "slc",
     "url": "https://www.24tix.com/events/sv5hrttadnczzg754r67mc7kiy",
     "date_created": "2026-10-20"
+  },
+  {
+    "date": "2027-01-26",
+    "artist": "Bigger Than Mountains",
+    "venue": "the dlc at quarters",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/tz3zuypq3rbi5jnm6v2h257g3m",
+    "date_created": "2026-11-24"
   },
   {
     "date": "2027-01-26",
@@ -4390,6 +4398,14 @@
     "city": "slc",
     "url": "https://www.axs.com/events/1705137/charley-crockett-tickets?skin=stateroom",
     "date_created": "2026-11-18"
+  },
+  {
+    "date": "2027-04-19",
+    "artist": "Slow Crush",
+    "venue": "metro music hall - 21+",
+    "city": "slc",
+    "url": "https://www.24tix.com/events/4yysiigmknaulho7bxtrzwxzea",
+    "date_created": "2026-11-24"
   },
   {
     "date": "2027-04-20",
